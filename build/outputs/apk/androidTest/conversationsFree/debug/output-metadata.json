@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "eu.siacs.conversations.test",
+  "variantName": "conversationsFreeDebugAndroidTest",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 0,
+      "versionName": "",
+      "outputFile": "Conversations-2.12.2-conversations-free-debug-androidTest.apk"
+    }
+  ],
+  "elementType": "File"
+}

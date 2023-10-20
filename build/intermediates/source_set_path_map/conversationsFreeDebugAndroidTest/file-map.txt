@@ -1,0 +1,5 @@
+eu.siacs.conversations.test-conversationsFree-0 /home/m/Documents/chats/191023/Conversations/build/generated/res/resValues/androidTest/conversationsFree/debug
+eu.siacs.conversations.test-conversationsFree-1 /home/m/Documents/chats/191023/Conversations/build/generated/res/rs/androidTest/conversationsFree/debug
+eu.siacs.conversations.test-mergeConversationsFreeDebugAndroidTestResources-2 /home/m/Documents/chats/191023/Conversations/build/intermediates/incremental/conversationsFreeDebugAndroidTest/mergeConversationsFreeDebugAndroidTestResources/merged.dir
+eu.siacs.conversations.test-mergeConversationsFreeDebugAndroidTestResources-3 /home/m/Documents/chats/191023/Conversations/build/intermediates/incremental/conversationsFreeDebugAndroidTest/mergeConversationsFreeDebugAndroidTestResources/stripped.dir
+eu.siacs.conversations.test-merged_res-4 /home/m/Documents/chats/191023/Conversations/build/intermediates/merged_res/conversationsFreeDebugAndroidTest

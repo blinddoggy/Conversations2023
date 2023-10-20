@@ -442,6 +442,7 @@ Marking bool:vibrate_on_notification:2131034148 reachable: referenced from /home
 Marking bool:led:2131034128 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
 Marking bool:headsup_notifications:2131034126 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
 Marking string:me:2131886612 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
+Marking plurals:x_messages:2131755021 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
 Marking bool:notifications_from_strangers:2131034132 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
 Marking drawable:ic_error_white_24dp:2131230931 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
 Marking plurals:some_messages_could_not_be_delivered:2131755017 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
@@ -720,8 +721,8 @@ Marking color:black26:2131099683 reachable: referenced from /home/m/Documents/ch
 Marking color:grey500:2131099760 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
 Marking string:private_message:2131886964 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
 Marking string:private_message_to:2131886965 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
-Marking color:white:2131100290 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
-Marking color:white70:2131100292 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
+Marking color:white:2131100291 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
+Marking color:white70:2131100293 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
 Marking color:black87:2131099685 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
 Marking color:black54:2131099684 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
 Marking id:security_indicator:2131296924 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
@@ -1134,9 +1135,9 @@ Marking string:no_role:2131886732 reachable: referenced from /home/m/Documents/c
 Marking string:bad_key_for_encryption:2131886215 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
 Marking bool:use_share_location_plugin:2131034145 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
 Marking dimen:browser_media_size:2131165275 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
-Marking color:red500:2131100265 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
-Marking color:orange500:2131100256 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
-Marking color:scan_result_dots:2131100272 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
+Marking color:red500:2131100266 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
+Marking color:orange500:2131100257 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
+Marking color:scan_result_dots:2131100273 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
 Marking dimen:scan_laser_width:2131165825 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
 Marking dimen:scan_dot_size:2131165824 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
 Marking string:username:2131887218 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
@@ -1337,6 +1338,7 @@ CONNECTION_NONE
 BrightnessValue
 TLS_SERVER_END_POINT
 YEAR
+setLayoutDirection
 android.graphics.drawable.ColorStateL...
 CountryOfCitizenship
 jabber:x:signed
@@ -1440,8 +1442,8 @@ truncated
 i
 j
 l
-cookieJar
 m
+cookieJar
 BER
 o
 fullJid
@@ -1465,6 +1467,7 @@ NSAP_PTR
 RSASHA256
 data:
 TYPES_ONLY
+propertyXName
 kwt
 PRIORITY
 labelClickable
@@ -1639,11 +1642,13 @@ getApplicationProtocol
 NameAtBirth
 translateY
 translateX
+appwidget
 startTimer
 okhttp.OkHttpClient
 setEpicenterBounds
 DOWNGRADE_ATTACK
 longitude
+repeatCount
 cpp
 com.htc.launcher.action.SET_NOTIFICATION
 reverseAnimation
@@ -1880,6 +1885,7 @@ RESERVED
 NSEC3PARAM
 pair
 Http2::class.java.name
+getLayoutDirection
 AZTEC_LAYERS
 gravity
 http://jabber.org/protocol/commands
@@ -2038,6 +2044,7 @@ Alg.Alias.Signature.2.16.840.1.101.3....
 TEA
 ltx
 1.3.36.3.2.1
+tv_input
 setImageMatrixScale
 https://b.tile.openstreetmap.org/
 Camera2Session
@@ -2197,7 +2204,9 @@ back
 title
 jid_was_modified
 SPDY_3
+mButtonDrawable
 kotlin.collections.Map
+duration
 im_protocol
 TLS
 osmdroid.DebugDownloading
@@ -2336,6 +2345,7 @@ LeadingComments
 md5
 Alg.Alias.Cipher.OID.1.2.840.113549.3.4
 RESUMED
+usb
 subject
 ABSENT
 trueCounterpart
@@ -2379,9 +2389,11 @@ UNTRUSTED
 createAudioTrack
 urn:xmpp:receipts
 org.conscrypt.Conscrypt$Version
+objectAnimator
 LambdaLast
 HEAD
 statusLine
+CompoundButtonCompat
 SubjectDistance
 action_bar_title
 TLS_RSA_WITH_AES_256_GCM_SHA384
@@ -2430,9 +2442,9 @@ HAVE_LOCAL_OFFER
 LightSource
 method.declaringClass
 activated
+RestrictedAPI
 00
 CTR
-RestrictedAPI
 application/vnd.visio
 05
 nimbuzz.com
@@ -2446,6 +2458,7 @@ int2
 int1
 dvi
 SHA224withRSA/PSS
+valueType
 org.bouncycastle.jce.provider.X509Sto...
 TRACE_TAG_APP
 BADTIME
@@ -2583,6 +2596,7 @@ KiB
 uniqueidentifier
 android.isGroupConversation
 Operations:
+DrawableDelegate
 originalRequest
 application/vnd.stardivision.math
 identityKey
@@ -2593,6 +2607,7 @@ mkv
 LS_WARNING
 ON_START
 KEY_COMPONENT_ACTIVITY_LAUNCHED_KEYS
+captioning
 filearchive
 52
 54
@@ -2616,6 +2631,7 @@ org.torproject.android.START_TOR
 xmlns:stream
 DegradationPreference
 immutable
+dropbox
 1.2.840.10045.4.3.1
 1.2.840.10045.4.3.2
 1.2.840.10045.4.3.3
@@ -2639,12 +2655,14 @@ mml
 TYPE_DOCK
 BottomSheetBehavior
 VISITOR
+textservices
 TLS_RSA_WITH_AES_128_CBC_SHA
 TLS_ECDH_RSA_WITH_3DES_EDE_CBC_SHA
 TLS_ECDH_ECDSA_WITH_3DES_EDE_CBC_SHA
 GIVENNAME
 DHE_RSA
 registry
+WrappedDrawableApi21
 BALANCED
 InflateParams
 osmdroid.gpsWaitTime
@@ -2756,6 +2774,7 @@ msh
 translationXCurveUpwards
 CODABAR
 PKCS1PADDING
+isProjected
 float
 OP_SET_MAX_LIFECYCLE
 XMSSMT_SHAKE_40/2_256
@@ -2787,6 +2806,7 @@ ERROR_CORRECTION
 androidx.core.view.inputmethod.Editor...
 muc
 SHOW_AND_FADEOUT
+AnimatedVDCompat
 X509Store.ATTRIBUTECERTIFICATE/COLLEC...
 0.9.2342.19200300.100.1.1
 Basic
@@ -2870,6 +2890,7 @@ DESEDE/CBC/NoPadding
 android.intent.extra.PROCESS_TEXT_REA...
 Chip
 GB18030
+VectorDrawableCompat
 MESSAGE
 com.google.common.base.Strings
 NAPTR
@@ -2916,6 +2937,7 @@ DL
 DN
 RKEY
 stun
+currentIndex
 TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY130...
 DS
 startColor
@@ -3106,6 +3128,7 @@ serialnumber
 MR
 HTTP_1_1
 etx
+nfc
 newInstance
 MX
 N:
@@ -3339,6 +3362,7 @@ XA
 com.anddoes.launcher
 wav
 org.bouncycastle.jcajce.provider.symm...
+launcherapps
 xhtml
 wax
 https://tiles.openseamap.org/seamark/
@@ -3491,6 +3515,7 @@ android.intent.action.PROCESS_TEXT
 Ciphertext
 org.bouncycastle.jcajce.provider.digest.
 CROP_AUTO_ZOOM_ENABLED
+user
 AlgorithmParameters.GCM
 DeviceSettingDescription
 getModule
@@ -3551,6 +3576,7 @@ video/mp4
 iconScale
 OpenSSLContextImpl
 video/webm
+ordering
 wma
 Alg.Alias.KeyGenerator.HMAC/SHA1
 %02d
@@ -3736,6 +3762,7 @@ charset
 http:
 com.asus.launcher
 subscription
+telephony_subscription_service
 enable_quiet_hours
 PlaceOfBirth
 java.util.ArrayList
@@ -3858,6 +3885,7 @@ eu.siacs.conversations.download_uuid
 po
 AutoCompleteTextView
 ALPHANUMERIC
+valueTo
 TLS_DH_anon_WITH_AES_256_CBC_SHA256
 android.support.v13.view.inputmethod....
 fast_token
@@ -3906,6 +3934,7 @@ delivery_failed
 conference
 webrtc
 ru
+activity
 rw
 INT32
 FHCRC
@@ -3923,6 +3952,7 @@ nameatbirth
 Observer
 VMPCKSA3
 LOADED_IMAGE_URI
+vector
 urn:xmpp:jingle:apps:rtp:video
 ACTION_SCROLL_TO_POSITION
 sm
@@ -3992,6 +4022,7 @@ correcting_message
 checkServerTrusted
 im_handle
 Alg.Alias.MessageDigest.SHA384
+consumer_ir
 destination
 FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF...
 aifc
@@ -4022,6 +4053,7 @@ heif
 Dispatchers.Main.immediate
 View
 X509StreamParser.CRL
+valueFrom
 MAM_1
 Extension
 MAM_0
@@ -4058,6 +4090,7 @@ getTextDirectionHeuristic
 android:savedDialogState
 com.android.providers.downloads.docum...
 oth
+wifi
 otg
 _display_name
 method
@@ -4081,6 +4114,7 @@ out
 geo
 get
 dark
+telecom
 power
 Alg.Alias.Signature.SHA256/ECDSA
 java.lang.Number
@@ -4127,6 +4161,7 @@ Axolotl
 modelViewProjectionMatrix
 android.intent.category.LAUNCHER
 calling_package
+DrawableCompat
 Serpent
 image/jpeg
 OpenSSLEvpCipherDESEDE$CBC$NoPadding
@@ -4200,6 +4235,7 @@ layout/activity_trust_keys_0
 optional
 Orientation
 OpenSSLEvpCipherAES$AES_256$ECB$PKCS5...
+keyframe
 ACTION_PRESS_AND_HOLD
 sender
 kotlinx.coroutines.DefaultExecutor
@@ -4298,6 +4334,7 @@ inFrameRateReciprocal:
 1.3.6.1.5.5.7.1.11
 setSelectedPositionInt
 osmdroid.userAgentValue
+repeatMode
 1.3.6.1.5.5.7.1.12
 DEEP_COPY_VALIDATOR_KEY
 org.bouncycastle.jce.provider.X509Sto...
@@ -4320,6 +4357,7 @@ kotlinx.coroutines.main.delay
 requestRelaunchActivity
 _delayed
 clear_missed_call_notification
+jobscheduler
 pcx
 Alg.Alias.Cipher.AES_128/CBC/PKCS7Pad...
 TRANSPORT_ACCEPT
@@ -4458,6 +4496,7 @@ Public
 nonce
 mStableInsets
 _cur
+mOverlapAnchor
 audio/mpeg
 deferredTrailers
 TRACE_ERROR
@@ -4606,6 +4645,7 @@ valueEquivalence
 REPLACE
 TYPE_FLOAT
 KeyGeneratorImpl$AES
+AvdcInflateDelegate
 blocklist
 glTexParameter
 last
@@ -4813,6 +4853,7 @@ audio/flac
 Weak
 key_ids
 unbind
+setWindowLayoutType
 TLS_1_3
 TLS_1_2
 MultiTouchController
@@ -4875,6 +4916,7 @@ VOICE_COMMUNICATION
 ViewHolder
 1.2.840.113549.1.9.16.2
 1.2.840.113549.1.9.16.1
+propertyValuesHolder
 kotlin.reflect.jvm.internal.Reflectio...
 mounted_ro
 TYPE_FM
@@ -4896,11 +4938,13 @@ tags
 SINT32
 FFFFFFFF00000001000000000000000000000...
 route
+interpolator
 layout/fragment_conversations_overview_0
 μs
 SHA256withRSA
 Alg.Alias.Cipher.PBEWithHmacSHA256And...
 SEARCHING_ACKNOWLEDGED
+media_router
 :path
 Canceled
 allocateInstance
@@ -4916,6 +4960,7 @@ COMPLETED
 layout/keys_card_0
 TLS_KRB5_EXPORT_WITH_DES_CBC_40_SHA
 Deprecated
+batterymanager
 1.3.6.1.5.5.7.3.1
 1.3.6.1.5.5.7.3.2
 SHA224
@@ -4927,6 +4972,7 @@ ENDING_CALL
 Alg.Alias.KeyGenerator.1.2.840.113549...
 urn:xmpp:jingle:errors:1
 hpp
+transition
 PDF_417
 android.os.SystemProperties
 byteStrings
@@ -5015,6 +5061,7 @@ TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA
 SCO_DISCONNECTING
 queryid
 HAVE_REMOTE_PRANSWER
+print
 $ClientProvider
 OpenSSLECKeyFactory
 com.android.documentsui.DocumentsActi...
@@ -5100,6 +5147,7 @@ trusted
 kotlin.internal.JRE8PlatformImplement...
 Alg.Alias.AlgorithmParameters.1.2.840...
 EmojiCompat.MetadataRepo.create
+AsldcInflateDelegate
 TERMINATOR
 instance
 NSID
@@ -5206,6 +5254,7 @@ CENTER
 RECONNECTING
 https://basemap.nationalmap.gov/arcgi...
 java.lang.Long
+media_session
 UPC_A
 MediaType
 Ctype
@@ -5254,6 +5303,7 @@ ResourceType
 createAudioRecordOnMOrHigher
 STREET
 application/vnd.sun.xml.writer.global
+propertyName
 osmdroid.DebugMapView
 ibr
 PropertySet
@@ -5320,6 +5370,7 @@ IDEA
 setClipToScreenEnabled
 Alg.Alias.Signature.SHA512/RSA
 XMSSMT_SHA2_60/6_512
+getMaxAvailableHeight
 summary
 0000Z
 kotlinx.coroutines.test.internal.Test...
@@ -5466,6 +5517,7 @@ OUTCAST
 replacement
 OFFLINE
 android.intent.extra.update_applicati...
+device_policy
 RESIZE_INSIDE
 ParcelCreator
 Backup
@@ -5504,6 +5556,7 @@ Signature.NONEwithRSA
 SHA256
 VideoFileRendererFileThread
 application/futuresplash
+bluetooth
 IDLE
 RSS_14
 EMBEDDED
@@ -5661,6 +5714,7 @@ layout/dialog_quickedit_0
 android.messages.historic
 TooltipPopup
 WhiteBalance
+setFrame
 android.graphics.drawable.VectorDrawable
 SenderChain
 KeyGenerator.HmacSHA384
@@ -5838,6 +5892,7 @@ kotlinx.coroutines.DefaultExecutor.ke...
 requestVPN
 org.bouncycastle.jcajce.provider.asym...
 layout/conversation_list_row_0
+servicediscovery
 and
 FrameType
 auto_accept_file_size
@@ -5849,6 +5904,7 @@ useHardcodedDnsServers
 Conscrypt
 Alg.Alias.Signature.1.3.14.3.2.29
 androidx.core.view.inputmethod.InputC...
+wallpaper
 SJIS
 2.5.4.20
 OMX.qcom.
@@ -5951,6 +6007,7 @@ android:backStackId
 LOWER_CASE_WITH_UNDERSCORES
 RecyclerView
 org.bouncycastle.asn1.allow_unsafe_in...
+animator
 .pgp
 algo
 MODERATOR
@@ -6050,6 +6107,7 @@ layout/enter_jid_dialog_0
 PURE_BARCODE
 TLS_DH_anon_WITH_AES_256_GCM_SHA384
 android.hardware.audio.pro
+VdcInflateDelegate
 DhDefaultParams
 jid
 tileMode
@@ -6063,6 +6121,7 @@ CPU_ACQUIRED
 connectivity
 END_HEADERS
 ExposureTime
+propertyYName
 InvalidNullConversion
 SFIXED64
 generation
@@ -6161,6 +6220,7 @@ CANCELLED
 REQUEST_SLI
 StartupLogger
 PUSH_PROMISE
+usagestats
 CLOSED_EMPTY
 kotlin.collections.Iterator
 res/
@@ -6207,6 +6267,7 @@ Alg.Alias.Signature.OID.1.2.840.10045...
 vibrator
 JavaGenerateEqualsAndHash
 Alg.Alias.Signature.OID.1.2.840.10045...
+PopupWindowCompatApi21
 getX
 ViewUtilsBase
 getY
@@ -6489,6 +6550,7 @@ AUDIO_TRACK_START_EXCEPTION
 CloudMadeSmallTiles
 mpga
 _size
+download
 end_call
 TLS_NULL_WITH_NULL_NULL
 android.resource://
@@ -6504,6 +6566,7 @@ level
 TLS_DHE_DSS_WITH_AES_256_CBC_SHA
 1.3.14.3.2.9
 1.3.14.3.2.8
+restrictions
 1.3.14.3.2.7
 CompressedBitsPerPixel
 1.3.14.3.2.6
@@ -6776,6 +6839,7 @@ foreground
 sisx
 STREAM_CLOSED
 sslSocketFactory
+appops
 FocalPlaneResolutionUnit
 urn:xmpp:http:upload:0
 eventListener
@@ -6818,6 +6882,7 @@ SEND_LOCATION
 VOICE_RECOGNITION
 2.5.8.1.1
 token
+fraction
 /mnt/secure
 expect
 osmdroid.cacheMapTileCount
@@ -7155,14 +7220,14 @@ Marking string:destroy_channel:2131886371 used because it matches string pool co
 Marking string:destroy_channel_dialog:2131886372 used because it matches string pool constant destroy
 Marking string:destroy_room:2131886373 used because it matches string pool constant destroy
 Marking string:destroy_room_dialog:2131886374 used because it matches string pool constant destroy
-Marking color:primary_dark_material_dark:2131100257 used because it matches string pool constant primary
-Marking color:primary_dark_material_light:2131100258 used because it matches string pool constant primary
-Marking color:primary_material_dark:2131100259 used because it matches string pool constant primary
-Marking color:primary_material_light:2131100260 used because it matches string pool constant primary
-Marking color:primary_text_default_material_dark:2131100261 used because it matches string pool constant primary
-Marking color:primary_text_default_material_light:2131100262 used because it matches string pool constant primary
-Marking color:primary_text_disabled_material_dark:2131100263 used because it matches string pool constant primary
-Marking color:primary_text_disabled_material_light:2131100264 used because it matches string pool constant primary
+Marking color:primary_dark_material_dark:2131100258 used because it matches string pool constant primary
+Marking color:primary_dark_material_light:2131100259 used because it matches string pool constant primary
+Marking color:primary_material_dark:2131100260 used because it matches string pool constant primary
+Marking color:primary_material_light:2131100261 used because it matches string pool constant primary
+Marking color:primary_text_default_material_dark:2131100262 used because it matches string pool constant primary
+Marking color:primary_text_default_material_light:2131100263 used because it matches string pool constant primary
+Marking color:primary_text_disabled_material_dark:2131100264 used because it matches string pool constant primary
+Marking color:primary_text_disabled_material_light:2131100265 used because it matches string pool constant primary
 Marking dimen:local_video_preview_height:2131165363 used because it matches string pool constant loc
 Marking dimen:local_video_preview_width:2131165364 used because it matches string pool constant loc
 Marking id:local_video:2131296687 used because it matches string pool constant loc
@@ -7292,6 +7357,8 @@ Marking string:title_pref_quiet_hours_start_time:2131887163 used because it matc
 Marking string:title_undo_swipe_out_channel:2131887164 used because it matches string pool constant title
 Marking string:title_undo_swipe_out_conversation:2131887165 used because it matches string pool constant title
 Marking string:title_undo_swipe_out_group_chat:2131887166 used because it matches string pool constant title
+Marking attr:duration:2130968967 used because it matches string pool constant duration
+Marking id:duration:2131296567 used because it matches string pool constant duration
 Marking attr:closeIconEnabled:2130968773 used because it matches string pool constant closeIconEnabled
 Marking attr:textAllCaps:2130969666 used because it matches string pool constant text
 Marking attr:textAppearanceBody1:2130969667 used because it matches string pool constant text
@@ -7793,8 +7860,8 @@ Marking string:moderated:2131886637 used because it matches string pool constant
 Marking id:direct:2131296549 used because it matches string pool constant direct
 Marking string:web_address:2131887247 used because it matches string pool constant web
 Marking bool:notifications_from_strangers:2131034132 used because it matches string pool constant notification
-Marking color:notification_action_color_filter:2131100254 used because it matches string pool constant notification
-Marking color:notification_icon_bg_color:2131100255 used because it matches string pool constant notification
+Marking color:notification_action_color_filter:2131100255 used because it matches string pool constant notification
+Marking color:notification_icon_bg_color:2131100256 used because it matches string pool constant notification
 Marking dimen:notification_action_icon_size:2131165806 used because it matches string pool constant notification
 Marking dimen:notification_action_text_size:2131165807 used because it matches string pool constant notification
 Marking dimen:notification_big_circle_margin:2131165808 used because it matches string pool constant notification
@@ -7845,6 +7912,13 @@ Marking string:notification_ringtone:2131886757 used because it matches string p
 Marking string:non_anonymous:2131886737 used because it matches string pool constant non_anonymous
 Marking id:visible:2131297075 used because it matches string pool constant visible
 Marking id:visible_removing_fragment_view_tag:2131297076 used because it matches string pool constant visible
+Marking id:username:2131297063 used because it matches string pool constant user
+Marking id:users:2131297064 used because it matches string pool constant user
+Marking id:users_wrapper:2131297065 used because it matches string pool constant user
+Marking layout:user_preview:2131493033 used because it matches string pool constant user
+Marking string:user_has_left_conference:2131887217 used because it matches string pool constant user
+Marking string:username:2131887218 used because it matches string pool constant user
+Marking string:username_hint:2131887219 used because it matches string pool constant user
 Marking id:parent:2131296827 used because it matches string pool constant parent
 Marking id:parentPanel:2131296828 used because it matches string pool constant parent
 Marking id:parentRelative:2131296829 used because it matches string pool constant parent
@@ -8272,10 +8346,10 @@ Marking string:offering:2131886762 used because it matches string pool constant 
 Marking string:offering_x_file:2131886763 used because it matches string pool constant off
 Marking string:offline:2131886764 used because it matches string pool constant off
 Marking attr:tintMode:2130969738 used because it matches string pool constant tintMode
-Marking color:secondary_text_default_material_dark:2131100276 used because it matches string pool constant second
-Marking color:secondary_text_default_material_light:2131100277 used because it matches string pool constant second
-Marking color:secondary_text_disabled_material_dark:2131100278 used because it matches string pool constant second
-Marking color:secondary_text_disabled_material_light:2131100279 used because it matches string pool constant second
+Marking color:secondary_text_default_material_dark:2131100277 used because it matches string pool constant second
+Marking color:secondary_text_default_material_light:2131100278 used because it matches string pool constant second
+Marking color:secondary_text_disabled_material_dark:2131100279 used because it matches string pool constant second
+Marking color:secondary_text_disabled_material_light:2131100280 used because it matches string pool constant second
 Marking id:secondary_fragment:2131296922 used because it matches string pool constant second
 Marking id:secondary_hint:2131296923 used because it matches string pool constant second
 Marking plurals:seconds:2131755016 used because it matches string pool constant second
@@ -8450,7 +8524,46 @@ Marking string:conference_shutdown:2131886285 used because it matches string poo
 Marking string:conference_technical_problems:2131886286 used because it matches string pool constant conference
 Marking string:conference_unknown_error:2131886287 used because it matches string pool constant conference
 Marking id:runtime:2131296888 used because it matches string pool constant ru
+Marking attr:activityChooserViewStyle:2130968624 used because it matches string pool constant activity
+Marking attr:activity_background_no_results:2130968625 used because it matches string pool constant activity
+Marking attr:activity_background_search:2130968626 used because it matches string pool constant activity
+Marking attr:activity_primary_background_no_results:2130968627 used because it matches string pool constant activity
+Marking dimen:activity_horizontal_margin:2131165265 used because it matches string pool constant activity
+Marking dimen:activity_vertical_margin:2131165266 used because it matches string pool constant activity
+Marking id:activity_chooser_view_content:2131296402 used because it matches string pool constant activity
+Marking layout:activity_about:2131492894 used because it matches string pool constant activity
+Marking layout:activity_change_password:2131492895 used because it matches string pool constant activity
+Marking layout:activity_channel_discovery:2131492896 used because it matches string pool constant activity
+Marking layout:activity_choose_contact:2131492897 used because it matches string pool constant activity
+Marking layout:activity_contact_details:2131492898 used because it matches string pool constant activity
+Marking layout:activity_conversations:2131492899 used because it matches string pool constant activity
+Marking layout:activity_easy_invite:2131492900 used because it matches string pool constant activity
+Marking layout:activity_edit_account:2131492901 used because it matches string pool constant activity
+Marking layout:activity_import_backup:2131492902 used because it matches string pool constant activity
+Marking layout:activity_manage_accounts:2131492903 used because it matches string pool constant activity
+Marking layout:activity_media_browser:2131492904 used because it matches string pool constant activity
+Marking layout:activity_muc_details:2131492905 used because it matches string pool constant activity
+Marking layout:activity_muc_users:2131492906 used because it matches string pool constant activity
+Marking layout:activity_pick_server:2131492907 used because it matches string pool constant activity
+Marking layout:activity_publish_profile_picture:2131492908 used because it matches string pool constant activity
+Marking layout:activity_recording:2131492909 used because it matches string pool constant activity
+Marking layout:activity_rtp_session:2131492910 used because it matches string pool constant activity
+Marking layout:activity_scan:2131492911 used because it matches string pool constant activity
+Marking layout:activity_search:2131492912 used because it matches string pool constant activity
+Marking layout:activity_settings:2131492913 used because it matches string pool constant activity
+Marking layout:activity_share_location:2131492914 used because it matches string pool constant activity
+Marking layout:activity_share_with:2131492915 used because it matches string pool constant activity
+Marking layout:activity_show_location:2131492916 used because it matches string pool constant activity
+Marking layout:activity_start_conversation:2131492917 used because it matches string pool constant activity
+Marking layout:activity_trust_keys:2131492918 used because it matches string pool constant activity
+Marking layout:activity_uri_handler:2131492919 used because it matches string pool constant activity
+Marking layout:activity_welcome:2131492920 used because it matches string pool constant activity
+Marking menu:activity_conversations:2131623937 used because it matches string pool constant activity
+Marking menu:activity_publish_profile_picture:2131623938 used because it matches string pool constant activity
+Marking menu:activity_rtp_session:2131623939 used because it matches string pool constant activity
+Marking menu:activity_search:2131623940 used because it matches string pool constant activity
 Marking string:offline:2131886764 used because it matches string pool constant offline
+Marking string:vector_graphic:2131887222 used because it matches string pool constant vector
 Marking string:small:2131887122 used because it matches string pool constant sm
 Marking attr:snackbarButtonStyle:2130969584 used because it matches string pool constant sn
 Marking attr:snackbarStyle:2130969585 used because it matches string pool constant sn
@@ -8599,8 +8712,8 @@ Marking attr:topInsetScrimEnabled:2130969763 used because it matches string pool
 Marking attr:touchAnchorId:2130969764 used because it matches string pool constant to
 Marking attr:touchAnchorSide:2130969765 used because it matches string pool constant to
 Marking attr:touchRegionId:2130969766 used because it matches string pool constant to
-Marking color:tooltip_background_dark:2131100288 used because it matches string pool constant to
-Marking color:tooltip_background_light:2131100289 used because it matches string pool constant to
+Marking color:tooltip_background_dark:2131100289 used because it matches string pool constant to
+Marking color:tooltip_background_light:2131100290 used because it matches string pool constant to
 Marking dimen:toolbar_elevation:2131165834 used because it matches string pool constant to
 Marking dimen:tooltip_corner_radius:2131165835 used because it matches string pool constant to
 Marking dimen:tooltip_horizontal_padding:2131165836 used because it matches string pool constant to
@@ -8631,8 +8744,8 @@ Marking id:up:2131297058 used because it matches string pool constant up
 Marking string:update:2131887211 used because it matches string pool constant up
 Marking string:updating:2131887212 used because it matches string pool constant up
 Marking attr:state_with_icon:2130969608 used because it matches string pool constant %swith%s
-Marking color:m3_navigation_bar_item_with_indicator_icon_tint:2131099814 used because it matches string pool constant %swith%s
-Marking color:m3_navigation_bar_item_with_indicator_label_tint:2131099815 used because it matches string pool constant %swith%s
+Marking color:m3_navigation_bar_item_with_indicator_icon_tint:2131099815 used because it matches string pool constant %swith%s
+Marking color:m3_navigation_bar_item_with_indicator_label_tint:2131099816 used because it matches string pool constant %swith%s
 Marking dimen:abc_action_bar_content_inset_with_nav:2131165185 used because it matches string pool constant %swith%s
 Marking dimen:m3_badge_with_text_horizontal_offset:2131165383 used because it matches string pool constant %swith%s
 Marking dimen:m3_badge_with_text_radius:2131165384 used because it matches string pool constant %swith%s
@@ -9042,6 +9155,18 @@ Marking string:account_status_unauthorized:2131886143 used because it matches st
 Marking string:account_status_unknown:2131886144 used because it matches string pool constant account
 Marking bool:notifications_from_strangers:2131034132 used because it matches string pool constant notifications_from_strangers
 Marking id:tags:2131297008 used because it matches string pool constant tags
+Marking attr:transitionDisable:2130969779 used because it matches string pool constant transition
+Marking attr:transitionEasing:2130969780 used because it matches string pool constant transition
+Marking attr:transitionFlags:2130969781 used because it matches string pool constant transition
+Marking attr:transitionPathRotate:2130969782 used because it matches string pool constant transition
+Marking attr:transitionShapeAppearance:2130969783 used because it matches string pool constant transition
+Marking id:transitionToEnd:2131297043 used because it matches string pool constant transition
+Marking id:transitionToStart:2131297044 used because it matches string pool constant transition
+Marking id:transition_current_scene:2131297045 used because it matches string pool constant transition
+Marking id:transition_layout_save:2131297046 used because it matches string pool constant transition
+Marking id:transition_position:2131297047 used because it matches string pool constant transition
+Marking id:transition_scene_layoutid_cache:2131297048 used because it matches string pool constant transition
+Marking id:transition_transform:2131297049 used because it matches string pool constant transition
 Marking attr:counterEnabled:2130968874 used because it matches string pool constant count
 Marking attr:counterMaxLength:2130968875 used because it matches string pool constant count
 Marking attr:counterOverflowTextAppearance:2130968876 used because it matches string pool constant count
@@ -9908,12 +10033,20 @@ Marking xml:automotive_app_desc:2132082688 used because it matches string pool c
 Marking attr:suffixText:2130969625 used because it matches string pool constant suffix
 Marking attr:suffixTextAppearance:2130969626 used because it matches string pool constant suffix
 Marking attr:suffixTextColor:2130969627 used because it matches string pool constant suffix
+Marking id:download_button:2131296558 used because it matches string pool constant download
+Marking id:download_file:2131296559 used because it matches string pool constant download
+Marking string:download_failed_could_not_connect:2131886394 used because it matches string pool constant download
+Marking string:download_failed_could_not_write_file:2131886395 used because it matches string pool constant download
+Marking string:download_failed_file_not_found:2131886396 used because it matches string pool constant download
+Marking string:download_failed_invalid_file:2131886397 used because it matches string pool constant download
+Marking string:download_failed_server_not_found:2131886398 used because it matches string pool constant download
+Marking string:download_x_file:2131886399 used because it matches string pool constant download
 Marking id:end_call:2131296583 used because it matches string pool constant end_call
 Marking attr:strokeColor:2130969612 used because it matches string pool constant strokeColor
 Marking string:incoming_calls_channel_name:2131886519 used because it matches string pool constant incoming_calls_channel
 Marking attr:splitTrack:2130969591 used because it matches string pool constant spl
-Marking color:splash_screen_background:2131100280 used because it matches string pool constant spl
-Marking color:splash_screen_status_bar:2131100281 used because it matches string pool constant spl
+Marking color:splash_screen_background:2131100281 used because it matches string pool constant spl
+Marking color:splash_screen_status_bar:2131100282 used because it matches string pool constant spl
 Marking drawable:splash_logo:2131231199 used because it matches string pool constant spl
 Marking id:spline:2131296969 used because it matches string pool constant spl
 Marking id:split_action_bar:2131296970 used because it matches string pool constant spl
@@ -10452,7 +10585,7 @@ Marking string:category_about:2131886247 used because it matches string pool con
 @attr/actionProviderClass : reachable=true
 @attr/actionTextColorAlpha : reachable=true
 @attr/actionViewClass : reachable=true
-@attr/activityChooserViewStyle : reachable=false
+@attr/activityChooserViewStyle : reachable=true
 @attr/activity_background_no_results : reachable=true
 @attr/activity_background_search : reachable=true
 @attr/activity_primary_background_no_results : reachable=true
@@ -10795,7 +10928,7 @@ Marking string:category_about:2131886247 used because it matches string pool con
 @attr/drawerLayoutStyle : reachable=false
 @attr/dropDownListViewStyle : reachable=true
 @attr/dropdownListPreferredItemHeight : reachable=false
-@attr/duration : reachable=false
+@attr/duration : reachable=true
 @attr/dynamicColorThemeOverlay : reachable=false
 @attr/editTextBackground : reachable=false
 @attr/editTextColor : reachable=false
@@ -11607,11 +11740,11 @@ Marking string:category_about:2131886247 used because it matches string pool con
 @attr/trackThickness : reachable=false
 @attr/trackTint : reachable=false
 @attr/trackTintMode : reachable=false
-@attr/transitionDisable : reachable=false
-@attr/transitionEasing : reachable=false
-@attr/transitionFlags : reachable=false
-@attr/transitionPathRotate : reachable=false
-@attr/transitionShapeAppearance : reachable=false
+@attr/transitionDisable : reachable=true
+@attr/transitionEasing : reachable=true
+@attr/transitionFlags : reachable=true
+@attr/transitionPathRotate : reachable=true
+@attr/transitionShapeAppearance : reachable=true
 @attr/triggerId : reachable=false
 @attr/triggerReceiver : reachable=false
 @attr/triggerSlack : reachable=false
@@ -13053,8 +13186,8 @@ Marking string:category_about:2131886247 used because it matches string pool con
 @dimen/abc_text_size_subtitle_material_toolbar : reachable=false
 @dimen/abc_text_size_title_material : reachable=false
 @dimen/abc_text_size_title_material_toolbar : reachable=false
-@dimen/activity_horizontal_margin : reachable=false
-@dimen/activity_vertical_margin : reachable=false
+@dimen/activity_horizontal_margin : reachable=true
+@dimen/activity_vertical_margin : reachable=true
 @dimen/appcompat_dialog_background_inset : reachable=false
 @dimen/audio_player_width : reachable=true
 @dimen/avatar : reachable=true
@@ -14702,7 +14835,7 @@ Marking string:category_about:2131886247 used because it matches string pool con
 @id/action_unmute : reachable=true
 @id/action_video_call : reachable=true
 @id/actions : reachable=true
-@id/activity_chooser_view_content : reachable=false
+@id/activity_chooser_view_content : reachable=true
 @id/add : reachable=true
 @id/add_contact_button : reachable=true
 @id/alertTitle : reachable=true
@@ -15343,13 +15476,13 @@ Marking string:category_about:2131886247 used because it matches string pool con
 @id/top : reachable=true
 @id/topPanel : reachable=true
 @id/touch_outside : reachable=true
-@id/transitionToEnd : reachable=false
-@id/transitionToStart : reachable=false
+@id/transitionToEnd : reachable=true
+@id/transitionToStart : reachable=true
 @id/transition_current_scene : reachable=true
-@id/transition_layout_save : reachable=false
-@id/transition_position : reachable=false
-@id/transition_scene_layoutid_cache : reachable=false
-@id/transition_transform : reachable=false
+@id/transition_layout_save : reachable=true
+@id/transition_position : reachable=true
+@id/transition_scene_layoutid_cache : reachable=true
+@id/transition_transform : reachable=true
 @id/triangle : reachable=false
 @id/trusted_source : reachable=true
 @id/txt_img_wrapper : reachable=true
@@ -16817,7 +16950,7 @@ Marking string:category_about:2131886247 used because it matches string pool con
 @plurals/toast_delete_certificates : reachable=true
 @plurals/view_users : reachable=true
 @plurals/weeks : reachable=true
-@plurals/x_messages : reachable=false
+@plurals/x_messages : reachable=true
 @plurals/x_unread_conversations : reachable=true
 @raw/countries : reachable=true
 @string/abc_action_bar_home_description : reachable=false
@@ -26646,6 +26779,7 @@ The root reachable resources are:
  attr:actionProviderClass:2130968621
  attr:actionTextColorAlpha:2130968622
  attr:actionViewClass:2130968623
+ attr:activityChooserViewStyle:2130968624
  attr:activity_background_no_results:2130968625
  attr:activity_background_search:2130968626
  attr:activity_primary_background_no_results:2130968627
@@ -26810,6 +26944,7 @@ The root reachable resources are:
  attr:drawableTintMode:2130968960
  attr:drawableTopCompat:2130968961
  attr:dropDownListViewStyle:2130968965
+ attr:duration:2130968967
  attr:editTextStyle:2130968971
  attr:elevation:2130968973
  attr:elevationOverlayAccentColor:2130968974
@@ -27329,6 +27464,11 @@ The root reachable resources are:
  attr:touchAnchorId:2130969764
  attr:touchAnchorSide:2130969765
  attr:touchRegionId:2130969766
+ attr:transitionDisable:2130969779
+ attr:transitionEasing:2130969780
+ attr:transitionFlags:2130969781
+ attr:transitionPathRotate:2130969782
+ attr:transitionShapeAppearance:2130969783
  attr:values:2130969791
  attr:verticalOffset:2130969792
  attr:verticalOffsetWithText:2130969793
@@ -27461,39 +27601,39 @@ The root reachable resources are:
  color:grey800:2131099763
  color:highlighted_text_material_dark:2131099765
  color:highlighted_text_material_light:2131099766
- color:m3_navigation_bar_item_with_indicator_icon_tint:2131099814
- color:m3_navigation_bar_item_with_indicator_label_tint:2131099815
- color:material_timepicker_clockface:2131100197
- color:mtrl_filled_background_color:2131100222
- color:mtrl_textinput_default_box_stroke_color:2131100249
- color:mtrl_textinput_disabled_color:2131100250
- color:mtrl_textinput_hovered_box_stroke_color:2131100253
- color:notification_action_color_filter:2131100254
- color:notification_icon_bg_color:2131100255
- color:orange500:2131100256
- color:primary_dark_material_dark:2131100257
- color:primary_dark_material_light:2131100258
- color:primary_material_dark:2131100259
- color:primary_material_light:2131100260
- color:primary_text_default_material_dark:2131100261
- color:primary_text_default_material_light:2131100262
- color:primary_text_disabled_material_dark:2131100263
- color:primary_text_disabled_material_light:2131100264
- color:red500:2131100265
- color:scan_result_dots:2131100272
- color:sd_label_background_color:2131100273
- color:sd_label_text_color:2131100274
- color:sd_overlay_color:2131100275
- color:secondary_text_default_material_dark:2131100276
- color:secondary_text_default_material_light:2131100277
- color:secondary_text_disabled_material_dark:2131100278
- color:secondary_text_disabled_material_light:2131100279
- color:splash_screen_background:2131100280
- color:splash_screen_status_bar:2131100281
- color:tooltip_background_dark:2131100288
- color:tooltip_background_light:2131100289
- color:white:2131100290
- color:white70:2131100292
+ color:m3_navigation_bar_item_with_indicator_icon_tint:2131099815
+ color:m3_navigation_bar_item_with_indicator_label_tint:2131099816
+ color:material_timepicker_clockface:2131100198
+ color:mtrl_filled_background_color:2131100223
+ color:mtrl_textinput_default_box_stroke_color:2131100250
+ color:mtrl_textinput_disabled_color:2131100251
+ color:mtrl_textinput_hovered_box_stroke_color:2131100254
+ color:notification_action_color_filter:2131100255
+ color:notification_icon_bg_color:2131100256
+ color:orange500:2131100257
+ color:primary_dark_material_dark:2131100258
+ color:primary_dark_material_light:2131100259
+ color:primary_material_dark:2131100260
+ color:primary_material_light:2131100261
+ color:primary_text_default_material_dark:2131100262
+ color:primary_text_default_material_light:2131100263
+ color:primary_text_disabled_material_dark:2131100264
+ color:primary_text_disabled_material_light:2131100265
+ color:red500:2131100266
+ color:scan_result_dots:2131100273
+ color:sd_label_background_color:2131100274
+ color:sd_label_text_color:2131100275
+ color:sd_overlay_color:2131100276
+ color:secondary_text_default_material_dark:2131100277
+ color:secondary_text_default_material_light:2131100278
+ color:secondary_text_disabled_material_dark:2131100279
+ color:secondary_text_disabled_material_light:2131100280
+ color:splash_screen_background:2131100281
+ color:splash_screen_status_bar:2131100282
+ color:tooltip_background_dark:2131100289
+ color:tooltip_background_light:2131100290
+ color:white:2131100291
+ color:white70:2131100293
  dimen:abc_action_bar_content_inset_with_nav:2131165185
  dimen:abc_action_bar_stacked_max_height:2131165193
  dimen:abc_action_bar_stacked_tab_max_width:2131165194
@@ -27506,6 +27646,8 @@ The root reachable resources are:
  dimen:abc_star_big:2131165243
  dimen:abc_star_medium:2131165244
  dimen:abc_star_small:2131165245
+ dimen:activity_horizontal_margin:2131165265
+ dimen:activity_vertical_margin:2131165266
  dimen:audio_player_width:2131165268
  dimen:avatar:2131165269
  dimen:avatar_item_distance:2131165270
@@ -28028,6 +28170,7 @@ The root reachable resources are:
  id:action_unmute:2131296399
  id:action_video_call:2131296400
  id:actions:2131296401
+ id:activity_chooser_view_content:2131296402
  id:add:2131296403
  id:add_contact_button:2131296404
  id:alertTitle:2131296405
@@ -28533,7 +28676,13 @@ The root reachable resources are:
  id:top:2131297040
  id:topPanel:2131297041
  id:touch_outside:2131297042
+ id:transitionToEnd:2131297043
+ id:transitionToStart:2131297044
  id:transition_current_scene:2131297045
+ id:transition_layout_save:2131297046
+ id:transition_position:2131297047
+ id:transition_scene_layoutid_cache:2131297048
+ id:transition_transform:2131297049
  id:trusted_source:2131297051
  id:txt_img_wrapper:2131297052
  id:unchecked:2131297053
@@ -28761,6 +28910,7 @@ The root reachable resources are:
  plurals:toast_delete_certificates:2131755018
  plurals:view_users:2131755019
  plurals:weeks:2131755020
+ plurals:x_messages:2131755021
  plurals:x_unread_conversations:2131755022
  raw:countries:2131820544
  string:abc_action_bar_up_description:2131886081
@@ -30012,14 +30162,39 @@ Skipped unused resource res/drawable/center.png: 2335 bytes (replaced with small
 Skipped unused resource res/drawable/es_slidingpane_shadow.xml: 463 bytes (replaced with small dummy file of size 9 bytes)
 Skipped unused resource res/drawable/grey.xml: 224 bytes (replaced with small dummy file of size 9 bytes)
 Skipped unused resource res/drawable/greybackground.xml: 239 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource res/drawable-mdpi-v4/ic_account_box_white_24dp.png: 290 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-hdpi-v4/ic_account_box_white_24dp.png: 337 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/ic_account_box_white_24dp.png: 431 bytes (replaced with small dummy file of size 67 bytes)
 Skipped unused resource res/drawable-xxhdpi-v4/ic_account_box_white_24dp.png: 578 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-xxxhdpi-v4/ic_account_box_white_24dp.png: 894 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-mdpi-v4/ic_action_cancel_launchersize.png: 1032 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-hdpi-v4/ic_action_cancel_launchersize.png: 1520 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/ic_action_cancel_launchersize.png: 1570 bytes (replaced with small dummy file of size 67 bytes)
 Skipped unused resource res/drawable-xxhdpi-v4/ic_action_cancel_launchersize.png: 2345 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-mdpi-v4/ic_action_cancel_launchersize_light.png: 1098 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-hdpi-v4/ic_action_cancel_launchersize_light.png: 1940 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/ic_action_cancel_launchersize_light.png: 2039 bytes (replaced with small dummy file of size 67 bytes)
 Skipped unused resource res/drawable-xxhdpi-v4/ic_action_cancel_launchersize_light.png: 2404 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-mdpi-v4/ic_action_reply.png: 343 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-hdpi-v4/ic_action_reply.png: 462 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/ic_action_reply.png: 561 bytes (replaced with small dummy file of size 67 bytes)
 Skipped unused resource res/drawable-xxhdpi-v4/ic_action_reply.png: 775 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-mdpi-v4/ic_block_white_24dp.png: 428 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-hdpi-v4/ic_block_white_24dp.png: 606 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/ic_block_white_24dp.png: 796 bytes (replaced with small dummy file of size 67 bytes)
 Skipped unused resource res/drawable-xxhdpi-v4/ic_block_white_24dp.png: 1194 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-xxxhdpi-v4/ic_block_white_24dp.png: 1497 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-mdpi-v4/ic_camera_alt_white_24dp.png: 240 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-hdpi-v4/ic_camera_alt_white_24dp.png: 364 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/ic_camera_alt_white_24dp.png: 446 bytes (replaced with small dummy file of size 67 bytes)
 Skipped unused resource res/drawable-xxhdpi-v4/ic_camera_alt_white_24dp.png: 666 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-xxxhdpi-v4/ic_camera_alt_white_24dp.png: 894 bytes (replaced with small dummy file of size 67 bytes)
 Skipped unused resource res/drawable/ic_clock_black_24dp.xml: 720 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource res/drawable-mdpi-v4/ic_crop_white_24dp.png: 214 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-hdpi-v4/ic_crop_white_24dp.png: 302 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/ic_crop_white_24dp.png: 272 bytes (replaced with small dummy file of size 67 bytes)
 Skipped unused resource res/drawable-xxhdpi-v4/ic_crop_white_24dp.png: 326 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-xxxhdpi-v4/ic_crop_white_24dp.png: 394 bytes (replaced with small dummy file of size 67 bytes)
 Skipped unused resource res/drawable/ic_keyboard_black_24dp.xml: 821 bytes (replaced with small dummy file of size 9 bytes)
 Skipped unused resource res/drawable/ic_launcher_foreground.xml: 2551 bytes (replaced with small dummy file of size 9 bytes)
 Skipped unused resource res/drawable/ic_m3_chip_check.xml: 737 bytes (replaced with small dummy file of size 9 bytes)
@@ -30030,21 +30205,64 @@ Skipped unused resource res/drawable/ic_menu_mapmode.png: 1923 bytes (replaced w
 Skipped unused resource res/drawable/ic_menu_mylocation.png: 5307 bytes (replaced with small dummy file of size 67 bytes)
 Skipped unused resource res/drawable/ic_menu_offline.png: 4733 bytes (replaced with small dummy file of size 67 bytes)
 Skipped unused resource res/drawable/ic_mtrl_chip_checked_black.xml: 568 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource res/drawable-mdpi-v4/ic_notifications_none_white80.png: 409 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-hdpi-v4/ic_notifications_none_white80.png: 574 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/ic_notifications_none_white80.png: 706 bytes (replaced with small dummy file of size 67 bytes)
 Skipped unused resource res/drawable-xxhdpi-v4/ic_notifications_none_white80.png: 1033 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-xxxhdpi-v4/ic_notifications_none_white80.png: 1288 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-mdpi-v4/ic_notifications_off_white80.png: 505 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-hdpi-v4/ic_notifications_off_white80.png: 762 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/ic_notifications_off_white80.png: 1014 bytes (replaced with small dummy file of size 67 bytes)
 Skipped unused resource res/drawable-xxhdpi-v4/ic_notifications_off_white80.png: 1483 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-xxxhdpi-v4/ic_notifications_off_white80.png: 1903 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-mdpi-v4/ic_notifications_paused_white80.png: 466 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-hdpi-v4/ic_notifications_paused_white80.png: 610 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/ic_notifications_paused_white80.png: 745 bytes (replaced with small dummy file of size 67 bytes)
 Skipped unused resource res/drawable-xxhdpi-v4/ic_notifications_paused_white80.png: 1049 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-xxxhdpi-v4/ic_notifications_paused_white80.png: 1308 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-mdpi-v4/ic_notifications_white80.png: 369 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-hdpi-v4/ic_notifications_white80.png: 471 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/ic_notifications_white80.png: 583 bytes (replaced with small dummy file of size 67 bytes)
 Skipped unused resource res/drawable-xxhdpi-v4/ic_notifications_white80.png: 831 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-xxxhdpi-v4/ic_notifications_white80.png: 1053 bytes (replaced with small dummy file of size 67 bytes)
 Skipped unused resource res/drawable/ic_place_black_24dp.xml: 690 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource res/drawable-mdpi-v4/ic_profile.png: 622 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-hdpi-v4/ic_profile.png: 999 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/ic_profile.png: 1374 bytes (replaced with small dummy file of size 67 bytes)
 Skipped unused resource res/drawable-xxhdpi-v4/ic_profile.png: 2137 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-mdpi-v4/ic_send_cancel_offline_dark.png: 786 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-hdpi-v4/ic_send_cancel_offline_dark.png: 1163 bytes (replaced with small dummy file of size 67 bytes)
 Skipped unused resource res/drawable-xhdpi-v4/ic_send_cancel_offline_dark.png: 1458 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-mdpi-v4/ic_send_file_offline.png: 282 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-hdpi-v4/ic_send_file_offline.png: 412 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/ic_send_file_offline.png: 429 bytes (replaced with small dummy file of size 67 bytes)
 Skipped unused resource res/drawable-xxhdpi-v4/ic_send_file_offline.png: 750 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-mdpi-v4/ic_send_file_offline_white.png: 248 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-hdpi-v4/ic_send_file_offline_white.png: 356 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/ic_send_file_offline_white.png: 380 bytes (replaced with small dummy file of size 67 bytes)
 Skipped unused resource res/drawable-xxhdpi-v4/ic_send_file_offline_white.png: 669 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-mdpi-v4/ic_send_location_offline_dark.png: 681 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-hdpi-v4/ic_send_location_offline_dark.png: 945 bytes (replaced with small dummy file of size 67 bytes)
 Skipped unused resource res/drawable-xhdpi-v4/ic_send_location_offline_dark.png: 1250 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-mdpi-v4/ic_send_photo_offline_dark.png: 649 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-hdpi-v4/ic_send_photo_offline_dark.png: 978 bytes (replaced with small dummy file of size 67 bytes)
 Skipped unused resource res/drawable-xhdpi-v4/ic_send_photo_offline_dark.png: 1191 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-mdpi-v4/ic_send_picture_offline_dark.png: 436 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-hdpi-v4/ic_send_picture_offline_dark.png: 639 bytes (replaced with small dummy file of size 67 bytes)
 Skipped unused resource res/drawable-xhdpi-v4/ic_send_picture_offline_dark.png: 752 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-mdpi-v4/ic_send_text_offline_dark.png: 557 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-hdpi-v4/ic_send_text_offline_dark.png: 765 bytes (replaced with small dummy file of size 67 bytes)
 Skipped unused resource res/drawable-xhdpi-v4/ic_send_text_offline_dark.png: 958 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-mdpi-v4/ic_send_voice_offline_dark.png: 576 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-hdpi-v4/ic_send_voice_offline_dark.png: 824 bytes (replaced with small dummy file of size 67 bytes)
 Skipped unused resource res/drawable-xhdpi-v4/ic_send_voice_offline_dark.png: 1034 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-mdpi-v4/ic_stat_alert_warning.png: 425 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-hdpi-v4/ic_stat_alert_warning.png: 757 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/ic_stat_alert_warning.png: 1175 bytes (replaced with small dummy file of size 67 bytes)
 Skipped unused resource res/drawable-xxhdpi-v4/ic_stat_alert_warning.png: 2276 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-mdpi-v4/ic_stat_communication_import_export.png: 392 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-hdpi-v4/ic_stat_communication_import_export.png: 620 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/ic_stat_communication_import_export.png: 972 bytes (replaced with small dummy file of size 67 bytes)
 Skipped unused resource res/drawable-xxhdpi-v4/ic_stat_communication_import_export.png: 1860 bytes (replaced with small dummy file of size 67 bytes)
 Skipped unused resource res/drawable-v23/m3_appbar_background.xml: 308 bytes (replaced with small dummy file of size 9 bytes)
 Skipped unused resource res/drawable/m3_popupmenu_background_overlay.xml: 639 bytes (replaced with small dummy file of size 9 bytes)
@@ -30056,8 +30274,16 @@ Skipped unused resource res/drawable-v23/m3_tabs_background.xml: 534 bytes (repl
 Skipped unused resource res/drawable/m3_tabs_line_indicator.xml: 305 bytes (replaced with small dummy file of size 9 bytes)
 Skipped unused resource res/drawable/m3_tabs_rounded_line_indicator.xml: 801 bytes (replaced with small dummy file of size 9 bytes)
 Skipped unused resource res/drawable-v23/m3_tabs_transparent_background.xml: 348 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource res/drawable-mdpi-v4/marker_default.png: 1912 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-hdpi-v4/marker_default.png: 4645 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/marker_default.png: 7684 bytes (replaced with small dummy file of size 67 bytes)
 Skipped unused resource res/drawable-xxhdpi-v4/marker_default.png: 15264 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-xxxhdpi-v4/marker_default.png: 26092 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-mdpi-v4/marker_default_focused_base.png: 664 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-hdpi-v4/marker_default_focused_base.png: 1247 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/marker_default_focused_base.png: 1995 bytes (replaced with small dummy file of size 67 bytes)
 Skipped unused resource res/drawable-xxhdpi-v4/marker_default_focused_base.png: 3770 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-xxxhdpi-v4/marker_default_focused_base.png: 6477 bytes (replaced with small dummy file of size 67 bytes)
 Skipped unused resource res/drawable/material_ic_menu_arrow_up_black_24dp.xml: 678 bytes (replaced with small dummy file of size 9 bytes)
 Skipped unused resource res/drawable/moreinfo_arrow.png: 1500 bytes (replaced with small dummy file of size 67 bytes)
 Skipped unused resource res/drawable/moreinfo_arrow_pressed.png: 1582 bytes (replaced with small dummy file of size 67 bytes)
@@ -30082,7 +30308,11 @@ Skipped unused resource res/drawable/mtrl_switch_track.xml: 599 bytes (replaced 
 Skipped unused resource res/drawable/mtrl_switch_track_decoration.xml: 680 bytes (replaced with small dummy file of size 9 bytes)
 Skipped unused resource res/drawable/navto_small.png: 1914 bytes (replaced with small dummy file of size 67 bytes)
 Skipped unused resource res/drawable/previous.png: 1648 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-mdpi-v4/twotone_navigation_black_48.png: 596 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-hdpi-v4/twotone_navigation_black_48.png: 862 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/twotone_navigation_black_48.png: 1115 bytes (replaced with small dummy file of size 67 bytes)
 Skipped unused resource res/drawable-xxhdpi-v4/twotone_navigation_black_48.png: 1584 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-xxxhdpi-v4/twotone_navigation_black_48.png: 1988 bytes (replaced with small dummy file of size 67 bytes)
 Skipped unused resource res/interpolator-v21/m3_sys_motion_easing_emphasized.xml: 157 bytes (replaced with small dummy file of size 9 bytes)
 Skipped unused resource res/interpolator-v21/m3_sys_motion_easing_emphasized_accelerate.xml: 380 bytes (replaced with small dummy file of size 9 bytes)
 Skipped unused resource res/interpolator-v21/m3_sys_motion_easing_emphasized_decelerate.xml: 380 bytes (replaced with small dummy file of size 9 bytes)

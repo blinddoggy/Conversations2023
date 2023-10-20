@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "eu.siacs.conversations.test-mergeConversationsFreeDebugAndroidTestResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/m/Documents/chats/191023/Conversations/build/generated/res/resValues/androidTest/conversationsFree/debug/values/gradleResValues.xml",
+                    "from": {
+                        "startLines": "6,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "154,263",
+                        "endColumns": "68,85",
+                        "endOffsets": "218,344"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,124",
+                        "endColumns": "68,85",
+                        "endOffsets": "119,205"
+                    }
+                }
+            ]
+        }
+    ]
+}
