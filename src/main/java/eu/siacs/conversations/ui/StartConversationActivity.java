@@ -339,6 +339,7 @@ public class StartConversationActivity extends XmppActivity implements XmppConne
                     break;
             }
             return false;
+
         });
     }
 

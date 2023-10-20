@@ -1140,6 +1140,7 @@ public class ConversationFragment extends XmppFragment
     public void onCreateOptionsMenu(Menu menu, MenuInflater menuInflater) {
         menuInflater.inflate(R.menu.fragment_conversation, menu);
         final MenuItem menuMucDetails = menu.findItem(R.id.action_muc_details);
+        menuMucDetails.setVisible(false);
         final MenuItem menuContactDetails = menu.findItem(R.id.action_contact_details);
         final MenuItem menuInviteContact = menu.findItem(R.id.action_invite);
         final MenuItem menuMute = menu.findItem(R.id.action_mute);

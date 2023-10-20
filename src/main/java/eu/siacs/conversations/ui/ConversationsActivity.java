@@ -388,6 +388,7 @@ public class ConversationsActivity extends XmppActivity implements OnConversatio
 
         //eliminando qr de layout conversations activity
         qrCodeScanMenuItem.setVisible(false);
+
         return super.onCreateOptionsMenu(menu);
     }
 
