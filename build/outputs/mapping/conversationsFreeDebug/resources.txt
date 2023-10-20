@@ -21946,9 +21946,8 @@ Marking string:category_about:2131886247 used because it matches string pool con
     @color/black
     @attr/EmojiColor
     @attr/IconSize
-    @color/red800
+    @color/ic_pastelito_launcher_background
     @attr/TextColorError
-    @color/green600
     @attr/TextColorOnline
     @attr/TextSeparation
     @attr/TextSizeBody1
@@ -21966,7 +21965,6 @@ Marking string:category_about:2131886247 used because it matches string pool con
     @attr/activity_primary_background_no_results
     @color/blue_a400
     @attr/colorAccent
-    @color/green800
     @attr/colorPrimaryDark
     @color/black12
     @attr/color_background_overlay
@@ -21976,9 +21974,7 @@ Marking string:category_about:2131886247 used because it matches string pool con
     @attr/color_background_secondary
     @color/grey300
     @attr/color_background_tertiary
-    @color/red_a700
     @attr/color_warning
-    @color/green700
     @attr/conversations_overview_background
     @attr/delete_icon_alpha
     @attr/dialog_horizontal_padding
@@ -22122,27 +22118,22 @@ Marking string:category_about:2131886247 used because it matches string pool con
     @attr/media_preview_tour
     @drawable/ic_help_black_48dp
     @attr/media_preview_unknown
-    @drawable/message_bubble_received
+    @drawable/message_bubble_received_warning
     @attr/message_bubble_received_green
-    @drawable/message_bubble_received_white
     @attr/message_bubble_received_monochrome
-    @drawable/message_bubble_sent
     @attr/message_bubble_sent
     @style/ThemeOverlay_AppCompat_Light
     @attr/popupOverlayStyle
-    @color/green700_desaturated
     @attr/unread_count
     @attr/windowActionModeOverlay
 @style/ConversationsTheme_Dark : reachable=true
     @style/Theme_AppCompat_NoActionBar
-    @attr/colorPrimary
+    @color/ic_pastelito_launcher_background
     @color/black
     @color/white
     @attr/EmojiColor
     @attr/IconSize
-    @color/red500
     @attr/TextColorError
-    @color/green500
     @attr/TextColorOnline
     @attr/TextSeparation
     @attr/TextSizeBody1
@@ -22160,8 +22151,7 @@ Marking string:category_about:2131886247 used because it matches string pool con
     @attr/activity_primary_background_no_results
     @color/blue_a100
     @attr/colorAccent
-    @color/green800
-    @color/green900
+    @attr/colorPrimary
     @attr/colorPrimaryDark
     @color/black26
     @attr/color_background_overlay
@@ -22313,7 +22303,7 @@ Marking string:category_about:2131886247 used because it matches string pool con
     @attr/media_preview_tour
     @drawable/ic_help_white_48dp
     @attr/media_preview_unknown
-    @drawable/message_bubble_received_dark
+    @drawable/message_bubble_received_warning
     @attr/message_bubble_received_green
     @drawable/message_bubble_received_grey
     @attr/message_bubble_received_monochrome
@@ -22321,7 +22311,6 @@ Marking string:category_about:2131886247 used because it matches string pool con
     @attr/message_bubble_sent
     @style/ThemeOverlay_AppCompat_Dark
     @attr/popupOverlayStyle
-    @color/green900_desaturated
     @attr/unread_count
     @attr/windowActionModeOverlay
 @style/ConversationsTheme_Dark_Dialog : reachable=true
@@ -22330,9 +22319,9 @@ Marking string:category_about:2131886247 used because it matches string pool con
     @attr/TextSizeDisplay2
     @color/blue_a100
     @attr/colorAccent
-    @color/green800
+    @color/ic_pastelito_launcher_background
     @attr/colorPrimary
-    @color/green900
+    @color/orange500
     @attr/colorPrimaryDark
     @color/grey800
     @attr/color_background_primary
@@ -22375,9 +22364,8 @@ Marking string:category_about:2131886247 used because it matches string pool con
     @attr/TextSizeTitle
     @color/blue_a400
     @attr/colorAccent
-    @color/green600
+    @color/ic_pastelito_launcher_background
     @attr/colorPrimary
-    @color/green700
     @attr/colorPrimaryDark
     @color/grey50
     @attr/color_background_primary
@@ -22394,9 +22382,8 @@ Marking string:category_about:2131886247 used because it matches string pool con
 @style/ConversationsTheme_FullScreen : reachable=true
     @style/Theme_AppCompat_Light
     @color/black
-    @color/green600
+    @color/ic_pastelito_launcher_background
     @attr/colorPrimary
-    @color/green700
     @attr/colorPrimaryDark
 @style/ConversationsTheme_Large : reachable=true
     @style/ConversationsTheme
@@ -22703,7 +22690,7 @@ Marking string:category_about:2131886247 used because it matches string pool con
     @style/SpeedDial_Base_FabLabelStyle
 @style/SplashTheme : reachable=true
     @style/Theme_AppCompat_DayNight_NoActionBar
-    @drawable/background
+    @drawable/message_bubble_received_warning
     @color/splash_screen_status_bar
     @attr/colorPrimaryDark
 @style/TextAppearance_AppCompat : reachable=true

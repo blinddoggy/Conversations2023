@@ -1,4 +1,4 @@
-#Thu Oct 19 22:08:48 COT 2023
+#Thu Oct 19 22:27:59 COT 2023
 base.0=/home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
