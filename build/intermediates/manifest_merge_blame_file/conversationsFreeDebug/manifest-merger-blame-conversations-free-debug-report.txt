@@ -253,8 +253,8 @@
 119-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:79:9-56
 120        android:hardwareAccelerated="true"
 120-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:80:9-43
-121        android:icon="@mipmap/new_launcher"
-121-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:81:9-44
+121        android:icon="@mipmap/ic_pastelito_launcher"
+121-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:81:9-53
 122        android:label="@string/app_name"
 122-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:82:9-41
 123        android:largeHeap="true"

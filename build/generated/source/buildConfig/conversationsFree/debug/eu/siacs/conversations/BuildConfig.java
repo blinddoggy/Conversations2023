@@ -13,5 +13,5 @@ public final class BuildConfig {
   public static final int VERSION_CODE = 4205300;
   public static final String VERSION_NAME = "2.12.2+free";
   // Field from default config.
-  public static final String APP_NAME = "Conversations";
+  public static final String APP_NAME = "Pastelitos";
 }

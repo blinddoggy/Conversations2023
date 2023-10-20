@@ -1,4 +1,0 @@
-#Thu Oct 19 20:00:13 COT 2023
-base.0=/home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebugAndroidTest/minifyConversationsFreeDebugAndroidTestWithR8/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex

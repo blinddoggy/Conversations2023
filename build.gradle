@@ -96,7 +96,7 @@ android {
         archivesBaseName += "-$versionName"
         applicationId "eu.siacs.conversations"
         resValue "string", "applicationId", applicationId
-        def appName = "Conversations"
+        def appName = "Pastelitos" //Nombre del app
         resValue "string", "app_name", appName
         buildConfigField "String", "APP_NAME", "\"$appName\""
     }

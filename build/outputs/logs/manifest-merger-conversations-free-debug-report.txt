@@ -311,7 +311,7 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] /root/.gradle/caches/transf
 		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:83:9-33
 		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:83:9-33
 	android:icon
-		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:81:9-44
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:81:9-53
 	android:networkSecurityConfig
 		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:84:9-76
 		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:84:9-76

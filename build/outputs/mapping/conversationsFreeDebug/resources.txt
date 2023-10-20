@@ -720,8 +720,8 @@ Marking color:black26:2131099683 reachable: referenced from /home/m/Documents/ch
 Marking color:grey500:2131099760 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
 Marking string:private_message:2131886964 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
 Marking string:private_message_to:2131886965 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
-Marking color:white:2131100289 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
-Marking color:white70:2131100291 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
+Marking color:white:2131100290 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
+Marking color:white70:2131100292 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
 Marking color:black87:2131099685 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
 Marking color:black54:2131099684 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
 Marking id:security_indicator:2131296924 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
@@ -1134,9 +1134,9 @@ Marking string:no_role:2131886732 reachable: referenced from /home/m/Documents/c
 Marking string:bad_key_for_encryption:2131886215 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
 Marking bool:use_share_location_plugin:2131034145 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
 Marking dimen:browser_media_size:2131165275 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
-Marking color:red500:2131100264 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
-Marking color:orange500:2131100255 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
-Marking color:scan_result_dots:2131100271 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
+Marking color:red500:2131100265 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
+Marking color:orange500:2131100256 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
+Marking color:scan_result_dots:2131100272 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
 Marking dimen:scan_laser_width:2131165825 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
 Marking dimen:scan_dot_size:2131165824 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
 Marking string:username:2131887218 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
@@ -1304,7 +1304,7 @@ Marking id:action_accounts:2131296325 reachable: referenced from /home/m/Documen
 Marking id:action_account:2131296323 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
 Marking string:no_market_app_installed:2131886724 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
 Marking id:progressBar:2131296856 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
-Marking mipmap:new_launcher_round:2131689474 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
+Marking mipmap:ic_pastelito_launcher_round:2131689478 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
 Marking string:default_font_size:2131886355 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
 Marking style:ConversationsTheme_Dark:2131951890 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
 Marking style:ConversationsTheme_Dark_Large:2131951894 reachable: referenced from /home/m/Documents/chats/191023/Conversations/build/intermediates/dex/conversationsFreeDebug/minifyConversationsFreeDebugWithR8/classes.dex
@@ -4505,6 +4505,7 @@ djvu
 ENHANCE_YOUR_CALM
 1.3.36.3.3.1.2
 gtar
+Pastelitos
 DigitalZoomRatio
 ATTACH
 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
@@ -7154,14 +7155,14 @@ Marking string:destroy_channel:2131886371 used because it matches string pool co
 Marking string:destroy_channel_dialog:2131886372 used because it matches string pool constant destroy
 Marking string:destroy_room:2131886373 used because it matches string pool constant destroy
 Marking string:destroy_room_dialog:2131886374 used because it matches string pool constant destroy
-Marking color:primary_dark_material_dark:2131100256 used because it matches string pool constant primary
-Marking color:primary_dark_material_light:2131100257 used because it matches string pool constant primary
-Marking color:primary_material_dark:2131100258 used because it matches string pool constant primary
-Marking color:primary_material_light:2131100259 used because it matches string pool constant primary
-Marking color:primary_text_default_material_dark:2131100260 used because it matches string pool constant primary
-Marking color:primary_text_default_material_light:2131100261 used because it matches string pool constant primary
-Marking color:primary_text_disabled_material_dark:2131100262 used because it matches string pool constant primary
-Marking color:primary_text_disabled_material_light:2131100263 used because it matches string pool constant primary
+Marking color:primary_dark_material_dark:2131100257 used because it matches string pool constant primary
+Marking color:primary_dark_material_light:2131100258 used because it matches string pool constant primary
+Marking color:primary_material_dark:2131100259 used because it matches string pool constant primary
+Marking color:primary_material_light:2131100260 used because it matches string pool constant primary
+Marking color:primary_text_default_material_dark:2131100261 used because it matches string pool constant primary
+Marking color:primary_text_default_material_light:2131100262 used because it matches string pool constant primary
+Marking color:primary_text_disabled_material_dark:2131100263 used because it matches string pool constant primary
+Marking color:primary_text_disabled_material_light:2131100264 used because it matches string pool constant primary
 Marking dimen:local_video_preview_height:2131165363 used because it matches string pool constant loc
 Marking dimen:local_video_preview_width:2131165364 used because it matches string pool constant loc
 Marking id:local_video:2131296687 used because it matches string pool constant loc
@@ -7792,8 +7793,8 @@ Marking string:moderated:2131886637 used because it matches string pool constant
 Marking id:direct:2131296549 used because it matches string pool constant direct
 Marking string:web_address:2131887247 used because it matches string pool constant web
 Marking bool:notifications_from_strangers:2131034132 used because it matches string pool constant notification
-Marking color:notification_action_color_filter:2131100253 used because it matches string pool constant notification
-Marking color:notification_icon_bg_color:2131100254 used because it matches string pool constant notification
+Marking color:notification_action_color_filter:2131100254 used because it matches string pool constant notification
+Marking color:notification_icon_bg_color:2131100255 used because it matches string pool constant notification
 Marking dimen:notification_action_icon_size:2131165806 used because it matches string pool constant notification
 Marking dimen:notification_action_text_size:2131165807 used because it matches string pool constant notification
 Marking dimen:notification_big_circle_margin:2131165808 used because it matches string pool constant notification
@@ -8271,10 +8272,10 @@ Marking string:offering:2131886762 used because it matches string pool constant 
 Marking string:offering_x_file:2131886763 used because it matches string pool constant off
 Marking string:offline:2131886764 used because it matches string pool constant off
 Marking attr:tintMode:2130969738 used because it matches string pool constant tintMode
-Marking color:secondary_text_default_material_dark:2131100275 used because it matches string pool constant second
-Marking color:secondary_text_default_material_light:2131100276 used because it matches string pool constant second
-Marking color:secondary_text_disabled_material_dark:2131100277 used because it matches string pool constant second
-Marking color:secondary_text_disabled_material_light:2131100278 used because it matches string pool constant second
+Marking color:secondary_text_default_material_dark:2131100276 used because it matches string pool constant second
+Marking color:secondary_text_default_material_light:2131100277 used because it matches string pool constant second
+Marking color:secondary_text_disabled_material_dark:2131100278 used because it matches string pool constant second
+Marking color:secondary_text_disabled_material_light:2131100279 used because it matches string pool constant second
 Marking id:secondary_fragment:2131296922 used because it matches string pool constant second
 Marking id:secondary_hint:2131296923 used because it matches string pool constant second
 Marking plurals:seconds:2131755016 used because it matches string pool constant second
@@ -8598,8 +8599,8 @@ Marking attr:topInsetScrimEnabled:2130969763 used because it matches string pool
 Marking attr:touchAnchorId:2130969764 used because it matches string pool constant to
 Marking attr:touchAnchorSide:2130969765 used because it matches string pool constant to
 Marking attr:touchRegionId:2130969766 used because it matches string pool constant to
-Marking color:tooltip_background_dark:2131100287 used because it matches string pool constant to
-Marking color:tooltip_background_light:2131100288 used because it matches string pool constant to
+Marking color:tooltip_background_dark:2131100288 used because it matches string pool constant to
+Marking color:tooltip_background_light:2131100289 used because it matches string pool constant to
 Marking dimen:toolbar_elevation:2131165834 used because it matches string pool constant to
 Marking dimen:tooltip_corner_radius:2131165835 used because it matches string pool constant to
 Marking dimen:tooltip_horizontal_padding:2131165836 used because it matches string pool constant to
@@ -8630,8 +8631,8 @@ Marking id:up:2131297058 used because it matches string pool constant up
 Marking string:update:2131887211 used because it matches string pool constant up
 Marking string:updating:2131887212 used because it matches string pool constant up
 Marking attr:state_with_icon:2130969608 used because it matches string pool constant %swith%s
-Marking color:m3_navigation_bar_item_with_indicator_icon_tint:2131099813 used because it matches string pool constant %swith%s
-Marking color:m3_navigation_bar_item_with_indicator_label_tint:2131099814 used because it matches string pool constant %swith%s
+Marking color:m3_navigation_bar_item_with_indicator_icon_tint:2131099814 used because it matches string pool constant %swith%s
+Marking color:m3_navigation_bar_item_with_indicator_label_tint:2131099815 used because it matches string pool constant %swith%s
 Marking dimen:abc_action_bar_content_inset_with_nav:2131165185 used because it matches string pool constant %swith%s
 Marking dimen:m3_badge_with_text_horizontal_offset:2131165383 used because it matches string pool constant %swith%s
 Marking dimen:m3_badge_with_text_radius:2131165384 used because it matches string pool constant %swith%s
@@ -9911,8 +9912,8 @@ Marking id:end_call:2131296583 used because it matches string pool constant end_
 Marking attr:strokeColor:2130969612 used because it matches string pool constant strokeColor
 Marking string:incoming_calls_channel_name:2131886519 used because it matches string pool constant incoming_calls_channel
 Marking attr:splitTrack:2130969591 used because it matches string pool constant spl
-Marking color:splash_screen_background:2131100279 used because it matches string pool constant spl
-Marking color:splash_screen_status_bar:2131100280 used because it matches string pool constant spl
+Marking color:splash_screen_background:2131100280 used because it matches string pool constant spl
+Marking color:splash_screen_status_bar:2131100281 used because it matches string pool constant spl
 Marking drawable:splash_logo:2131231199 used because it matches string pool constant spl
 Marking id:spline:2131296969 used because it matches string pool constant spl
 Marking id:split_action_bar:2131296970 used because it matches string pool constant spl
@@ -11846,6 +11847,8 @@ Marking string:category_about:2131886247 used because it matches string pool con
 @color/grey900 : reachable=false
 @color/highlighted_text_material_dark : reachable=true
 @color/highlighted_text_material_light : reachable=true
+@color/ic_launcher_background : reachable=false
+@color/ic_pastelito_launcher_background : reachable=false
 @color/m3_appbar_overlay_color : reachable=false
     @attr/elevationOverlayColor
 @color/m3_assist_chip_icon_tint_color : reachable=false
@@ -16780,11 +16783,25 @@ Marking string:category_about:2131886247 used because it matches string pool con
     @string/scan_qr_code
     @string/action_add_account_with_certificate
     @string/restore_backup
+@mipmap/ic_launcher : reachable=false
+    @mipmap/ic_launcher_background
+    @mipmap/ic_launcher_foreground
 @mipmap/ic_launcher_background : reachable=false
-@mipmap/new_launcher : reachable=true
+@mipmap/ic_launcher_foreground : reachable=false
+@mipmap/ic_launcher_round : reachable=false
+    @mipmap/ic_launcher_background
+    @mipmap/ic_launcher_foreground
+@mipmap/ic_pastelito_launcher : reachable=true
+    @color/ic_pastelito_launcher_background
+    @mipmap/ic_pastelito_launcher_foreground
+@mipmap/ic_pastelito_launcher_foreground : reachable=false
+@mipmap/ic_pastelito_launcher_round : reachable=true
+    @color/ic_pastelito_launcher_background
+    @mipmap/ic_pastelito_launcher_foreground
+@mipmap/new_launcher : reachable=false
     @mipmap/ic_launcher_background
     @drawable/ic_launcher_foreground
-@mipmap/new_launcher_round : reachable=true
+@mipmap/new_launcher_round : reachable=false
     @mipmap/ic_launcher_background
     @drawable/ic_launcher_foreground
 @plurals/days : reachable=true
@@ -27457,39 +27474,39 @@ The root reachable resources are:
  color:grey800:2131099763
  color:highlighted_text_material_dark:2131099765
  color:highlighted_text_material_light:2131099766
- color:m3_navigation_bar_item_with_indicator_icon_tint:2131099813
- color:m3_navigation_bar_item_with_indicator_label_tint:2131099814
- color:material_timepicker_clockface:2131100196
- color:mtrl_filled_background_color:2131100221
- color:mtrl_textinput_default_box_stroke_color:2131100248
- color:mtrl_textinput_disabled_color:2131100249
- color:mtrl_textinput_hovered_box_stroke_color:2131100252
- color:notification_action_color_filter:2131100253
- color:notification_icon_bg_color:2131100254
- color:orange500:2131100255
- color:primary_dark_material_dark:2131100256
- color:primary_dark_material_light:2131100257
- color:primary_material_dark:2131100258
- color:primary_material_light:2131100259
- color:primary_text_default_material_dark:2131100260
- color:primary_text_default_material_light:2131100261
- color:primary_text_disabled_material_dark:2131100262
- color:primary_text_disabled_material_light:2131100263
- color:red500:2131100264
- color:scan_result_dots:2131100271
- color:sd_label_background_color:2131100272
- color:sd_label_text_color:2131100273
- color:sd_overlay_color:2131100274
- color:secondary_text_default_material_dark:2131100275
- color:secondary_text_default_material_light:2131100276
- color:secondary_text_disabled_material_dark:2131100277
- color:secondary_text_disabled_material_light:2131100278
- color:splash_screen_background:2131100279
- color:splash_screen_status_bar:2131100280
- color:tooltip_background_dark:2131100287
- color:tooltip_background_light:2131100288
- color:white:2131100289
- color:white70:2131100291
+ color:m3_navigation_bar_item_with_indicator_icon_tint:2131099814
+ color:m3_navigation_bar_item_with_indicator_label_tint:2131099815
+ color:material_timepicker_clockface:2131100197
+ color:mtrl_filled_background_color:2131100222
+ color:mtrl_textinput_default_box_stroke_color:2131100249
+ color:mtrl_textinput_disabled_color:2131100250
+ color:mtrl_textinput_hovered_box_stroke_color:2131100253
+ color:notification_action_color_filter:2131100254
+ color:notification_icon_bg_color:2131100255
+ color:orange500:2131100256
+ color:primary_dark_material_dark:2131100257
+ color:primary_dark_material_light:2131100258
+ color:primary_material_dark:2131100259
+ color:primary_material_light:2131100260
+ color:primary_text_default_material_dark:2131100261
+ color:primary_text_default_material_light:2131100262
+ color:primary_text_disabled_material_dark:2131100263
+ color:primary_text_disabled_material_light:2131100264
+ color:red500:2131100265
+ color:scan_result_dots:2131100272
+ color:sd_label_background_color:2131100273
+ color:sd_label_text_color:2131100274
+ color:sd_overlay_color:2131100275
+ color:secondary_text_default_material_dark:2131100276
+ color:secondary_text_default_material_light:2131100277
+ color:secondary_text_disabled_material_dark:2131100278
+ color:secondary_text_disabled_material_light:2131100279
+ color:splash_screen_background:2131100280
+ color:splash_screen_status_bar:2131100281
+ color:tooltip_background_dark:2131100288
+ color:tooltip_background_light:2131100289
+ color:white:2131100290
+ color:white70:2131100292
  dimen:abc_action_bar_content_inset_with_nav:2131165185
  dimen:abc_action_bar_stacked_max_height:2131165193
  dimen:abc_action_bar_stacked_tab_max_width:2131165194
@@ -28742,8 +28759,8 @@ The root reachable resources are:
  menu:start_conversation_fab_submenu:2131623967
  menu:trust_keys:2131623968
  menu:welcome_menu:2131623969
- mipmap:new_launcher:2131689473
- mipmap:new_launcher_round:2131689474
+ mipmap:ic_pastelito_launcher:2131689476
+ mipmap:ic_pastelito_launcher_round:2131689478
  plurals:days:2131755008
  plurals:hours:2131755009
  plurals:minutes:2131755010
@@ -30017,6 +30034,7 @@ Skipped unused resource res/drawable-xxhdpi-v4/ic_camera_alt_white_24dp.png: 666
 Skipped unused resource res/drawable/ic_clock_black_24dp.xml: 720 bytes (replaced with small dummy file of size 9 bytes)
 Skipped unused resource res/drawable-xxhdpi-v4/ic_crop_white_24dp.png: 326 bytes (replaced with small dummy file of size 67 bytes)
 Skipped unused resource res/drawable/ic_keyboard_black_24dp.xml: 821 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource res/drawable/ic_launcher_foreground.xml: 2551 bytes (replaced with small dummy file of size 9 bytes)
 Skipped unused resource res/drawable/ic_m3_chip_check.xml: 737 bytes (replaced with small dummy file of size 9 bytes)
 Skipped unused resource res/drawable/ic_m3_chip_checked_circle.xml: 1084 bytes (replaced with small dummy file of size 9 bytes)
 Skipped unused resource res/drawable/ic_m3_chip_close.xml: 619 bytes (replaced with small dummy file of size 9 bytes)
@@ -30113,3 +30131,37 @@ Skipped unused resource res/layout/mtrl_alert_select_dialog_singlechoice.xml: 12
 Skipped unused resource res/layout/mtrl_navigation_rail_item.xml: 3267 bytes (replaced with small dummy file of size 9 bytes)
 Skipped unused resource res/layout/mtrl_picker_text_input_date.xml: 1357 bytes (replaced with small dummy file of size 9 bytes)
 Skipped unused resource res/layout/mtrl_picker_text_input_date_range.xml: 2609 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource res/mipmap-mdpi-v4/ic_launcher.png: 3920 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/mipmap-hdpi-v4/ic_launcher.png: 7736 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/mipmap-xhdpi-v4/ic_launcher.png: 12343 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/mipmap-xxhdpi-v4/ic_launcher.png: 24416 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/mipmap-xxxhdpi-v4/ic_launcher.png: 40056 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/mipmap-anydpi-v26/ic_launcher.xml: 267 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource res/mipmap-mdpi-v4/ic_launcher_background.png: 9234 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/mipmap-hdpi-v4/ic_launcher_background.png: 18783 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/mipmap-xhdpi-v4/ic_launcher_background.png: 31165 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/mipmap-xxhdpi-v4/ic_launcher_background.png: 61853 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/mipmap-xxxhdpi-v4/ic_launcher_background.png: 100964 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/mipmap-mdpi-v4/ic_launcher_foreground.png: 10306 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/mipmap-hdpi-v4/ic_launcher_foreground.png: 21040 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/mipmap-xhdpi-v4/ic_launcher_foreground.png: 34587 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/mipmap-xxhdpi-v4/ic_launcher_foreground.png: 69131 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/mipmap-xxxhdpi-v4/ic_launcher_foreground.png: 111849 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/mipmap-mdpi-v4/ic_launcher_round.png: 5584 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/mipmap-hdpi-v4/ic_launcher_round.png: 10943 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/mipmap-xhdpi-v4/ic_launcher_round.png: 17899 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/mipmap-xxhdpi-v4/ic_launcher_round.png: 34856 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/mipmap-xxxhdpi-v4/ic_launcher_round.png: 56205 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/mipmap-anydpi-v26/ic_launcher_round.xml: 267 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource res/mipmap-mdpi-v4/new_launcher.png: 1788 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/mipmap-hdpi-v4/new_launcher.png: 2431 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/mipmap-xhdpi-v4/new_launcher.png: 3334 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/mipmap-xxhdpi-v4/new_launcher.png: 4837 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/mipmap-xxxhdpi-v4/new_launcher.png: 6584 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/mipmap-anydpi-v26/new_launcher.xml: 267 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource res/mipmap-mdpi-v4/new_launcher_round.png: 2767 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/mipmap-hdpi-v4/new_launcher_round.png: 4220 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/mipmap-xhdpi-v4/new_launcher_round.png: 6040 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/mipmap-xxhdpi-v4/new_launcher_round.png: 9299 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/mipmap-xxxhdpi-v4/new_launcher_round.png: 13131 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/mipmap-anydpi-v26/new_launcher_round.xml: 267 bytes (replaced with small dummy file of size 9 bytes)

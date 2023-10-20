@@ -20,19 +20,6 @@
       "filters": [
         {
           "filterType": "ABI",
-          "value": "armeabi-v7a"
-        }
-      ],
-      "attributes": [],
-      "versionCode": 4205301,
-      "versionName": "2.12.2+free",
-      "outputFile": "Conversations-2.12.2-conversations-free-armeabi-v7a-debug.apk"
-    },
-    {
-      "type": "ONE_OF_MANY",
-      "filters": [
-        {
-          "filterType": "ABI",
           "value": "x86_64"
         }
       ],
@@ -40,6 +27,19 @@
       "versionCode": 4205303,
       "versionName": "2.12.2+free",
       "outputFile": "Conversations-2.12.2-conversations-free-x86_64-debug.apk"
+    },
+    {
+      "type": "ONE_OF_MANY",
+      "filters": [
+        {
+          "filterType": "ABI",
+          "value": "arm64-v8a"
+        }
+      ],
+      "attributes": [],
+      "versionCode": 4205304,
+      "versionName": "2.12.2+free",
+      "outputFile": "Conversations-2.12.2-conversations-free-arm64-v8a-debug.apk"
     },
     {
       "type": "ONE_OF_MANY",
@@ -59,13 +59,13 @@
       "filters": [
         {
           "filterType": "ABI",
-          "value": "arm64-v8a"
+          "value": "armeabi-v7a"
         }
       ],
       "attributes": [],
-      "versionCode": 4205304,
+      "versionCode": 4205301,
       "versionName": "2.12.2+free",
-      "outputFile": "Conversations-2.12.2-conversations-free-arm64-v8a-debug.apk"
+      "outputFile": "Conversations-2.12.2-conversations-free-armeabi-v7a-debug.apk"
     }
   ],
   "elementType": "File"

@@ -868,6 +868,8 @@
     <color name="grey900">#ff282828</color>
     <color name="highlighted_text_material_dark">#6680cbc4</color>
     <color name="highlighted_text_material_light">#66009688</color>
+    <color name="ic_launcher_background">#DC3DD9</color>
+    <color name="ic_pastelito_launcher_background">#DC3DD9</color>
     <color name="m3_ref_palette_black">#ff000000</color>
     <color name="m3_ref_palette_error0">#ff000000</color>
     <color name="m3_ref_palette_error10">#ff410e0b</color>
@@ -2098,7 +2100,7 @@
     <string name="anyone_can_edit_subject">Anyone can edit the topic.</string>
     <string name="anyone_can_invite_others">Anyone can invite others.</string>
     <string name="apk">Android App</string>
-    <string name="app_name" translatable="false">Conversations</string>
+    <string name="app_name" translatable="false">Pastelitos</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="applicationId" translatable="false">eu.siacs.conversations</string>
     <string name="application_found_to_open_website">No app found to open website</string>

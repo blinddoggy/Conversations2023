@@ -30332,6 +30332,8 @@ eu.siacs.conversations.R$color:
     public static final int grey900
     public static final int highlighted_text_material_dark
     public static final int highlighted_text_material_light
+    public static final int ic_launcher_background
+    public static final int ic_pastelito_launcher_background
     public static final int m3_appbar_overlay_color
     public static final int m3_assist_chip_icon_tint_color
     public static final int m3_assist_chip_stroke_color
@@ -33118,7 +33120,13 @@ eu.siacs.conversations.R$menu:
     public static final int trust_keys
     public static final int welcome_menu
 eu.siacs.conversations.R$mipmap:
+    public static final int ic_launcher
     public static final int ic_launcher_background
+    public static final int ic_launcher_foreground
+    public static final int ic_launcher_round
+    public static final int ic_pastelito_launcher
+    public static final int ic_pastelito_launcher_foreground
+    public static final int ic_pastelito_launcher_round
     public static final int new_launcher
     public static final int new_launcher_round
 eu.siacs.conversations.R$plurals:

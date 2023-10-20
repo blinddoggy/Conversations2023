@@ -96,6 +96,10 @@
         "source": "eu.siacs.conversations-main-11:/drawable-xxhdpi/ic_lock_white_24dp.png"
     },
     {
+        "merged": "eu.siacs.conversations-merged_res-5:/mipmap-anydpi-v26_ic_pastelito_launcher.xml.flat",
+        "source": "eu.siacs.conversations-conversations-6:/mipmap-anydpi-v26/ic_pastelito_launcher.xml"
+    },
+    {
         "merged": "eu.siacs.conversations-merged_res-5:/color_m3_simple_item_ripple_color.xml.flat",
         "source": "eu.siacs.conversations-material-1.7.0-26:/color/m3_simple_item_ripple_color.xml"
     },
@@ -438,6 +442,10 @@
     {
         "merged": "eu.siacs.conversations-merged_res-5:/drawable-mdpi-v4_sharp_remove_black_36.png.flat",
         "source": "eu.siacs.conversations-jetified-osmdroid-android-6.1.11-27:/drawable-mdpi-v4/sharp_remove_black_36.png"
+    },
+    {
+        "merged": "eu.siacs.conversations-merged_res-5:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "eu.siacs.conversations-conversations-6:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
         "merged": "eu.siacs.conversations-merged_res-5:/drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
@@ -1176,6 +1184,10 @@
         "source": "eu.siacs.conversations-main-11:/drawable-mdpi/ic_notifications_paused_white80.png"
     },
     {
+        "merged": "eu.siacs.conversations-merged_res-5:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "eu.siacs.conversations-conversations-6:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
         "merged": "eu.siacs.conversations-merged_res-5:/drawable-xxxhdpi_ic_description_black_48dp.png.flat",
         "source": "eu.siacs.conversations-main-11:/drawable-xxxhdpi/ic_description_black_48dp.png"
     },
@@ -1304,6 +1316,10 @@
         "source": "eu.siacs.conversations-material-1.7.0-26:/drawable/material_ic_edit_black_24dp.xml"
     },
     {
+        "merged": "eu.siacs.conversations-merged_res-5:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "eu.siacs.conversations-conversations-6:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
         "merged": "eu.siacs.conversations-merged_res-5:/color_abc_primary_text_material_dark.xml.flat",
         "source": "eu.siacs.conversations-appcompat-1.5.1-19:/color/abc_primary_text_material_dark.xml"
     },
@@ -1400,6 +1416,10 @@
         "source": "eu.siacs.conversations-main-11:/layout/dialog_quickedit.xml"
     },
     {
+        "merged": "eu.siacs.conversations-merged_res-5:/mipmap-xhdpi_ic_pastelito_launcher_foreground.png.flat",
+        "source": "eu.siacs.conversations-conversations-6:/mipmap-xhdpi/ic_pastelito_launcher_foreground.png"
+    },
+    {
         "merged": "eu.siacs.conversations-merged_res-5:/drawable-xhdpi_ic_attach_document_white.png.flat",
         "source": "eu.siacs.conversations-main-11:/drawable-xhdpi/ic_attach_document_white.png"
     },
@@ -1464,6 +1484,10 @@
         "source": "eu.siacs.conversations-conversations-6:/drawable-xhdpi/splash_logo.png"
     },
     {
+        "merged": "eu.siacs.conversations-merged_res-5:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "eu.siacs.conversations-conversations-6:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
         "merged": "eu.siacs.conversations-merged_res-5:/drawable-mdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
         "source": "eu.siacs.conversations-appcompat-1.5.1-19:/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
@@ -1514,6 +1538,10 @@
     {
         "merged": "eu.siacs.conversations-merged_res-5:/drawable-xxhdpi_ic_mic_off_black_24dp.png.flat",
         "source": "eu.siacs.conversations-main-11:/drawable-xxhdpi/ic_mic_off_black_24dp.png"
+    },
+    {
+        "merged": "eu.siacs.conversations-merged_res-5:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "eu.siacs.conversations-conversations-6:/mipmap-xhdpi/ic_launcher_foreground.png"
     },
     {
         "merged": "eu.siacs.conversations-merged_res-5:/drawable-xxxhdpi_ic_star_white_24dp.png.flat",
@@ -2304,6 +2332,10 @@
         "source": "eu.siacs.conversations-appcompat-1.5.1-19:/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
+        "merged": "eu.siacs.conversations-merged_res-5:/mipmap-xxhdpi_ic_pastelito_launcher.png.flat",
+        "source": "eu.siacs.conversations-conversations-6:/mipmap-xxhdpi/ic_pastelito_launcher.png"
+    },
+    {
         "merged": "eu.siacs.conversations-merged_res-5:/drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
         "source": "eu.siacs.conversations-appcompat-1.5.1-19:/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
     },
@@ -2346,6 +2378,10 @@
     {
         "merged": "eu.siacs.conversations-merged_res-5:/drawable-mdpi_date_bubble_white.9.png.flat",
         "source": "eu.siacs.conversations-main-11:/drawable-mdpi/date_bubble_white.9.png"
+    },
+    {
+        "merged": "eu.siacs.conversations-merged_res-5:/mipmap-xhdpi_ic_pastelito_launcher_round.png.flat",
+        "source": "eu.siacs.conversations-conversations-6:/mipmap-xhdpi/ic_pastelito_launcher_round.png"
     },
     {
         "merged": "eu.siacs.conversations-merged_res-5:/drawable-xxhdpi_ic_send_file_offline_white.png.flat",
@@ -2656,12 +2692,12 @@
         "source": "eu.siacs.conversations-main-11:/drawable-mdpi/ic_forward_white_24dp.png"
     },
     {
-        "merged": "eu.siacs.conversations-merged_res-5:/layout_mtrl_calendar_months.xml.flat",
-        "source": "eu.siacs.conversations-material-1.7.0-26:/layout/mtrl_calendar_months.xml"
-    },
-    {
         "merged": "eu.siacs.conversations-merged_res-5:/color_mtrl_card_view_ripple.xml.flat",
         "source": "eu.siacs.conversations-material-1.7.0-26:/color/mtrl_card_view_ripple.xml"
+    },
+    {
+        "merged": "eu.siacs.conversations-merged_res-5:/layout_mtrl_calendar_months.xml.flat",
+        "source": "eu.siacs.conversations-material-1.7.0-26:/layout/mtrl_calendar_months.xml"
     },
     {
         "merged": "eu.siacs.conversations-merged_res-5:/drawable-mdpi_ic_person_add_white_24dp.png.flat",
@@ -3180,6 +3216,10 @@
         "source": "eu.siacs.conversations-material-1.7.0-26:/color/m3_navigation_item_ripple_color.xml"
     },
     {
+        "merged": "eu.siacs.conversations-merged_res-5:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "eu.siacs.conversations-conversations-6:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
         "merged": "eu.siacs.conversations-merged_res-5:/drawable-xxhdpi_ic_room_white_24dp.png.flat",
         "source": "eu.siacs.conversations-main-11:/drawable-xxhdpi/ic_room_white_24dp.png"
     },
@@ -3250,6 +3290,10 @@
     {
         "merged": "eu.siacs.conversations-merged_res-5:/drawable-xhdpi_ic_notifications_black_24dp.png.flat",
         "source": "eu.siacs.conversations-main-11:/drawable-xhdpi/ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "eu.siacs.conversations-merged_res-5:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "eu.siacs.conversations-conversations-6:/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
         "merged": "eu.siacs.conversations-merged_res-5:/drawable_mtrl_switch_thumb.xml.flat",
@@ -3368,6 +3412,10 @@
         "source": "eu.siacs.conversations-main-11:/drawable-xhdpi/play_video_black.png"
     },
     {
+        "merged": "eu.siacs.conversations-merged_res-5:/mipmap-hdpi_ic_pastelito_launcher_round.png.flat",
+        "source": "eu.siacs.conversations-conversations-6:/mipmap-hdpi/ic_pastelito_launcher_round.png"
+    },
+    {
         "merged": "eu.siacs.conversations-merged_res-5:/drawable-xxxhdpi_ic_content_copy_white_24dp.png.flat",
         "source": "eu.siacs.conversations-main-11:/drawable-xxxhdpi/ic_content_copy_white_24dp.png"
     },
@@ -3386,6 +3434,10 @@
     {
         "merged": "eu.siacs.conversations-merged_res-5:/layout_abc_list_menu_item_checkbox.xml.flat",
         "source": "eu.siacs.conversations-appcompat-1.5.1-19:/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "eu.siacs.conversations-merged_res-5:/mipmap-xxxhdpi_ic_pastelito_launcher_foreground.png.flat",
+        "source": "eu.siacs.conversations-conversations-6:/mipmap-xxxhdpi/ic_pastelito_launcher_foreground.png"
     },
     {
         "merged": "eu.siacs.conversations-merged_res-5:/drawable-hdpi_ic_call_missed_outgoing_black_18dp.png.flat",
@@ -3572,8 +3624,16 @@
         "source": "eu.siacs.conversations-main-11:/drawable-hdpi/ic_call_received_white_18dp.png"
     },
     {
+        "merged": "eu.siacs.conversations-merged_res-5:/mipmap-hdpi_ic_pastelito_launcher_foreground.png.flat",
+        "source": "eu.siacs.conversations-conversations-6:/mipmap-hdpi/ic_pastelito_launcher_foreground.png"
+    },
+    {
         "merged": "eu.siacs.conversations-merged_res-5:/drawable-xxhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
         "source": "eu.siacs.conversations-appcompat-1.5.1-19:/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "eu.siacs.conversations-merged_res-5:/mipmap-mdpi_ic_pastelito_launcher_round.png.flat",
+        "source": "eu.siacs.conversations-conversations-6:/mipmap-mdpi/ic_pastelito_launcher_round.png"
     },
     {
         "merged": "eu.siacs.conversations-merged_res-5:/drawable-hdpi_baseline_tour_black_48.png.flat",
@@ -3665,7 +3725,7 @@
     },
     {
         "merged": "eu.siacs.conversations-merged_res-5:/mipmap-mdpi_ic_launcher_background.png.flat",
-        "source": "eu.siacs.conversations-main-11:/mipmap-mdpi/ic_launcher_background.png"
+        "source": "eu.siacs.conversations-conversations-6:/mipmap-mdpi/ic_launcher_background.png"
     },
     {
         "merged": "eu.siacs.conversations-merged_res-5:/mipmap-mdpi_new_launcher.png.flat",
@@ -3842,6 +3902,10 @@
     {
         "merged": "eu.siacs.conversations-merged_res-5:/drawable-xxxhdpi_date_bubble_white.9.png.flat",
         "source": "eu.siacs.conversations-main-11:/drawable-xxxhdpi/date_bubble_white.9.png"
+    },
+    {
+        "merged": "eu.siacs.conversations-merged_res-5:/mipmap-xxhdpi_ic_pastelito_launcher_foreground.png.flat",
+        "source": "eu.siacs.conversations-conversations-6:/mipmap-xxhdpi/ic_pastelito_launcher_foreground.png"
     },
     {
         "merged": "eu.siacs.conversations-merged_res-5:/layout_create_public_channel_dialog.xml.flat",
@@ -4096,6 +4160,10 @@
         "source": "eu.siacs.conversations-main-11:/drawable-xxxhdpi/ic_send_videocam_offline_white.png"
     },
     {
+        "merged": "eu.siacs.conversations-merged_res-5:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "eu.siacs.conversations-conversations-6:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
         "merged": "eu.siacs.conversations-merged_res-5:/anim_abc_tooltip_enter.xml.flat",
         "source": "eu.siacs.conversations-appcompat-1.5.1-19:/anim/abc_tooltip_enter.xml"
     },
@@ -4108,12 +4176,20 @@
         "source": "eu.siacs.conversations-material-1.7.0-26:/color/m3_card_foreground_color.xml"
     },
     {
+        "merged": "eu.siacs.conversations-merged_res-5:/mipmap-xxxhdpi_ic_pastelito_launcher_round.png.flat",
+        "source": "eu.siacs.conversations-conversations-6:/mipmap-xxxhdpi/ic_pastelito_launcher_round.png"
+    },
+    {
         "merged": "eu.siacs.conversations-merged_res-5:/drawable-hdpi_ic_send_cancel_offline.png.flat",
         "source": "eu.siacs.conversations-main-11:/drawable-hdpi/ic_send_cancel_offline.png"
     },
     {
         "merged": "eu.siacs.conversations-merged_res-5:/drawable-hdpi_ic_call_missed_black_18dp.png.flat",
         "source": "eu.siacs.conversations-main-11:/drawable-hdpi/ic_call_missed_black_18dp.png"
+    },
+    {
+        "merged": "eu.siacs.conversations-merged_res-5:/mipmap-xxxhdpi_ic_pastelito_launcher.png.flat",
+        "source": "eu.siacs.conversations-conversations-6:/mipmap-xxxhdpi/ic_pastelito_launcher.png"
     },
     {
         "merged": "eu.siacs.conversations-merged_res-5:/drawable-xxhdpi_ic_call_missed_white_18dp.png.flat",
@@ -4293,7 +4369,7 @@
     },
     {
         "merged": "eu.siacs.conversations-merged_res-5:/mipmap-hdpi_ic_launcher_background.png.flat",
-        "source": "eu.siacs.conversations-main-11:/mipmap-hdpi/ic_launcher_background.png"
+        "source": "eu.siacs.conversations-conversations-6:/mipmap-hdpi/ic_launcher_background.png"
     },
     {
         "merged": "eu.siacs.conversations-merged_res-5:/drawable-hdpi_ic_action_reply.png.flat",
@@ -4360,12 +4436,20 @@
         "source": "eu.siacs.conversations-main-11:/drawable-mdpi/ic_book_white_48dp.png"
     },
     {
+        "merged": "eu.siacs.conversations-merged_res-5:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "eu.siacs.conversations-conversations-6:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
         "merged": "eu.siacs.conversations-merged_res-5:/drawable_mtrl_switch_thumb_pressed.xml.flat",
         "source": "eu.siacs.conversations-material-1.7.0-26:/drawable/mtrl_switch_thumb_pressed.xml"
     },
     {
         "merged": "eu.siacs.conversations-merged_res-5:/drawable-mdpi_ic_send_cancel_dnd.png.flat",
         "source": "eu.siacs.conversations-main-11:/drawable-mdpi/ic_send_cancel_dnd.png"
+    },
+    {
+        "merged": "eu.siacs.conversations-merged_res-5:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "eu.siacs.conversations-conversations-6:/mipmap-xhdpi/ic_launcher.png"
     },
     {
         "merged": "eu.siacs.conversations-merged_res-5:/drawable-xxhdpi_ic_send_photo_dnd.png.flat",
@@ -4420,6 +4504,10 @@
         "source": "eu.siacs.conversations-appcompat-1.5.1-19:/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
+        "merged": "eu.siacs.conversations-merged_res-5:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "eu.siacs.conversations-conversations-6:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
         "merged": "eu.siacs.conversations-merged_res-5:/drawable-xhdpi_ic_gps_fixed_black_24dp.png.flat",
         "source": "eu.siacs.conversations-main-11:/drawable-xhdpi/ic_gps_fixed_black_24dp.png"
     },
@@ -4454,6 +4542,10 @@
     {
         "merged": "eu.siacs.conversations-merged_res-5:/menu_channel_item_context.xml.flat",
         "source": "eu.siacs.conversations-main-11:/menu/channel_item_context.xml"
+    },
+    {
+        "merged": "eu.siacs.conversations-merged_res-5:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "eu.siacs.conversations-conversations-6:/mipmap-mdpi/ic_launcher_round.png"
     },
     {
         "merged": "eu.siacs.conversations-merged_res-5:/drawable-xhdpi-v4_crop_image_menu_flip.png.flat",
@@ -4788,6 +4880,10 @@
         "source": "eu.siacs.conversations-main-11:/drawable-mdpi/ic_play_arrow_white_36dp.png"
     },
     {
+        "merged": "eu.siacs.conversations-merged_res-5:/mipmap-hdpi_ic_pastelito_launcher.png.flat",
+        "source": "eu.siacs.conversations-conversations-6:/mipmap-hdpi/ic_pastelito_launcher.png"
+    },
+    {
         "merged": "eu.siacs.conversations-merged_res-5:/color_mtrl_fab_bg_color_selector.xml.flat",
         "source": "eu.siacs.conversations-material-1.7.0-26:/color/mtrl_fab_bg_color_selector.xml"
     },
@@ -5048,6 +5144,10 @@
         "source": "eu.siacs.conversations-main-11:/drawable-mdpi/ic_help_white_48dp.png"
     },
     {
+        "merged": "eu.siacs.conversations-merged_res-5:/mipmap-mdpi_ic_pastelito_launcher_foreground.png.flat",
+        "source": "eu.siacs.conversations-conversations-6:/mipmap-mdpi/ic_pastelito_launcher_foreground.png"
+    },
+    {
         "merged": "eu.siacs.conversations-merged_res-5:/interpolator-v21_m3_sys_motion_easing_standard_decelerate.xml.flat",
         "source": "eu.siacs.conversations-material-1.7.0-26:/interpolator-v21/m3_sys_motion_easing_standard_decelerate.xml"
     },
@@ -5106,6 +5206,10 @@
     {
         "merged": "eu.siacs.conversations-merged_res-5:/drawable-hdpi_ic_no_results_background_black.png.flat",
         "source": "eu.siacs.conversations-main-11:/drawable-hdpi/ic_no_results_background_black.png"
+    },
+    {
+        "merged": "eu.siacs.conversations-merged_res-5:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "eu.siacs.conversations-conversations-6:/mipmap-xxhdpi/ic_launcher.png"
     },
     {
         "merged": "eu.siacs.conversations-merged_res-5:/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
@@ -5404,6 +5508,10 @@
         "source": "eu.siacs.conversations-appcompat-1.5.1-19:/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl.png"
     },
     {
+        "merged": "eu.siacs.conversations-merged_res-5:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "eu.siacs.conversations-conversations-6:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
         "merged": "eu.siacs.conversations-merged_res-5:/drawable-xxxhdpi_play_video_white.png.flat",
         "source": "eu.siacs.conversations-main-11:/drawable-xxxhdpi/play_video_white.png"
     },
@@ -5534,6 +5642,10 @@
     {
         "merged": "eu.siacs.conversations-merged_res-5:/drawable-xhdpi_ic_call_white_48dp.png.flat",
         "source": "eu.siacs.conversations-main-11:/drawable-xhdpi/ic_call_white_48dp.png"
+    },
+    {
+        "merged": "eu.siacs.conversations-merged_res-5:/mipmap-anydpi-v26_ic_pastelito_launcher_round.xml.flat",
+        "source": "eu.siacs.conversations-conversations-6:/mipmap-anydpi-v26/ic_pastelito_launcher_round.xml"
     },
     {
         "merged": "eu.siacs.conversations-merged_res-5:/drawable-mdpi_ic_send_location_away.png.flat",
@@ -5760,6 +5872,10 @@
         "source": "eu.siacs.conversations-material-1.7.0-26:/color/material_on_background_emphasis_medium.xml"
     },
     {
+        "merged": "eu.siacs.conversations-merged_res-5:/mipmap-xxhdpi_ic_pastelito_launcher_round.png.flat",
+        "source": "eu.siacs.conversations-conversations-6:/mipmap-xxhdpi/ic_pastelito_launcher_round.png"
+    },
+    {
         "merged": "eu.siacs.conversations-merged_res-5:/drawable-xxxhdpi_ic_hourglass_empty_white_24dp.png.flat",
         "source": "eu.siacs.conversations-main-11:/drawable-xxxhdpi/ic_hourglass_empty_white_24dp.png"
     },
@@ -5946,6 +6062,10 @@
     {
         "merged": "eu.siacs.conversations-merged_res-5:/drawable-hdpi_message_bubble_received_grey.9.png.flat",
         "source": "eu.siacs.conversations-main-11:/drawable-hdpi/message_bubble_received_grey.9.png"
+    },
+    {
+        "merged": "eu.siacs.conversations-merged_res-5:/mipmap-xhdpi_ic_pastelito_launcher.png.flat",
+        "source": "eu.siacs.conversations-conversations-6:/mipmap-xhdpi/ic_pastelito_launcher.png"
     },
     {
         "merged": "eu.siacs.conversations-merged_res-5:/drawable_abc_ic_menu_share_mtrl_alpha.xml.flat",
@@ -6216,6 +6336,10 @@
         "source": "eu.siacs.conversations-material-1.7.0-26:/color/mtrl_navigation_bar_colored_item_tint.xml"
     },
     {
+        "merged": "eu.siacs.conversations-merged_res-5:/mipmap-mdpi_ic_pastelito_launcher.png.flat",
+        "source": "eu.siacs.conversations-conversations-6:/mipmap-mdpi/ic_pastelito_launcher.png"
+    },
+    {
         "merged": "eu.siacs.conversations-merged_res-5:/drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
         "source": "eu.siacs.conversations-appcompat-1.5.1-19:/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
@@ -6366,6 +6490,10 @@
     {
         "merged": "eu.siacs.conversations-merged_res-5:/drawable-xxxhdpi_ic_headset_white_48dp.png.flat",
         "source": "eu.siacs.conversations-main-11:/drawable-xxxhdpi/ic_headset_white_48dp.png"
+    },
+    {
+        "merged": "eu.siacs.conversations-merged_res-5:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "eu.siacs.conversations-conversations-6:/mipmap-xxhdpi/ic_launcher_foreground.png"
     },
     {
         "merged": "eu.siacs.conversations-merged_res-5:/drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
@@ -7472,6 +7600,10 @@
         "source": "eu.siacs.conversations-appcompat-1.5.1-19:/color/switch_thumb_material_dark.xml"
     },
     {
+        "merged": "eu.siacs.conversations-merged_res-5:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "eu.siacs.conversations-conversations-6:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
         "merged": "eu.siacs.conversations-merged_res-5:/layout_abc_alert_dialog_button_bar_material.xml.flat",
         "source": "eu.siacs.conversations-appcompat-1.5.1-19:/layout/abc_alert_dialog_button_bar_material.xml"
     },
@@ -7505,7 +7637,7 @@
     },
     {
         "merged": "eu.siacs.conversations-merged_res-5:/mipmap-xxxhdpi_ic_launcher_background.png.flat",
-        "source": "eu.siacs.conversations-main-11:/mipmap-xxxhdpi/ic_launcher_background.png"
+        "source": "eu.siacs.conversations-conversations-6:/mipmap-xxxhdpi/ic_launcher_background.png"
     },
     {
         "merged": "eu.siacs.conversations-merged_res-5:/drawable-hdpi_ic_send_location_offline_white.png.flat",
@@ -7757,11 +7889,15 @@
     },
     {
         "merged": "eu.siacs.conversations-merged_res-5:/mipmap-xhdpi_ic_launcher_background.png.flat",
-        "source": "eu.siacs.conversations-main-11:/mipmap-xhdpi/ic_launcher_background.png"
+        "source": "eu.siacs.conversations-conversations-6:/mipmap-xhdpi/ic_launcher_background.png"
     },
     {
         "merged": "eu.siacs.conversations-merged_res-5:/drawable-mdpi_ic_notifications_white80.png.flat",
         "source": "eu.siacs.conversations-main-11:/drawable-mdpi/ic_notifications_white80.png"
+    },
+    {
+        "merged": "eu.siacs.conversations-merged_res-5:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "eu.siacs.conversations-conversations-6:/mipmap-hdpi/ic_launcher_foreground.png"
     },
     {
         "merged": "eu.siacs.conversations-merged_res-5:/drawable-xxhdpi_ic_send_text_online.png.flat",
@@ -7977,7 +8113,7 @@
     },
     {
         "merged": "eu.siacs.conversations-merged_res-5:/mipmap-xxhdpi_ic_launcher_background.png.flat",
-        "source": "eu.siacs.conversations-main-11:/mipmap-xxhdpi/ic_launcher_background.png"
+        "source": "eu.siacs.conversations-conversations-6:/mipmap-xxhdpi/ic_launcher_background.png"
     },
     {
         "merged": "eu.siacs.conversations-merged_res-5:/layout_design_navigation_item.xml.flat",
