@@ -1,0 +1,25 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "SHRUNK_PROCESSED_RES",
+    "kind": "Directory"
+  },
+  "applicationId": "eu.siacs.conversations",
+  "variantName": "conversationsFreeDebug",
+  "elements": [
+    {
+      "type": "ONE_OF_MANY",
+      "filters": [
+        {
+          "filterType": "ABI",
+          "value": "x86_64"
+        }
+      ],
+      "attributes": [],
+      "versionCode": 4205303,
+      "versionName": "2.12.2+free",
+      "outputFile": "resources-conversations-free-x86_64-debug-stripped.ap_"
+    }
+  ],
+  "elementType": "File"
+}

@@ -1,0 +1,16 @@
+eu.siacs.conversations.test.R$string
+eu.siacs.conversations.test.BuildConfig
+eu.siacs.conversations.test.R
+eu.siacs.conversations.test.R$string: int applicationId
+eu.siacs.conversations.test.BuildConfig: boolean DEBUG
+eu.siacs.conversations.test.BuildConfig: java.lang.String APP_NAME
+eu.siacs.conversations.test.R$string: int app_name
+eu.siacs.conversations.test.BuildConfig: java.lang.String FLAVOR
+eu.siacs.conversations.test.BuildConfig: java.lang.String APPLICATION_ID
+eu.siacs.conversations.test.BuildConfig: java.lang.String FLAVOR_mode
+eu.siacs.conversations.test.BuildConfig: java.lang.String BUILD_TYPE
+eu.siacs.conversations.test.BuildConfig: java.lang.String FLAVOR_distribution
+eu.siacs.conversations.test.BuildConfig: BuildConfig()
+eu.siacs.conversations.test.R$string: R$string()
+eu.siacs.conversations.test.R: R()
+eu.siacs.conversations.test.BuildConfig: <clinit>()

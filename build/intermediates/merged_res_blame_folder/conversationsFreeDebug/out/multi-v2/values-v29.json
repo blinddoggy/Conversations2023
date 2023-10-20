@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "eu.siacs.conversations-mergeConversationsFreeDebugResources-3:/values-v29/values-v29.xml",
+            "map": [
+                {
+                    "source": "/home/m/Documents/chats/191023/Conversations/src/main/res/values-v29/theme-settings.xml",
+                    "from": {
+                        "startLines": "4,9,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "147,375,103",
+                        "endLines": "8,13,3",
+                        "endColumns": "19,16,43",
+                        "endOffsets": "370,533,142"
+                    },
+                    "to": {
+                        "startLines": "2,7,12",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "100,326,487",
+                        "endLines": "6,11,12",
+                        "endColumns": "19,16,43",
+                        "endOffsets": "321,482,526"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1032 @@
+-- Merging decision tree log ---
+provider#androidx.core.content.FileProvider
+INJECTED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:319:9-327:20
+	android:authorities
+		INJECTED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml
+provider#eu.siacs.conversations.services.BarcodeProvider
+INJECTED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:328:9-332:50
+	android:authorities
+		INJECTED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml
+manifest
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:2:1-355:12
+INJECTED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:2:1-355:12
+INJECTED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:2:1-355:12
+INJECTED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:2:1-355:12
+MERGED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:2:1-355:12
+MERGED from [androidx.databinding:databinding-adapters:7.4.2] /root/.gradle/caches/transforms-3/0b6eae7a0528cd3cab0f7fa5c8b7fa21/transformed/databinding-adapters-7.4.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:databinding-runtime:7.4.2] /root/.gradle/caches/transforms-3/38b9ae41e6a1be86e40d88c015980f00/transformed/databinding-runtime-7.4.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-bundled:1.2.0] /root/.gradle/caches/transforms-3/d7eb9dbbaf3250fb1b65c23f69aefbdf/transformed/jetified-emoji2-bundled-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.8.0] /root/.gradle/caches/transforms-3/a3f81242e355838f8247caadd726b993/transformed/jetified-android-image-cropper-2.8.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.leinardi.android:speed-dial:3.2.0] /root/.gradle/caches/transforms-3/9204ef0519aadbf684d1b8c442b43ec3/transformed/jetified-speed-dial-3.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.7.0] /root/.gradle/caches/transforms-3/598c0091487948f7835699fba122d3ec/transformed/material-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /root/.gradle/caches/transforms-3/e04b2f8950b43202949e4fb247c45c82/transformed/jetified-appcompat-resources-1.5.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /root/.gradle/caches/transforms-3/5d71c09e320f59ac02ee86e96c089f7e/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.5.1] /root/.gradle/caches/transforms-3/2c6b57251dffc0c864c49803d7fb8849/transformed/appcompat-1.5.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /root/.gradle/caches/transforms-3/0ee68bfbd682d7e290626937651372ad/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /root/.gradle/caches/transforms-3/de00681d1b149848a0dab915e4ae741a/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /root/.gradle/caches/transforms-3/064f6efcf72e45025c96c41bb0313fb3/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.sufficientlysecure:openpgp-api:10.0] /root/.gradle/caches/transforms-3/deb4321b19d702fe5efe72efd41ec5cc/transformed/jetified-openpgp-api-10.0/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.5] /root/.gradle/caches/transforms-3/d22f3df0936c14ace3ba094697c62488/transformed/exifinterface-1.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /root/.gradle/caches/transforms-3/1f624a3ec658e1a90eb17b72d8f4e5aa/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /root/.gradle/caches/transforms-3/1769e9f5cce8a3f9ca50033d23230dc5/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /root/.gradle/caches/transforms-3/2f4e5cd3c19a22ad658424fbd55db187/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /root/.gradle/caches/transforms-3/27ea2d1fe40306b6a6ebc7514e2ae640/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [me.leolin:ShortcutBadger:1.1.22] /root/.gradle/caches/transforms-3/89df1d6d99fd8b8baf87004ebfccf971/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:2:1-52:12
+MERGED from [com.makeramen:roundedimageview:2.3.0] /root/.gradle/caches/transforms-3/4f6e8bcc2ccb6f5ec686a4c7b4a80d59/transformed/jetified-roundedimageview-2.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.wefika:flowlayout:0.4.1] /root/.gradle/caches/transforms-3/ddf10723df9833147670c93a65873076/transformed/jetified-flowlayout-0.4.1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.otaliastudios:transcoder:0.9.1] /root/.gradle/caches/transforms-3/ea0dde4c2557dd15d74ec58a2ec40420/transformed/jetified-transcoder-0.9.1/AndroidManifest.xml:2:1-13:12
+MERGED from [org.osmdroid:osmdroid-android:6.1.11] /root/.gradle/caches/transforms-3/5a0827e2faa34b9faaa6125f3b86ee20/transformed/jetified-osmdroid-android-6.1.11/AndroidManifest.xml:2:1-29:12
+MERGED from [org.conscrypt:conscrypt-android:2.5.2] /root/.gradle/caches/transforms-3/4eb35c0b8db8803aa4ae2995a87cbf5f/transformed/jetified-conscrypt-android-2.5.2/AndroidManifest.xml:2:1-13:12
+MERGED from [me.drakeet.support:toastcompat:1.1.0] /root/.gradle/caches/transforms-3/c9569010efda3f55abed67a8e1251d24/transformed/jetified-toastcompat-1.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [im.conversations.webrtc:webrtc-android:104.0.0] /root/.gradle/caches/transforms-3/a82eee6c6126f814dedfb38b7a47e006/transformed/jetified-webrtc-android-104.0.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.activity:activity:1.5.1] /root/.gradle/caches/transforms-3/9d5935c87fbf049580169f5225692242/transformed/jetified-activity-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /root/.gradle/caches/transforms-3/c49cd9f9e70a62c0cfb6a9c057db283b/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /root/.gradle/caches/transforms-3/bf2a6d46c92d2b1b015ce44f75d834ab/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /root/.gradle/caches/transforms-3/f4e7914e58ba093567760f9d22f3626d/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /root/.gradle/caches/transforms-3/ce8e9fef21b12750b78ea8e6de235acd/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /root/.gradle/caches/transforms-3/a7df65a8c9e3ccc272ac26dbb4e6f86a/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.8.0] /root/.gradle/caches/transforms-3/6ea8cffcc3b5e9543ae29cd44669af22/transformed/jetified-core-ktx-1.8.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /root/.gradle/caches/transforms-3/7bc7a5b48c08c285c7816e5896abfab2/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /root/.gradle/caches/transforms-3/8255cf8f73e0ec2d884b3aa8102e6cd4/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /root/.gradle/caches/transforms-3/cf7ed2c7db25c1ed83dad3026c9a2688/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /root/.gradle/caches/transforms-3/5d6dbb7a2526cb46a310f1fa772a8328/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /root/.gradle/caches/transforms-3/c17573ade799759c56baf884a28f8de6/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /root/.gradle/caches/transforms-3/722cfa06d51a32340f337ac9798393bf/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /root/.gradle/caches/transforms-3/4432a2afdd19fc85814143f134bfa94c/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.8.0] /root/.gradle/caches/transforms-3/f8ca33f57cc610a0b1ed31d0cc4084bb/transformed/core-1.8.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /root/.gradle/caches/transforms-3/4b621581b14be943fef7e9025808a5ef/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.databinding:viewbinding:7.4.2] /root/.gradle/caches/transforms-3/6e1da9345dc15dce5ba74f851a2eef3d/transformed/jetified-viewbinding-7.4.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /root/.gradle/caches/transforms-3/1d1173f99a1313055c26367e9296308a/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /root/.gradle/caches/transforms-3/34be6e117e2e06ff01a6121271053230/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /root/.gradle/caches/transforms-3/2365384ad980976d11b4bd9d48d00571/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /root/.gradle/caches/transforms-3/56231006098977eb2b0b774fbfdbf755/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /root/.gradle/caches/transforms-3/fe726d578f90e61f945e51ad06a99ee0/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.otaliastudios.opengl:egloo:0.4.0] /root/.gradle/caches/transforms-3/465f0bc3edd23ff1cdb346164c324d0c/transformed/jetified-egloo-0.4.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /root/.gradle/caches/transforms-3/eb59ad3ff2cc3f8ea455ecf10b9a5b47/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /root/.gradle/caches/transforms-3/66eb2c428070a7989cc3e53427124072/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /root/.gradle/caches/transforms-3/94c1e08774be1a91ac7aa4bf2cb72cb3/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /root/.gradle/caches/transforms-3/11719f426e3912cf36f493acb6a06bf9/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /root/.gradle/caches/transforms-3/6eaf261807bfdfb11a3a18692cc26456/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /root/.gradle/caches/transforms-3/dc95db927df936e003ea23f2b843af5c/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /root/.gradle/caches/transforms-3/4a128805ae54552b7183634231e39ff5/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /root/.gradle/caches/transforms-3/ae4109ec1e873f2074e4c3a60211a759/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /root/.gradle/caches/transforms-3/3e1991dda6c66b9f0750b6708f7555ea/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:2:1-80:12
+INJECTED from /home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:2:1-80:12
+INJECTED from /home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:2:1-80:12
+	package
+		INJECTED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:2:1-355:12
+		INJECTED from /home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:2:1-355:12
+		INJECTED from /home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:3:5-51
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:2:1-355:12
+		INJECTED from /home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH_CONNECT
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:5:5-76
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:5:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:8:22-69
+uses-permission#android.permission.READ_PROFILE
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:9:5-71
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:9:22-68
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:10:5-12:38
+	android:maxSdkVersion
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:12:9-35
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:11:9-59
+uses-permission#android.permission.INTERNET
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:13:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:14:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:15:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:16:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:17:5-66
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:17:22-63
+uses-permission#android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:18:5-95
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:18:22-92
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:19:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:20:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:21:5-76
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:21:22-73
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:22:5-77
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:22:22-74
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:23:5-83
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:23:22-80
+uses-feature#android.hardware.location
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:26:9-49
+uses-feature#android.hardware.location.gps
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:28:5-30:36
+MERGED from [org.osmdroid:osmdroid-android:6.1.11] /root/.gradle/caches/transforms-3/5a0827e2faa34b9faaa6125f3b86ee20/transformed/jetified-osmdroid-android-6.1.11/AndroidManifest.xml:19:5-21:36
+MERGED from [org.osmdroid:osmdroid-android:6.1.11] /root/.gradle/caches/transforms-3/5a0827e2faa34b9faaa6125f3b86ee20/transformed/jetified-osmdroid-android-6.1.11/AndroidManifest.xml:19:5-21:36
+	android:required
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:29:9-53
+uses-feature#android.hardware.location.network
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:31:5-33:36
+MERGED from [org.osmdroid:osmdroid-android:6.1.11] /root/.gradle/caches/transforms-3/5a0827e2faa34b9faaa6125f3b86ee20/transformed/jetified-osmdroid-android-6.1.11/AndroidManifest.xml:16:5-18:36
+MERGED from [org.osmdroid:osmdroid-android:6.1.11] /root/.gradle/caches/transforms-3/5a0827e2faa34b9faaa6125f3b86ee20/transformed/jetified-osmdroid-android-6.1.11/AndroidManifest.xml:16:5-18:36
+	android:required
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:33:9-33
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:32:9-57
+uses-permission#android.permission.CAMERA
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:35:5-65
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:35:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:36:5-71
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:36:22-68
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:37:5-68
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:37:22-65
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:38:5-80
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:38:22-77
+uses-permission#android.permission.USE_FULL_SCREEN_INTENT
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:39:5-81
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:39:22-78
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:40:5-78
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:40:22-75
+uses-feature#android.hardware.camera
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:42:5-44:36
+	android:required
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:44:9-33
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:43:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:45:5-47:36
+	android:required
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:47:9-33
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:46:9-57
+uses-feature#android.hardware.microphone
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:49:5-51:36
+	android:required
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:51:9-33
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:50:9-51
+queries
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:53:5-73:15
+package#org.sufficientlysecure.keychain
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:54:9-67
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:54:18-64
+package#org.torproject.android
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:55:9-58
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:55:18-55
+intent#action:name:eu.siacs.conversations.location.request
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:57:9-59:18
+action#eu.siacs.conversations.location.request
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:58:13-78
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:58:21-75
+intent#action:name:eu.siacs.conversations.location.show
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:60:9-62:18
+action#eu.siacs.conversations.location.show
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:61:13-75
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:61:21-72
+intent#action:name:android.intent.action.VIEW+data:mimeType:resource/folder
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:63:9-66:18
+action#android.intent.action.VIEW
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:64:13-65
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:64:21-62
+data
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
+	android:host
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:51:23-39
+	android:scheme
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:35:23-47
+	android:pathPattern
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:53:23-53
+	android:mimeType
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:19-53
+intent#action:name:android.intent.action.VIEW
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:67:9-69:18
+intent#action:name:org.unifiedpush.android.connector.MESSAGE
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:70:9-72:18
+action#org.unifiedpush.android.connector.MESSAGE
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:71:13-79
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:71:21-77
+application
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:76:5-353:19
+MERGED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:76:5-353:19
+MERGED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:76:5-353:19
+MERGED from [androidx.emoji2:emoji2-bundled:1.2.0] /root/.gradle/caches/transforms-3/d7eb9dbbaf3250fb1b65c23f69aefbdf/transformed/jetified-emoji2-bundled-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2-bundled:1.2.0] /root/.gradle/caches/transforms-3/d7eb9dbbaf3250fb1b65c23f69aefbdf/transformed/jetified-emoji2-bundled-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.material:material:1.7.0] /root/.gradle/caches/transforms-3/598c0091487948f7835699fba122d3ec/transformed/material-1.7.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.7.0] /root/.gradle/caches/transforms-3/598c0091487948f7835699fba122d3ec/transformed/material-1.7.0/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /root/.gradle/caches/transforms-3/5d71c09e320f59ac02ee86e96c089f7e/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /root/.gradle/caches/transforms-3/5d71c09e320f59ac02ee86e96c089f7e/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [org.sufficientlysecure:openpgp-api:10.0] /root/.gradle/caches/transforms-3/deb4321b19d702fe5efe72efd41ec5cc/transformed/jetified-openpgp-api-10.0/AndroidManifest.xml:11:5-20
+MERGED from [org.sufficientlysecure:openpgp-api:10.0] /root/.gradle/caches/transforms-3/deb4321b19d702fe5efe72efd41ec5cc/transformed/jetified-openpgp-api-10.0/AndroidManifest.xml:11:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /root/.gradle/caches/transforms-3/27ea2d1fe40306b6a6ebc7514e2ae640/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /root/.gradle/caches/transforms-3/27ea2d1fe40306b6a6ebc7514e2ae640/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [com.wefika:flowlayout:0.4.1] /root/.gradle/caches/transforms-3/ddf10723df9833147670c93a65873076/transformed/jetified-flowlayout-0.4.1/AndroidManifest.xml:11:5-20
+MERGED from [com.wefika:flowlayout:0.4.1] /root/.gradle/caches/transforms-3/ddf10723df9833147670c93a65873076/transformed/jetified-flowlayout-0.4.1/AndroidManifest.xml:11:5-20
+MERGED from [com.otaliastudios:transcoder:0.9.1] /root/.gradle/caches/transforms-3/ea0dde4c2557dd15d74ec58a2ec40420/transformed/jetified-transcoder-0.9.1/AndroidManifest.xml:11:5-20
+MERGED from [com.otaliastudios:transcoder:0.9.1] /root/.gradle/caches/transforms-3/ea0dde4c2557dd15d74ec58a2ec40420/transformed/jetified-transcoder-0.9.1/AndroidManifest.xml:11:5-20
+MERGED from [org.conscrypt:conscrypt-android:2.5.2] /root/.gradle/caches/transforms-3/4eb35c0b8db8803aa4ae2995a87cbf5f/transformed/jetified-conscrypt-android-2.5.2/AndroidManifest.xml:11:5-20
+MERGED from [org.conscrypt:conscrypt-android:2.5.2] /root/.gradle/caches/transforms-3/4eb35c0b8db8803aa4ae2995a87cbf5f/transformed/jetified-conscrypt-android-2.5.2/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.8.0] /root/.gradle/caches/transforms-3/f8ca33f57cc610a0b1ed31d0cc4084bb/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] /root/.gradle/caches/transforms-3/f8ca33f57cc610a0b1ed31d0cc4084bb/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /root/.gradle/caches/transforms-3/4b621581b14be943fef7e9025808a5ef/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /root/.gradle/caches/transforms-3/4b621581b14be943fef7e9025808a5ef/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /root/.gradle/caches/transforms-3/1d1173f99a1313055c26367e9296308a/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /root/.gradle/caches/transforms-3/1d1173f99a1313055c26367e9296308a/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [com.otaliastudios.opengl:egloo:0.4.0] /root/.gradle/caches/transforms-3/465f0bc3edd23ff1cdb346164c324d0c/transformed/jetified-egloo-0.4.0/AndroidManifest.xml:10:5-20
+MERGED from [com.otaliastudios.opengl:egloo:0.4.0] /root/.gradle/caches/transforms-3/465f0bc3edd23ff1cdb346164c324d0c/transformed/jetified-egloo-0.4.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /root/.gradle/caches/transforms-3/11719f426e3912cf36f493acb6a06bf9/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /root/.gradle/caches/transforms-3/11719f426e3912cf36f493acb6a06bf9/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:requestLegacyExternalStorage
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:86:9-52
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:86:9-52
+	android:appCategory
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:78:9-37
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:78:9-37
+	android:largeHeap
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:83:9-33
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:83:9-33
+	android:icon
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:81:9-44
+	android:networkSecurityConfig
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:84:9-76
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:84:9-76
+	android:preserveLegacyExternalStorage
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:85:9-53
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:85:9-53
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] /root/.gradle/caches/transforms-3/f8ca33f57cc610a0b1ed31d0cc4084bb/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:82:9-41
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:82:9-41
+	android:hardwareAccelerated
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:80:9-43
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:80:9-43
+	android:fullBackupContent
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:79:9-56
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:79:9-56
+	tools:targetApi
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:89:9-28
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:89:9-28
+	android:allowBackup
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:77:9-35
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:77:9-35
+	android:theme
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:87:9-50
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:87:9-50
+	tools:replace
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:88:9-38
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:88:9-38
+meta-data#com.google.android.gms.car.application
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:91:9-93:59
+	android:resource
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:93:13-56
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:92:13-66
+service#eu.siacs.conversations.services.XmppConnectionService
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:95:9-67
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:95:18-64
+receiver#eu.siacs.conversations.services.EventReceiver
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:97:9-106:20
+	android:exported
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:99:13-36
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:98:13-51
+intent-filter#action:name:android.intent.action.ACTION_SHUTDOWN+action:name:android.intent.action.BOOT_COMPLETED+action:name:android.media.RINGER_MODE_CHANGED+action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:100:13-105:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:101:17-79
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:101:25-76
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:102:17-79
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:102:25-76
+action#android.intent.action.ACTION_SHUTDOWN
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:103:17-80
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:103:25-77
+action#android.media.RINGER_MODE_CHANGED
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:104:17-76
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:104:25-73
+receiver#eu.siacs.conversations.services.UnifiedPushDistributor
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:108:9-121:20
+	android:enabled
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:110:13-36
+	android:exported
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:111:13-36
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:109:13-60
+intent-filter#action:name:org.unifiedpush.android.distributor.REGISTER+action:name:org.unifiedpush.android.distributor.UNREGISTER+action:name:org.unifiedpush.android.distributor.feature.BYTES_MESSAGE
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:112:13-116:29
+action#org.unifiedpush.android.distributor.REGISTER
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:113:17-87
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:113:25-84
+action#org.unifiedpush.android.distributor.UNREGISTER
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:114:17-89
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:114:25-86
+action#org.unifiedpush.android.distributor.feature.BYTES_MESSAGE
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:115:17-100
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:115:25-97
+intent-filter#action:name:android.intent.action.PACKAGE_FULLY_REMOVED+data:scheme:package
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:117:13-120:29
+action#android.intent.action.PACKAGE_FULLY_REMOVED
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:118:17-86
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:118:25-83
+activity#eu.siacs.conversations.ui.ShareLocationActivity
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:123:9-125:69
+	android:label
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:125:13-66
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:124:13-53
+activity#eu.siacs.conversations.ui.SearchActivity
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:126:9-128:55
+	android:label
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:128:13-52
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:127:13-46
+activity#eu.siacs.conversations.ui.RecordingActivity
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:129:9-132:64
+	android:configChanges
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:131:13-59
+	android:theme
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:132:13-61
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:130:13-49
+activity#eu.siacs.conversations.ui.ShowLocationActivity
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:133:9-135:68
+	android:label
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:135:13-65
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:134:13-52
+activity#eu.siacs.conversations.ui.ConversationActivity
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:136:9-144:20
+	android:exported
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:138:13-36
+	android:theme
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:139:13-47
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:137:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:140:13-143:29
+action#android.intent.action.MAIN
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:141:17-69
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:141:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:142:17-77
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:142:27-74
+activity#eu.siacs.conversations.ui.ConversationsActivity
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:145:9-151:57
+	android:label
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:147:13-45
+	android:minWidth
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:149:13-37
+	android:minHeight
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:150:13-38
+	android:launchMode
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:148:13-44
+	android:windowSoftInputMode
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:151:13-54
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:146:13-53
+activity#eu.siacs.conversations.ui.ScanActivity
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:152:9-156:63
+	android:screenOrientation
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:154:13-49
+	android:windowSoftInputMode
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:156:13-60
+	android:theme
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:155:13-65
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:153:13-44
+activity#eu.siacs.conversations.ui.UriHandlerActivity
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:157:9-196:20
+	android:label
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:160:13-45
+	android:exported
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:159:13-36
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:158:13-50
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:xmpp
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:161:13-168:29
+category#android.intent.category.DEFAULT
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:164:17-76
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:164:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:165:17-78
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:165:27-75
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:conversations.im+data:pathPrefix:/i/+data:pathPrefix:/j/+data:scheme:https
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:169:13-179:29
+	android:autoVerify
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:169:28-53
+intent-filter#action:name:android.intent.action.SENDTO+category:name:android.intent.category.DEFAULT+data:host:jabber+data:scheme:imto
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:180:13-187:29
+action#android.intent.action.SENDTO
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:181:17-71
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:181:25-68
+intent-filter#action:name:android.intent.action.SENDTO+category:name:android.intent.category.DEFAULT+data:host:xmpp+data:scheme:imto
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:188:13-195:29
+activity#eu.siacs.conversations.ui.StartConversationActivity
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:197:9-205:20
+	android:label
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:200:13-70
+	android:launchMode
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:201:13-43
+	android:exported
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:199:13-36
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:198:13-57
+intent-filter#action:name:android.intent.action.VIEW
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:202:13-204:29
+activity#eu.siacs.conversations.ui.SettingsActivity
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:206:9-214:20
+	android:label
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:209:13-60
+	android:exported
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:208:13-36
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:207:13-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.NOTIFICATION_PREFERENCES
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:210:13-213:29
+category#android.intent.category.NOTIFICATION_PREFERENCES
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:212:17-93
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:212:27-90
+activity#eu.siacs.conversations.ui.ChooseContactActivity
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:215:9-217:69
+	android:label
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:217:13-66
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:216:13-53
+activity#eu.siacs.conversations.ui.BlocklistActivity
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:218:9-220:65
+	android:label
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:220:13-62
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:219:13-49
+activity#eu.siacs.conversations.ui.ChangePasswordActivity
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:221:9-223:65
+	android:label
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:223:13-62
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:222:13-54
+activity#eu.siacs.conversations.ui.ChooseAccountForProfilePictureActivity
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:224:9-235:20
+	android:enabled
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:226:13-36
+	android:label
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:228:13-51
+	android:exported
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:227:13-36
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:225:13-70
+intent-filter#action:name:android.intent.action.ATTACH_DATA+category:name:android.intent.category.DEFAULT+data:mimeType:image/*
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:229:13-234:29
+	android:label
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:229:28-71
+action#android.intent.action.ATTACH_DATA
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:230:17-76
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:230:25-73
+activity#eu.siacs.conversations.ui.ShareViaAccountActivity
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:236:9-239:46
+	android:label
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:238:13-69
+	android:launchMode
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:239:13-43
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:237:13-55
+activity#eu.siacs.conversations.ui.EditAccountActivity
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:240:9-244:70
+	android:launchMode
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:243:13-43
+	android:windowSoftInputMode
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:244:13-67
+	android:exported
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:242:13-37
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:241:13-51
+activity#eu.siacs.conversations.ui.ConferenceDetailsActivity
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:245:9-248:57
+	android:label
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:247:13-55
+	android:windowSoftInputMode
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:248:13-54
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:246:13-57
+activity#eu.siacs.conversations.ui.ContactDetailsActivity
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:249:9-251:57
+	android:windowSoftInputMode
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:251:13-54
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:250:13-54
+activity#eu.siacs.conversations.ui.PublishProfilePictureActivity
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:252:9-255:57
+	android:label
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:254:13-64
+	android:windowSoftInputMode
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:255:13-54
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:253:13-61
+activity#eu.siacs.conversations.ui.PublishGroupChatProfilePictureActivity
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:256:9-258:57
+	android:label
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:258:13-54
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:257:13-70
+activity#eu.siacs.conversations.ui.ShareWithActivity
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:259:9-287:20
+	android:label
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:262:13-45
+	android:launchMode
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:263:13-43
+	android:exported
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:261:13-36
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:260:13-49
+intent-filter#action:name:android.intent.action.SEND+action:name:android.intent.action.SEND_MULTIPLE+category:name:android.intent.category.DEFAULT+data:mimeType:text/plain
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:265:13-272:29
+action#android.intent.action.SEND
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:266:17-69
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:266:25-66
+action#android.intent.action.SEND_MULTIPLE
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:267:17-78
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:267:25-75
+intent-filter#action:name:android.intent.action.SEND+action:name:android.intent.action.SEND_MULTIPLE+category:name:android.intent.category.DEFAULT+data:mimeType:*/*
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:274:13-281:29
+meta-data#android.service.chooser.chooser_target_service
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:284:13-286:95
+	android:value
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:286:17-92
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:285:17-78
+activity#eu.siacs.conversations.ui.TrustKeysActivity
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:288:9-291:63
+	android:label
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:290:13-61
+	android:windowSoftInputMode
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:291:13-60
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:289:13-49
+activity#eu.siacs.conversations.ui.AboutActivity
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:292:9-298:20
+	android:parentActivityName
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:294:13-62
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:293:13-45
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:295:13-297:78
+	android:value
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:297:17-75
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:296:17-63
+activity#com.theartofdev.edmodo.cropper.CropImageActivity
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:299:9-301:59
+	android:theme
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:301:13-56
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:300:13-76
+activity#eu.siacs.conversations.ui.MemorizingActivity
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:302:9-59
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:302:19-56
+activity#eu.siacs.conversations.ui.MediaBrowserActivity
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:304:9-306:53
+	android:label
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:306:13-50
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:305:13-52
+service#eu.siacs.conversations.services.ExportBackupService
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:308:9-65
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:308:18-62
+service#eu.siacs.conversations.services.ImportBackupService
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:309:9-65
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:309:18-62
+service#eu.siacs.conversations.services.ContactChooserTargetService
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:310:9-317:19
+	android:exported
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:312:13-36
+	android:permission
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:313:13-80
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:311:13-65
+intent-filter#action:name:android.service.chooser.ChooserTargetService
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:314:13-316:29
+action#android.service.chooser.ChooserTargetService
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:315:17-87
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:315:25-84
+activity#eu.siacs.conversations.ui.ShortcutActivity
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:334:9-341:20
+	android:label
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:337:13-44
+	android:exported
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:336:13-36
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:335:13-48
+intent-filter#action:name:android.intent.action.CREATE_SHORTCUT
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:338:13-340:29
+action#android.intent.action.CREATE_SHORTCUT
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:339:17-80
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:339:25-77
+activity#eu.siacs.conversations.ui.MucUsersActivity
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:342:9-344:58
+	android:label
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:344:13-55
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:343:13-48
+activity#eu.siacs.conversations.ui.ChannelDiscoveryActivity
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:345:9-347:57
+	android:label
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:347:13-54
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:346:13-56
+activity#eu.siacs.conversations.ui.RtpSessionActivity
+ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:348:9-352:55
+	android:launchMode
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:351:13-48
+	android:autoRemoveFromRecents
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:350:13-49
+	android:supportsPictureInPicture
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:352:13-52
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:349:13-50
+uses-sdk
+INJECTED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml
+INJECTED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:7.4.2] /root/.gradle/caches/transforms-3/0b6eae7a0528cd3cab0f7fa5c8b7fa21/transformed/databinding-adapters-7.4.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-adapters:7.4.2] /root/.gradle/caches/transforms-3/0b6eae7a0528cd3cab0f7fa5c8b7fa21/transformed/databinding-adapters-7.4.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:7.4.2] /root/.gradle/caches/transforms-3/38b9ae41e6a1be86e40d88c015980f00/transformed/databinding-runtime-7.4.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:7.4.2] /root/.gradle/caches/transforms-3/38b9ae41e6a1be86e40d88c015980f00/transformed/databinding-runtime-7.4.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-bundled:1.2.0] /root/.gradle/caches/transforms-3/d7eb9dbbaf3250fb1b65c23f69aefbdf/transformed/jetified-emoji2-bundled-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2-bundled:1.2.0] /root/.gradle/caches/transforms-3/d7eb9dbbaf3250fb1b65c23f69aefbdf/transformed/jetified-emoji2-bundled-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.8.0] /root/.gradle/caches/transforms-3/a3f81242e355838f8247caadd726b993/transformed/jetified-android-image-cropper-2.8.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.8.0] /root/.gradle/caches/transforms-3/a3f81242e355838f8247caadd726b993/transformed/jetified-android-image-cropper-2.8.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.leinardi.android:speed-dial:3.2.0] /root/.gradle/caches/transforms-3/9204ef0519aadbf684d1b8c442b43ec3/transformed/jetified-speed-dial-3.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.leinardi.android:speed-dial:3.2.0] /root/.gradle/caches/transforms-3/9204ef0519aadbf684d1b8c442b43ec3/transformed/jetified-speed-dial-3.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.7.0] /root/.gradle/caches/transforms-3/598c0091487948f7835699fba122d3ec/transformed/material-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.7.0] /root/.gradle/caches/transforms-3/598c0091487948f7835699fba122d3ec/transformed/material-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /root/.gradle/caches/transforms-3/e04b2f8950b43202949e4fb247c45c82/transformed/jetified-appcompat-resources-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /root/.gradle/caches/transforms-3/e04b2f8950b43202949e4fb247c45c82/transformed/jetified-appcompat-resources-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /root/.gradle/caches/transforms-3/5d71c09e320f59ac02ee86e96c089f7e/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /root/.gradle/caches/transforms-3/5d71c09e320f59ac02ee86e96c089f7e/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.5.1] /root/.gradle/caches/transforms-3/2c6b57251dffc0c864c49803d7fb8849/transformed/appcompat-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] /root/.gradle/caches/transforms-3/2c6b57251dffc0c864c49803d7fb8849/transformed/appcompat-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /root/.gradle/caches/transforms-3/0ee68bfbd682d7e290626937651372ad/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /root/.gradle/caches/transforms-3/0ee68bfbd682d7e290626937651372ad/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /root/.gradle/caches/transforms-3/de00681d1b149848a0dab915e4ae741a/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /root/.gradle/caches/transforms-3/de00681d1b149848a0dab915e4ae741a/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /root/.gradle/caches/transforms-3/064f6efcf72e45025c96c41bb0313fb3/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /root/.gradle/caches/transforms-3/064f6efcf72e45025c96c41bb0313fb3/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.sufficientlysecure:openpgp-api:10.0] /root/.gradle/caches/transforms-3/deb4321b19d702fe5efe72efd41ec5cc/transformed/jetified-openpgp-api-10.0/AndroidManifest.xml:7:5-9:41
+MERGED from [org.sufficientlysecure:openpgp-api:10.0] /root/.gradle/caches/transforms-3/deb4321b19d702fe5efe72efd41ec5cc/transformed/jetified-openpgp-api-10.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.5] /root/.gradle/caches/transforms-3/d22f3df0936c14ace3ba094697c62488/transformed/exifinterface-1.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.5] /root/.gradle/caches/transforms-3/d22f3df0936c14ace3ba094697c62488/transformed/exifinterface-1.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /root/.gradle/caches/transforms-3/1f624a3ec658e1a90eb17b72d8f4e5aa/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /root/.gradle/caches/transforms-3/1f624a3ec658e1a90eb17b72d8f4e5aa/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /root/.gradle/caches/transforms-3/1769e9f5cce8a3f9ca50033d23230dc5/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /root/.gradle/caches/transforms-3/1769e9f5cce8a3f9ca50033d23230dc5/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /root/.gradle/caches/transforms-3/2f4e5cd3c19a22ad658424fbd55db187/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /root/.gradle/caches/transforms-3/2f4e5cd3c19a22ad658424fbd55db187/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /root/.gradle/caches/transforms-3/27ea2d1fe40306b6a6ebc7514e2ae640/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /root/.gradle/caches/transforms-3/27ea2d1fe40306b6a6ebc7514e2ae640/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [me.leolin:ShortcutBadger:1.1.22] /root/.gradle/caches/transforms-3/89df1d6d99fd8b8baf87004ebfccf971/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.22] /root/.gradle/caches/transforms-3/89df1d6d99fd8b8baf87004ebfccf971/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:7:5-9:41
+MERGED from [com.makeramen:roundedimageview:2.3.0] /root/.gradle/caches/transforms-3/4f6e8bcc2ccb6f5ec686a4c7b4a80d59/transformed/jetified-roundedimageview-2.3.0/AndroidManifest.xml:7:5-43
+MERGED from [com.makeramen:roundedimageview:2.3.0] /root/.gradle/caches/transforms-3/4f6e8bcc2ccb6f5ec686a4c7b4a80d59/transformed/jetified-roundedimageview-2.3.0/AndroidManifest.xml:7:5-43
+MERGED from [com.wefika:flowlayout:0.4.1] /root/.gradle/caches/transforms-3/ddf10723df9833147670c93a65873076/transformed/jetified-flowlayout-0.4.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.wefika:flowlayout:0.4.1] /root/.gradle/caches/transforms-3/ddf10723df9833147670c93a65873076/transformed/jetified-flowlayout-0.4.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.otaliastudios:transcoder:0.9.1] /root/.gradle/caches/transforms-3/ea0dde4c2557dd15d74ec58a2ec40420/transformed/jetified-transcoder-0.9.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.otaliastudios:transcoder:0.9.1] /root/.gradle/caches/transforms-3/ea0dde4c2557dd15d74ec58a2ec40420/transformed/jetified-transcoder-0.9.1/AndroidManifest.xml:7:5-9:41
+MERGED from [org.osmdroid:osmdroid-android:6.1.11] /root/.gradle/caches/transforms-3/5a0827e2faa34b9faaa6125f3b86ee20/transformed/jetified-osmdroid-android-6.1.11/AndroidManifest.xml:7:5-9:41
+MERGED from [org.osmdroid:osmdroid-android:6.1.11] /root/.gradle/caches/transforms-3/5a0827e2faa34b9faaa6125f3b86ee20/transformed/jetified-osmdroid-android-6.1.11/AndroidManifest.xml:7:5-9:41
+MERGED from [org.conscrypt:conscrypt-android:2.5.2] /root/.gradle/caches/transforms-3/4eb35c0b8db8803aa4ae2995a87cbf5f/transformed/jetified-conscrypt-android-2.5.2/AndroidManifest.xml:7:5-9:41
+MERGED from [org.conscrypt:conscrypt-android:2.5.2] /root/.gradle/caches/transforms-3/4eb35c0b8db8803aa4ae2995a87cbf5f/transformed/jetified-conscrypt-android-2.5.2/AndroidManifest.xml:7:5-9:41
+MERGED from [me.drakeet.support:toastcompat:1.1.0] /root/.gradle/caches/transforms-3/c9569010efda3f55abed67a8e1251d24/transformed/jetified-toastcompat-1.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [me.drakeet.support:toastcompat:1.1.0] /root/.gradle/caches/transforms-3/c9569010efda3f55abed67a8e1251d24/transformed/jetified-toastcompat-1.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [im.conversations.webrtc:webrtc-android:104.0.0] /root/.gradle/caches/transforms-3/a82eee6c6126f814dedfb38b7a47e006/transformed/jetified-webrtc-android-104.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [im.conversations.webrtc:webrtc-android:104.0.0] /root/.gradle/caches/transforms-3/a82eee6c6126f814dedfb38b7a47e006/transformed/jetified-webrtc-android-104.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.activity:activity:1.5.1] /root/.gradle/caches/transforms-3/9d5935c87fbf049580169f5225692242/transformed/jetified-activity-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] /root/.gradle/caches/transforms-3/9d5935c87fbf049580169f5225692242/transformed/jetified-activity-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /root/.gradle/caches/transforms-3/c49cd9f9e70a62c0cfb6a9c057db283b/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /root/.gradle/caches/transforms-3/c49cd9f9e70a62c0cfb6a9c057db283b/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /root/.gradle/caches/transforms-3/bf2a6d46c92d2b1b015ce44f75d834ab/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /root/.gradle/caches/transforms-3/bf2a6d46c92d2b1b015ce44f75d834ab/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /root/.gradle/caches/transforms-3/f4e7914e58ba093567760f9d22f3626d/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /root/.gradle/caches/transforms-3/f4e7914e58ba093567760f9d22f3626d/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /root/.gradle/caches/transforms-3/ce8e9fef21b12750b78ea8e6de235acd/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /root/.gradle/caches/transforms-3/ce8e9fef21b12750b78ea8e6de235acd/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /root/.gradle/caches/transforms-3/a7df65a8c9e3ccc272ac26dbb4e6f86a/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /root/.gradle/caches/transforms-3/a7df65a8c9e3ccc272ac26dbb4e6f86a/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.8.0] /root/.gradle/caches/transforms-3/6ea8cffcc3b5e9543ae29cd44669af22/transformed/jetified-core-ktx-1.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.8.0] /root/.gradle/caches/transforms-3/6ea8cffcc3b5e9543ae29cd44669af22/transformed/jetified-core-ktx-1.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /root/.gradle/caches/transforms-3/7bc7a5b48c08c285c7816e5896abfab2/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /root/.gradle/caches/transforms-3/7bc7a5b48c08c285c7816e5896abfab2/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /root/.gradle/caches/transforms-3/8255cf8f73e0ec2d884b3aa8102e6cd4/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /root/.gradle/caches/transforms-3/8255cf8f73e0ec2d884b3aa8102e6cd4/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /root/.gradle/caches/transforms-3/cf7ed2c7db25c1ed83dad3026c9a2688/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /root/.gradle/caches/transforms-3/cf7ed2c7db25c1ed83dad3026c9a2688/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /root/.gradle/caches/transforms-3/5d6dbb7a2526cb46a310f1fa772a8328/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /root/.gradle/caches/transforms-3/5d6dbb7a2526cb46a310f1fa772a8328/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /root/.gradle/caches/transforms-3/c17573ade799759c56baf884a28f8de6/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /root/.gradle/caches/transforms-3/c17573ade799759c56baf884a28f8de6/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /root/.gradle/caches/transforms-3/722cfa06d51a32340f337ac9798393bf/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /root/.gradle/caches/transforms-3/722cfa06d51a32340f337ac9798393bf/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /root/.gradle/caches/transforms-3/4432a2afdd19fc85814143f134bfa94c/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /root/.gradle/caches/transforms-3/4432a2afdd19fc85814143f134bfa94c/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /root/.gradle/caches/transforms-3/f8ca33f57cc610a0b1ed31d0cc4084bb/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /root/.gradle/caches/transforms-3/f8ca33f57cc610a0b1ed31d0cc4084bb/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /root/.gradle/caches/transforms-3/4b621581b14be943fef7e9025808a5ef/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /root/.gradle/caches/transforms-3/4b621581b14be943fef7e9025808a5ef/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.4.2] /root/.gradle/caches/transforms-3/6e1da9345dc15dce5ba74f851a2eef3d/transformed/jetified-viewbinding-7.4.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:7.4.2] /root/.gradle/caches/transforms-3/6e1da9345dc15dce5ba74f851a2eef3d/transformed/jetified-viewbinding-7.4.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /root/.gradle/caches/transforms-3/1d1173f99a1313055c26367e9296308a/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /root/.gradle/caches/transforms-3/1d1173f99a1313055c26367e9296308a/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /root/.gradle/caches/transforms-3/34be6e117e2e06ff01a6121271053230/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /root/.gradle/caches/transforms-3/34be6e117e2e06ff01a6121271053230/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /root/.gradle/caches/transforms-3/2365384ad980976d11b4bd9d48d00571/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /root/.gradle/caches/transforms-3/2365384ad980976d11b4bd9d48d00571/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.0] /root/.gradle/caches/transforms-3/56231006098977eb2b0b774fbfdbf755/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /root/.gradle/caches/transforms-3/56231006098977eb2b0b774fbfdbf755/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /root/.gradle/caches/transforms-3/fe726d578f90e61f945e51ad06a99ee0/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /root/.gradle/caches/transforms-3/fe726d578f90e61f945e51ad06a99ee0/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.otaliastudios.opengl:egloo:0.4.0] /root/.gradle/caches/transforms-3/465f0bc3edd23ff1cdb346164c324d0c/transformed/jetified-egloo-0.4.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.otaliastudios.opengl:egloo:0.4.0] /root/.gradle/caches/transforms-3/465f0bc3edd23ff1cdb346164c324d0c/transformed/jetified-egloo-0.4.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /root/.gradle/caches/transforms-3/eb59ad3ff2cc3f8ea455ecf10b9a5b47/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /root/.gradle/caches/transforms-3/eb59ad3ff2cc3f8ea455ecf10b9a5b47/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /root/.gradle/caches/transforms-3/66eb2c428070a7989cc3e53427124072/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /root/.gradle/caches/transforms-3/66eb2c428070a7989cc3e53427124072/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /root/.gradle/caches/transforms-3/94c1e08774be1a91ac7aa4bf2cb72cb3/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /root/.gradle/caches/transforms-3/94c1e08774be1a91ac7aa4bf2cb72cb3/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /root/.gradle/caches/transforms-3/11719f426e3912cf36f493acb6a06bf9/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /root/.gradle/caches/transforms-3/11719f426e3912cf36f493acb6a06bf9/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /root/.gradle/caches/transforms-3/6eaf261807bfdfb11a3a18692cc26456/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /root/.gradle/caches/transforms-3/6eaf261807bfdfb11a3a18692cc26456/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /root/.gradle/caches/transforms-3/dc95db927df936e003ea23f2b843af5c/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /root/.gradle/caches/transforms-3/dc95db927df936e003ea23f2b843af5c/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /root/.gradle/caches/transforms-3/4a128805ae54552b7183634231e39ff5/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /root/.gradle/caches/transforms-3/4a128805ae54552b7183634231e39ff5/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /root/.gradle/caches/transforms-3/ae4109ec1e873f2074e4c3a60211a759/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /root/.gradle/caches/transforms-3/ae4109ec1e873f2074e4c3a60211a759/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /root/.gradle/caches/transforms-3/3e1991dda6c66b9f0750b6708f7555ea/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /root/.gradle/caches/transforms-3/3e1991dda6c66b9f0750b6708f7555ea/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml
+INJECTED from /home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml
+		INJECTED from /home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml
+		INJECTED from /home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml
+activity#eu.siacs.conversations.ui.ManageAccountActivity
+ADDED from /home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:5:9-8:47
+	android:label
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:7:13-67
+	android:launchMode
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:8:13-44
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:6:13-53
+activity#eu.siacs.conversations.ui.WelcomeActivity
+ADDED from /home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:9:9-12:47
+	android:label
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:11:13-45
+	android:launchMode
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:12:13-44
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:10:13-47
+activity#eu.siacs.conversations.ui.PickServerActivity
+ADDED from /home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:13:9-16:47
+	android:label
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:15:13-55
+	android:launchMode
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:16:13-44
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:14:13-50
+activity#eu.siacs.conversations.ui.MagicCreateActivity
+ADDED from /home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:17:9-20:47
+	android:label
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:19:13-55
+	android:launchMode
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:20:13-44
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:18:13-51
+activity#eu.siacs.conversations.ui.EasyOnboardingInviteActivity
+ADDED from /home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:21:9-24:47
+	android:label
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:23:13-50
+	android:launchMode
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:24:13-44
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:22:13-60
+activity#eu.siacs.conversations.ui.ImportBackupActivity
+ADDED from /home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:25:9-78:20
+	android:label
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:28:13-51
+	android:launchMode
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:29:13-44
+	android:exported
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:27:13-36
+	android:name
+		ADDED from /home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:26:13-52
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:application/vnd.conversations.backup+data:scheme:content
+ADDED from /home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:30:13-36:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:application/vnd.conversations.backup+data:scheme:file
+ADDED from /home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:37:13-43:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:*+data:mimeType:*/*+data:pathPattern:.*\\..*\\..*\\..*\\..*\\..*\\..*\\.ceb+data:pathPattern:.*\\..*\\..*\\..*\\..*\\..*\\.ceb+data:pathPattern:.*\\..*\\..*\\..*\\..*\\.ceb+data:pathPattern:.*\\..*\\..*\\..*\\.ceb+data:pathPattern:.*\\..*\\..*\\.ceb+data:pathPattern:.*\\..*\\.ceb+data:pathPattern:.*\\.ceb+data:scheme:content
+ADDED from /home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:44:13-60:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:*+data:mimeType:*/*+data:pathPattern:.*\\..*\\..*\\..*\\..*\\..*\\..*\\.ceb+data:pathPattern:.*\\..*\\..*\\..*\\..*\\..*\\.ceb+data:pathPattern:.*\\..*\\..*\\..*\\..*\\.ceb+data:pathPattern:.*\\..*\\..*\\..*\\.ceb+data:pathPattern:.*\\..*\\..*\\.ceb+data:pathPattern:.*\\..*\\.ceb+data:pathPattern:.*\\.ceb+data:scheme:file
+ADDED from /home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:61:13-77:29
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2-bundled:1.2.0] /root/.gradle/caches/transforms-3/d7eb9dbbaf3250fb1b65c23f69aefbdf/transformed/jetified-emoji2-bundled-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /root/.gradle/caches/transforms-3/27ea2d1fe40306b6a6ebc7514e2ae640/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /root/.gradle/caches/transforms-3/27ea2d1fe40306b6a6ebc7514e2ae640/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /root/.gradle/caches/transforms-3/1d1173f99a1313055c26367e9296308a/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /root/.gradle/caches/transforms-3/1d1173f99a1313055c26367e9296308a/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /root/.gradle/caches/transforms-3/11719f426e3912cf36f493acb6a06bf9/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /root/.gradle/caches/transforms-3/11719f426e3912cf36f493acb6a06bf9/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2-bundled:1.2.0] /root/.gradle/caches/transforms-3/d7eb9dbbaf3250fb1b65c23f69aefbdf/transformed/jetified-emoji2-bundled-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2-bundled:1.2.0] /root/.gradle/caches/transforms-3/d7eb9dbbaf3250fb1b65c23f69aefbdf/transformed/jetified-emoji2-bundled-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2-bundled:1.2.0] /root/.gradle/caches/transforms-3/d7eb9dbbaf3250fb1b65c23f69aefbdf/transformed/jetified-emoji2-bundled-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2-bundled:1.2.0] /root/.gradle/caches/transforms-3/d7eb9dbbaf3250fb1b65c23f69aefbdf/transformed/jetified-emoji2-bundled-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2-bundled:1.2.0] /root/.gradle/caches/transforms-3/d7eb9dbbaf3250fb1b65c23f69aefbdf/transformed/jetified-emoji2-bundled-1.2.0/AndroidManifest.xml:29:13-31:39
+REJECTED from [androidx.emoji2:emoji2:1.2.0] /root/.gradle/caches/transforms-3/27ea2d1fe40306b6a6ebc7514e2ae640/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	tools:node
+		ADDED from [androidx.emoji2:emoji2-bundled:1.2.0] /root/.gradle/caches/transforms-3/d7eb9dbbaf3250fb1b65c23f69aefbdf/transformed/jetified-emoji2-bundled-1.2.0/AndroidManifest.xml:31:17-36
+	android:name
+		ADDED from [androidx.emoji2:emoji2-bundled:1.2.0] /root/.gradle/caches/transforms-3/d7eb9dbbaf3250fb1b65c23f69aefbdf/transformed/jetified-emoji2-bundled-1.2.0/AndroidManifest.xml:30:17-75
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /root/.gradle/caches/transforms-3/89df1d6d99fd8b8baf87004ebfccf971/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /root/.gradle/caches/transforms-3/89df1d6d99fd8b8baf87004ebfccf971/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /root/.gradle/caches/transforms-3/89df1d6d99fd8b8baf87004ebfccf971/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /root/.gradle/caches/transforms-3/89df1d6d99fd8b8baf87004ebfccf971/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /root/.gradle/caches/transforms-3/89df1d6d99fd8b8baf87004ebfccf971/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /root/.gradle/caches/transforms-3/89df1d6d99fd8b8baf87004ebfccf971/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /root/.gradle/caches/transforms-3/89df1d6d99fd8b8baf87004ebfccf971/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /root/.gradle/caches/transforms-3/89df1d6d99fd8b8baf87004ebfccf971/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /root/.gradle/caches/transforms-3/89df1d6d99fd8b8baf87004ebfccf971/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /root/.gradle/caches/transforms-3/89df1d6d99fd8b8baf87004ebfccf971/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:27:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /root/.gradle/caches/transforms-3/89df1d6d99fd8b8baf87004ebfccf971/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:28:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /root/.gradle/caches/transforms-3/89df1d6d99fd8b8baf87004ebfccf971/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:28:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /root/.gradle/caches/transforms-3/89df1d6d99fd8b8baf87004ebfccf971/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /root/.gradle/caches/transforms-3/89df1d6d99fd8b8baf87004ebfccf971/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:31:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /root/.gradle/caches/transforms-3/89df1d6d99fd8b8baf87004ebfccf971/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /root/.gradle/caches/transforms-3/89df1d6d99fd8b8baf87004ebfccf971/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:34:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /root/.gradle/caches/transforms-3/89df1d6d99fd8b8baf87004ebfccf971/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:37:5-91
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /root/.gradle/caches/transforms-3/89df1d6d99fd8b8baf87004ebfccf971/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:37:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /root/.gradle/caches/transforms-3/89df1d6d99fd8b8baf87004ebfccf971/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:38:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /root/.gradle/caches/transforms-3/89df1d6d99fd8b8baf87004ebfccf971/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:38:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /root/.gradle/caches/transforms-3/89df1d6d99fd8b8baf87004ebfccf971/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:39:5-93
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /root/.gradle/caches/transforms-3/89df1d6d99fd8b8baf87004ebfccf971/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:39:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /root/.gradle/caches/transforms-3/89df1d6d99fd8b8baf87004ebfccf971/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:42:5-73
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /root/.gradle/caches/transforms-3/89df1d6d99fd8b8baf87004ebfccf971/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:42:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /root/.gradle/caches/transforms-3/89df1d6d99fd8b8baf87004ebfccf971/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:45:5-82
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /root/.gradle/caches/transforms-3/89df1d6d99fd8b8baf87004ebfccf971/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:45:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /root/.gradle/caches/transforms-3/89df1d6d99fd8b8baf87004ebfccf971/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:46:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /root/.gradle/caches/transforms-3/89df1d6d99fd8b8baf87004ebfccf971/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:46:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /root/.gradle/caches/transforms-3/89df1d6d99fd8b8baf87004ebfccf971/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:49:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /root/.gradle/caches/transforms-3/89df1d6d99fd8b8baf87004ebfccf971/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:49:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /root/.gradle/caches/transforms-3/89df1d6d99fd8b8baf87004ebfccf971/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:50:5-89
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /root/.gradle/caches/transforms-3/89df1d6d99fd8b8baf87004ebfccf971/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:50:22-86
+supports-screens
+ADDED from [org.osmdroid:osmdroid-android:6.1.11] /root/.gradle/caches/transforms-3/5a0827e2faa34b9faaa6125f3b86ee20/transformed/jetified-osmdroid-android-6.1.11/AndroidManifest.xml:11:5-14:40
+	android:largeScreens
+		ADDED from [org.osmdroid:osmdroid-android:6.1.11] /root/.gradle/caches/transforms-3/5a0827e2faa34b9faaa6125f3b86ee20/transformed/jetified-osmdroid-android-6.1.11/AndroidManifest.xml:13:9-36
+	android:normalScreens
+		ADDED from [org.osmdroid:osmdroid-android:6.1.11] /root/.gradle/caches/transforms-3/5a0827e2faa34b9faaa6125f3b86ee20/transformed/jetified-osmdroid-android-6.1.11/AndroidManifest.xml:14:9-37
+	android:anyDensity
+		ADDED from [org.osmdroid:osmdroid-android:6.1.11] /root/.gradle/caches/transforms-3/5a0827e2faa34b9faaa6125f3b86ee20/transformed/jetified-osmdroid-android-6.1.11/AndroidManifest.xml:12:9-34
+uses-feature#android.hardware.telephony
+ADDED from [org.osmdroid:osmdroid-android:6.1.11] /root/.gradle/caches/transforms-3/5a0827e2faa34b9faaa6125f3b86ee20/transformed/jetified-osmdroid-android-6.1.11/AndroidManifest.xml:22:5-24:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:6.1.11] /root/.gradle/caches/transforms-3/5a0827e2faa34b9faaa6125f3b86ee20/transformed/jetified-osmdroid-android-6.1.11/AndroidManifest.xml:24:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:6.1.11] /root/.gradle/caches/transforms-3/5a0827e2faa34b9faaa6125f3b86ee20/transformed/jetified-osmdroid-android-6.1.11/AndroidManifest.xml:23:9-50
+uses-feature#android.hardware.wifi
+ADDED from [org.osmdroid:osmdroid-android:6.1.11] /root/.gradle/caches/transforms-3/5a0827e2faa34b9faaa6125f3b86ee20/transformed/jetified-osmdroid-android-6.1.11/AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:6.1.11] /root/.gradle/caches/transforms-3/5a0827e2faa34b9faaa6125f3b86ee20/transformed/jetified-osmdroid-android-6.1.11/AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:6.1.11] /root/.gradle/caches/transforms-3/5a0827e2faa34b9faaa6125f3b86ee20/transformed/jetified-osmdroid-android-6.1.11/AndroidManifest.xml:26:9-45
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /root/.gradle/caches/transforms-3/1d1173f99a1313055c26367e9296308a/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /root/.gradle/caches/transforms-3/1d1173f99a1313055c26367e9296308a/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /root/.gradle/caches/transforms-3/1d1173f99a1313055c26367e9296308a/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d nova obavijest</item>
+    <item quantity="few">%d nove obavijesti</item>
+    <item quantity="other">%d novih obavijesti</item>
+  </plurals>
+    <plurals name="x_unread_conversations">
+        <item quantity="one">%d nepročitan razgovor</item>
+
+    
+        <item quantity="few">%d nepročitanih razgovora</item>
+
+    
+        <item quantity="other">%d nepročitani razgovori</item>
+
+    </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Idi na početnu"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Natrag"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Više opcija"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Gotovo"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Prikaži sve"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Odabir aplikacije"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"ISKLJUČENO"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"UKLJUČENO"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"svemir"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Pretražite…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Izbriši upit"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Upit za pretraživanje"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Pretraži"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Pošalji upit"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Glasovno pretraživanje"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Dijeli s"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Dijeli putem aplikacije <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Sažmi"</string>
+    <string name="action_account">Upravljaj računom</string>
+    <string name="action_accounts">Upravljanje računima</string>
+    <string name="action_add">Novi razgovor</string>
+    <string name="action_add_account">Dodaj račun</string>
+    <string name="action_add_phone_book">Dodaj u adresar</string>
+    <string name="action_block_contact">Blokiraj kontakt</string>
+    <string name="action_block_domain">Blokiraj domenu</string>
+    <string name="action_block_participant">Blokiraj sudionika</string>
+    <string name="action_clear_history">Obriši povijest</string>
+    <string name="action_contact_details">Kontakt podaci</string>
+    <string name="action_delete_contact">Izbriši s popisa</string>
+    <string name="action_edit_contact">Uredi ime</string>
+    <string name="action_end_conversation">Zatvori razgovor</string>
+    <string name="action_muc_details">Pojedinosti grupnog razgovora</string>
+    <string name="action_settings">Postavke</string>
+    <string name="action_unblock_contact">Odblokiraj kontakt</string>
+    <string name="action_unblock_domain">Odblokiraj domenu</string>
+    <string name="action_unblock_participant">Deblokiraj sudionika</string>
+    <string name="add">Dodati</string>
+    <string name="add_contact">Dodaj kontakt</string>
+    <string name="admin">Admin</string>
+    <string name="attach_file">Priložite datoteku</string>
+    <string name="block">Blok</string>
+    <string name="block_contact_text">Želite li blokirati %s da vam šalje poruke?</string>
+    <string name="block_domain_text">Blokirati sve kontakte iz %s?</string>
+    <string name="blocked">Blokiran</string>
+    <string name="bottomsheet_action_expand_halfway">Proširi donju polovicu</string>
+    <string name="cancel">Otkazati</string>
+    <string name="change_password_on_server">Promjena lozinke na poslužitelju</string>
+    <string name="channel_details">Detalji kanala</string>
+    <string name="character_counter_content_description">Uneseno znakova: %1$d od %2$d</string>
+    <string name="character_counter_overflowed_content_description">Premašeno je ograničenje broja znakova: %1$d od %2$d</string>
+    <string name="clear_conversation_history">Obriši povijest razgovora</string>
+    <string name="clear_text_end_icon_content_description">Brisanje teksta</string>
+    <string name="contact">Kontakt</string>
+    <string name="contact_blocked">Kontakt blokiran</string>
+    <string name="contacts">Kontakti</string>
+    <string name="create_new_account">Napravi novi račun</string>
+    <string name="delete">Obriši</string>
+    <string name="do_you_have_an_account">Već imate XMPP račun? To može biti slučaj ako već koristite drugi XMPP klijent ili ste prije koristili Razgovore. Ako niste, možete odmah stvoriti novi XMPP račun.\nSavjet: Neki pružatelji usluga e-pošte također nude XMPP račune.</string>
+    <string name="easy_invite_share_text">Pridružite se %1$s i razgovarajte sa mnom: %2$s</string>
+    <string name="edit">Uredi</string>
+    <string name="error_icon_content_description">Pogreška</string>
+    <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
+    <string name="icon_content_description">Ikona dijaloga</string>
+    <string name="if_contact_is_nearby_use_qr">Ako je vaš kontakt u blizini, također može skenirati kod u nastavku kako bi prihvatio vašu pozivnicu.</string>
+    <string name="improperly_formatted_provisioning">Neispravno formatiran kod za dodjelu</string>
+    <string name="invalid_muc_nick">Nevažeći nadimak</string>
+    <string name="invite">Pozovi</string>
+    <string name="invite_contact">Pozovi kontakt</string>
+    <string name="item_view_role_description">Kartica</string>
+    <string name="just_now">upravo sad</string>
+    <string name="magic_create_text_fixed">Pozvani ste na %1$s. Korisničko ime je već odabrano za vas. Vodit ćemo vas kroz postupak kreiranja računa.\nMoći ćete komunicirati s korisnicima drugih pružatelja tako da im date svoju punu XMPP adresu.</string>
+    <string name="magic_create_text_on_x">Pozvani ste na %1$s. Vodit ćemo vas kroz postupak kreiranja računa.\nPrilikom odabira  %1$s pružatelja moći ćete komunicirati s korisnicima drugih pružatelja dajući im svoju punu XMPP adresu.</string>
+    <string name="material_clock_toggle_content_description">Odaberite prijepodne ili poslijepodne</string>
+    <string name="material_hour_selection">Odaberite sat</string>
+    <string name="material_hour_suffix">%1$s h</string>
+    <string name="material_minute_selection">Odaberite minute</string>
+    <string name="material_minute_suffix">%1$s min</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Prijeđite na način rada sata da biste unijeli vrijeme.</string>
+    <string name="material_timepicker_hour">Sat</string>
+    <string name="material_timepicker_minute">Minuta</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Odabir vremena</string>
+    <string name="material_timepicker_text_input_mode_description">Prijeđite na način unosa teksta da biste unijeli vrijeme.</string>
+    <string name="message_decrypting">Dešifriranje poruke. Molimo pričekajte…</string>
+    <string name="minute_ago">prije 1 min</string>
+    <string name="minutes_ago">prije %d min</string>
+    <string name="moderator">Moderator</string>
+    <string name="mtrl_badge_numberless_content_description">Nova obavijest</string>
+    <string name="mtrl_chip_close_icon_content_description">Ukloni %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Više od %1$d novih obavijesti</string>
+    <string name="mtrl_picker_a11y_next_month">Prijelaz na sljedeći mjesec</string>
+    <string name="mtrl_picker_a11y_prev_month">Pomicanje na prethodni mjesec</string>
+    <string name="mtrl_picker_announce_current_selection">Trenutačan odabir: %1$s</string>
+    <string name="mtrl_picker_cancel">Odustani</string>
+    <string name="mtrl_picker_confirm">U redu</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Odaberite datum</string>
+    <string name="mtrl_picker_date_header_unselected">Odabrani datum</string>
+    <string name="mtrl_picker_day_of_week_column_header">Stupac s danima: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Nevažeći format.</string>
+    <string name="mtrl_picker_invalid_format_example">Primjer: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Koristi format: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Raspon nije važeći.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Prijelaz na godinu %1$s</string>
+    <string name="mtrl_picker_out_of_range">Izvan raspona: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Datum početka – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – datum završetka</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Odaberite raspon</string>
+    <string name="mtrl_picker_range_header_unselected">Datum početka – datum završetka</string>
+    <string name="mtrl_picker_save">Spremi</string>
+    <string name="mtrl_picker_text_input_date_hint">Datum</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Datum završetka</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Datum početka</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">g</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Prijelaz na način unosa u Kalendaru</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Dodirnite za prijelaz na odabir dana</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Prijelaz na način unosa teksta</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Dodirnite za prijelaz na odabir godine</string>
+    <string name="mtrl_timepicker_cancel">Odustani</string>
+    <string name="mtrl_timepicker_confirm">U redu</string>
+    <string name="nick_in_use">Nadimak je već u upotrebi</string>
+    <string name="not_in_roster">Dodati ovaj kontakt koji nedostaje na popis kontakata?</string>
+    <string name="ok">Ok</string>
+    <string name="owner">Vlasnik</string>
+    <string name="participant">Sudionik</string>
+    <string name="password_toggle_content_description">Prikaži zaporku</string>
+    <string name="pgp_message">OpenPGP šifrirana poruka</string>
+    <string name="pick_a_server">Odaberite svog XMPP davatelja usluga.</string>
+    <string name="preparing_image">Priprema za slanje slike</string>
+    <string name="preparing_images">Priprema za slanje slika</string>
+    <string name="problem_connecting_to_account">Nije moguće povezati se s računom</string>
+    <string name="problem_connecting_to_accounts">Nije moguće povezati se s više računa</string>
+    <string name="register_account">Registrirajte novi račun na poslužitelju</string>
+    <string name="remove_bookmark_text">Želite li ukloniti %s kao oznaku? Razgovori s ovom knjižnom oznakom neće biti uklonjeni.</string>
+    <string name="remove_contact_text">Želite li ukloniti  %s s popisa kontakata? Razgovori s ovim kontaktom neće biti uklonjeni.</string>
+    <string name="save">Sačuvaj</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Pretraži"</string>
+    <string name="send_failed">dostava nije uspjela</string>
+    <string name="send_never">Nikad više ne pitaj</string>
+    <string name="send_now">Pošalji sada</string>
+    <string name="sending">slanje…</string>
+    <string name="server_select_text">XMPP je mreža za razmjenu izravnih poruka neovisna o pružatelju usluga. Možete koristiti ovaj klijent s bilo kojim XMPP poslužiteljem koji odaberete.\nMeđutim, radi vaše udobnosti olakšali smo kreiranje računa na conversations.im; pružatelj usluga posebno prilagođen za korištenje s Conversations.</string>
+    <string name="share_invite_with">Podijelite pozivnicu s...</string>
+    <string name="share_with">Podijeli s…</string>
+    <string name="sharing_files_please_wait">Dijeljenje datoteka. Molimo pričekajte…</string>
+    <string name="start_conversation">Započni razgovor</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="tap_share_button_send_invite">Dodirnite gumb za dijeljenje kako biste svom kontaktu poslali pozivnicu na %1$s.</string>
+    <string name="title_activity_block_list">Lista blokiranih</string>
+    <string name="title_activity_choose_contact">Odaberite Kontakt</string>
+    <string name="title_activity_choose_contacts">Odaberite kontakte</string>
+    <string name="title_activity_manage_accounts">Upravljanje računima</string>
+    <string name="title_activity_settings">Postavke</string>
+    <string name="title_activity_share_via_account">Dijeli putem računa</string>
+    <string name="title_activity_sharewith">Dijeli s Conversation</string>
+    <string name="title_activity_start_conversation">Započni razgovor</string>
+    <string name="touch_to_fix">Dodirnite za upravljanje svojim računima</string>
+    <string name="unblock">Odblokiraj</string>
+    <string name="unblock_contact_text">Želite li deblokirati %s i dopustiti im da vam šalju poruke?</string>
+    <string name="unblock_domain_text">Deblokirati sve kontakte iz %s?</string>
+    <string name="use_conversations.im">Koristite conversations.im</string>
+    <string name="visitor">Posjetitelj</string>
+    <string name="your_server_invitation">Vaša pozivnica za poslužitelj</string>
+</resources>

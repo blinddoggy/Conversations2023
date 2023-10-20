@@ -1,0 +1,25 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "PACKAGED_MANIFESTS",
+    "kind": "Directory"
+  },
+  "applicationId": "eu.siacs.conversations",
+  "variantName": "conversationsFreeDebug",
+  "elements": [
+    {
+      "type": "ONE_OF_MANY",
+      "filters": [
+        {
+          "filterType": "ABI",
+          "value": "x86_64"
+        }
+      ],
+      "attributes": [],
+      "versionCode": 4205303,
+      "versionName": "2.12.2+free",
+      "outputFile": "x86_64/AndroidManifest.xml"
+    }
+  ],
+  "elementType": "File"
+}

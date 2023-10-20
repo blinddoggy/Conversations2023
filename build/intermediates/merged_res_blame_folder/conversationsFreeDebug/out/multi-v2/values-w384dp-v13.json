@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "eu.siacs.conversations-mergeConversationsFreeDebugResources-3:/values-w384dp-v13/values-w384dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/m/Documents/chats/191023/Conversations/src/main/res/values-w384dp/dimens.xml",
+                    "from": {
+                        "startLines": "8,10,7,9,4,5,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "328,431,282,379,174,224,492,592",
+                        "endColumns": "50,60,45,51,49,56,41,50",
+                        "endOffsets": "374,487,323,426,219,276,529,638"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,106,167,213,265,315,372,414",
+                        "endColumns": "50,60,45,51,49,56,41,50",
+                        "endOffsets": "101,162,208,260,310,367,409,460"
+                    }
+                }
+            ]
+        }
+    ]
+}

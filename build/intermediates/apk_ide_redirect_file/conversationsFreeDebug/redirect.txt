@@ -1,0 +1,2 @@
+#- File Locator -
+listingFile=../../apk/conversationsFree/debug/output-metadata.json

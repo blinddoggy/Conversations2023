@@ -1,0 +1,72 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "eu.siacs.conversations",
+  "variantName": "conversationsFreeDebug",
+  "elements": [
+    {
+      "type": "UNIVERSAL",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 4205300,
+      "versionName": "2.12.2+free",
+      "outputFile": "Conversations-2.12.2-conversations-free-universal-debug.apk"
+    },
+    {
+      "type": "ONE_OF_MANY",
+      "filters": [
+        {
+          "filterType": "ABI",
+          "value": "armeabi-v7a"
+        }
+      ],
+      "attributes": [],
+      "versionCode": 4205301,
+      "versionName": "2.12.2+free",
+      "outputFile": "Conversations-2.12.2-conversations-free-armeabi-v7a-debug.apk"
+    },
+    {
+      "type": "ONE_OF_MANY",
+      "filters": [
+        {
+          "filterType": "ABI",
+          "value": "x86_64"
+        }
+      ],
+      "attributes": [],
+      "versionCode": 4205303,
+      "versionName": "2.12.2+free",
+      "outputFile": "Conversations-2.12.2-conversations-free-x86_64-debug.apk"
+    },
+    {
+      "type": "ONE_OF_MANY",
+      "filters": [
+        {
+          "filterType": "ABI",
+          "value": "x86"
+        }
+      ],
+      "attributes": [],
+      "versionCode": 4205302,
+      "versionName": "2.12.2+free",
+      "outputFile": "Conversations-2.12.2-conversations-free-x86-debug.apk"
+    },
+    {
+      "type": "ONE_OF_MANY",
+      "filters": [
+        {
+          "filterType": "ABI",
+          "value": "arm64-v8a"
+        }
+      ],
+      "attributes": [],
+      "versionCode": 4205304,
+      "versionName": "2.12.2+free",
+      "outputFile": "Conversations-2.12.2-conversations-free-arm64-v8a-debug.apk"
+    }
+  ],
+  "elementType": "File"
+}

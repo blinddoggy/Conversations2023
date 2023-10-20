@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "eu.siacs.conversations-mergeConversationsFreeDebugResources-3:/values-h360dp-v13/values-h360dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/m/Documents/chats/191023/Conversations/src/main/res/values-h360dp/dimens.xml",
+                    "from": {
+                        "startLines": "3,2,1",
+                        "startColumns": "4,1,4",
+                        "startOffsets": "122,70,16",
+                        "endColumns": "51,48,56",
+                        "endOffsets": "169,117,68"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,107,159",
+                        "endColumns": "51,51,56",
+                        "endOffsets": "102,154,211"
+                    }
+                }
+            ]
+        }
+    ]
+}
