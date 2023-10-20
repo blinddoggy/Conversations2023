@@ -660,7 +660,7 @@ public class StartConversationActivity extends XmppActivity implements XmppConne
         if (QuickConversationsService.isQuicksy()) {
             menuHideOffline.setVisible(false);
         } else {
-            menuHideOffline.setVisible(true);
+            menuHideOffline.setVisible(false);
             menuHideOffline.setChecked(this.mHideOfflineContacts);
         }
         mMenuSearchView = menu.findItem(R.id.action_search);
@@ -675,8 +675,14 @@ public class StartConversationActivity extends XmppActivity implements XmppConne
             mSearchEditText.append(initialSearchValue);
             filter(initialSearchValue);
         }
+
+        qrCodeScanMenuItem.setVisible(false);//escondiendo qrcode
+        mMenuSearchView.setVisible(false);
+
         updateSearchViewHint();
         return super.onCreateOptionsMenu(menu);
+
+
     }
 
     @Override
