@@ -28745,6 +28745,7 @@ eu.siacs.conversations.Config:
     public static final boolean DISABLE_HTTP_UPLOAD
     public static final boolean DISABLE_PROXY_LOOKUP
     public static final boolean DISALLOW_REGISTRATION_IN_UI
+    public static final java.lang.String DOMAIN_LOCK
     private static final int ENCRYPTION_MASK
     public static final boolean ENCRYPT_ON_HTTP_UPLOADED
     public static final int EXPIRY_INTERVAL

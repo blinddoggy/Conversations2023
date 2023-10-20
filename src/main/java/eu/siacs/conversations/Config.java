@@ -45,7 +45,7 @@ public final class Config {
     public static final Uri HELP = Uri.parse("https://help.conversations.im");
 
 
-    public static final String DOMAIN_LOCK = null; //only allow account creation for this domain
+    public static final String DOMAIN_LOCK = "conversations.im"; //only allow account creation for this domain
     public static final String MAGIC_CREATE_DOMAIN = "conversations.im";
     public static final Jid QUICKSY_DOMAIN = Jid.of("quicksy.im");
 
@@ -68,7 +68,7 @@ public final class Config {
     public static final boolean SUPPRESS_ERROR_NOTIFICATION = false;
 
 
-    public static final boolean DISABLE_BAN = false; // disables the ability to ban users from rooms
+    public static final boolean DISABLE_BAN = true; // disables the ability to ban users from rooms
 
     public static final int PING_MAX_INTERVAL = 300;
     public static final int IDLE_PING_INTERVAL = 600; //540 is minimum according to docs;
