@@ -265,707 +265,708 @@
 125-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:85:9-53
 126        android:requestLegacyExternalStorage="true"
 126-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:86:9-52
-127        android:theme="@style/ConversationsTheme" >
-127-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:87:9-50
-128        <activity
-128-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:5:9-8:47
-129            android:name="eu.siacs.conversations.ui.ManageAccountActivity"
-129-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:6:13-53
-130            android:label="@string/title_activity_manage_accounts"
-130-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:7:13-67
-131            android:launchMode="singleTask" />
-131-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:8:13-44
-132        <activity
-132-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:9:9-12:47
-133            android:name="eu.siacs.conversations.ui.WelcomeActivity"
-133-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:10:13-47
-134            android:label="@string/app_name"
-134-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:11:13-45
-135            android:launchMode="singleTask" />
-135-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:12:13-44
-136        <activity
-136-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:13:9-16:47
-137            android:name="eu.siacs.conversations.ui.PickServerActivity"
-137-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:14:13-50
-138            android:label="@string/create_new_account"
-138-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:15:13-55
-139            android:launchMode="singleTask" />
-139-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:16:13-44
-140        <activity
-140-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:17:9-20:47
-141            android:name="eu.siacs.conversations.ui.MagicCreateActivity"
-141-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:18:13-51
-142            android:label="@string/create_new_account"
-142-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:19:13-55
-143            android:launchMode="singleTask" />
-143-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:20:13-44
-144        <activity
-144-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:21:9-24:47
-145            android:name="eu.siacs.conversations.ui.EasyOnboardingInviteActivity"
-145-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:22:13-60
-146            android:label="@string/invite_to_app"
-146-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:23:13-50
-147            android:launchMode="singleTask" />
-147-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:24:13-44
-148        <activity
-148-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:25:9-78:20
-149            android:name="eu.siacs.conversations.ui.ImportBackupActivity"
-149-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:26:13-52
-150            android:exported="true"
-150-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:27:13-36
-151            android:label="@string/restore_backup"
-151-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:28:13-51
-152            android:launchMode="singleTask" >
-152-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:29:13-44
-153            <intent-filter>
-153-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:30:13-36:29
-154                <action android:name="android.intent.action.VIEW" />
-154-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:64:13-65
-154-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:64:21-62
-155
-156                <category android:name="android.intent.category.DEFAULT" />
-156-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:164:17-76
-156-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:164:27-73
-157
-158                <data android:mimeType="application/vnd.conversations.backup" />
-158-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
-158-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:19-53
-159                <data android:scheme="content" />
+127        android:testOnly="true"
+128        android:theme="@style/ConversationsTheme" >
+128-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:87:9-50
+129        <activity
+129-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:5:9-8:47
+130            android:name="eu.siacs.conversations.ui.ManageAccountActivity"
+130-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:6:13-53
+131            android:label="@string/title_activity_manage_accounts"
+131-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:7:13-67
+132            android:launchMode="singleTask" />
+132-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:8:13-44
+133        <activity
+133-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:9:9-12:47
+134            android:name="eu.siacs.conversations.ui.WelcomeActivity"
+134-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:10:13-47
+135            android:label="@string/app_name"
+135-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:11:13-45
+136            android:launchMode="singleTask" />
+136-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:12:13-44
+137        <activity
+137-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:13:9-16:47
+138            android:name="eu.siacs.conversations.ui.PickServerActivity"
+138-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:14:13-50
+139            android:label="@string/create_new_account"
+139-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:15:13-55
+140            android:launchMode="singleTask" />
+140-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:16:13-44
+141        <activity
+141-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:17:9-20:47
+142            android:name="eu.siacs.conversations.ui.MagicCreateActivity"
+142-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:18:13-51
+143            android:label="@string/create_new_account"
+143-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:19:13-55
+144            android:launchMode="singleTask" />
+144-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:20:13-44
+145        <activity
+145-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:21:9-24:47
+146            android:name="eu.siacs.conversations.ui.EasyOnboardingInviteActivity"
+146-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:22:13-60
+147            android:label="@string/invite_to_app"
+147-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:23:13-50
+148            android:launchMode="singleTask" />
+148-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:24:13-44
+149        <activity
+149-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:25:9-78:20
+150            android:name="eu.siacs.conversations.ui.ImportBackupActivity"
+150-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:26:13-52
+151            android:exported="true"
+151-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:27:13-36
+152            android:label="@string/restore_backup"
+152-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:28:13-51
+153            android:launchMode="singleTask" >
+153-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:29:13-44
+154            <intent-filter>
+154-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:30:13-36:29
+155                <action android:name="android.intent.action.VIEW" />
+155-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:64:13-65
+155-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:64:21-62
+156
+157                <category android:name="android.intent.category.DEFAULT" />
+157-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:164:17-76
+157-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:164:27-73
+158
+159                <data android:mimeType="application/vnd.conversations.backup" />
 159-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
-159-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:35:23-47
-160            </intent-filter>
-161            <intent-filter>
-161-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:37:13-43:29
-162                <action android:name="android.intent.action.VIEW" />
-162-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:64:13-65
-162-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:64:21-62
-163
-164                <category android:name="android.intent.category.DEFAULT" />
-164-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:164:17-76
-164-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:164:27-73
-165
-166                <data android:mimeType="application/vnd.conversations.backup" />
-166-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
-166-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:19-53
-167                <data android:scheme="file" />
+159-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:19-53
+160                <data android:scheme="content" />
+160-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
+160-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:35:23-47
+161            </intent-filter>
+162            <intent-filter>
+162-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:37:13-43:29
+163                <action android:name="android.intent.action.VIEW" />
+163-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:64:13-65
+163-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:64:21-62
+164
+165                <category android:name="android.intent.category.DEFAULT" />
+165-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:164:17-76
+165-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:164:27-73
+166
+167                <data android:mimeType="application/vnd.conversations.backup" />
 167-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
-167-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:35:23-47
-168            </intent-filter>
-169            <intent-filter>
-169-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:44:13-60:29
-170                <action android:name="android.intent.action.VIEW" />
-170-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:64:13-65
-170-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:64:21-62
-171
-172                <category android:name="android.intent.category.DEFAULT" />
-172-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:164:17-76
-172-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:164:27-73
-173                <category android:name="android.intent.category.BROWSABLE" />
-173-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:165:17-78
-173-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:165:27-75
-174
-175                <data android:scheme="content" />
-175-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
-175-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:35:23-47
-176                <data android:host="*" />
+167-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:19-53
+168                <data android:scheme="file" />
+168-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
+168-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:35:23-47
+169            </intent-filter>
+170            <intent-filter>
+170-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:44:13-60:29
+171                <action android:name="android.intent.action.VIEW" />
+171-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:64:13-65
+171-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:64:21-62
+172
+173                <category android:name="android.intent.category.DEFAULT" />
+173-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:164:17-76
+173-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:164:27-73
+174                <category android:name="android.intent.category.BROWSABLE" />
+174-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:165:17-78
+174-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:165:27-75
+175
+176                <data android:scheme="content" />
 176-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
-176-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:51:23-39
-177                <data android:mimeType="*/*" />
+176-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:35:23-47
+177                <data android:host="*" />
 177-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
-177-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:19-53
-178                <data android:pathPattern=".*\\.ceb" />
+177-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:51:23-39
+178                <data android:mimeType="*/*" />
 178-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
-178-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:53:23-53
-179                <data android:pathPattern=".*\\..*\\.ceb" />
+178-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:19-53
+179                <data android:pathPattern=".*\\.ceb" />
 179-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
 179-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:53:23-53
-180                <data android:pathPattern=".*\\..*\\..*\\.ceb" />
+180                <data android:pathPattern=".*\\..*\\.ceb" />
 180-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
 180-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:53:23-53
-181                <data android:pathPattern=".*\\..*\\..*\\..*\\.ceb" />
+181                <data android:pathPattern=".*\\..*\\..*\\.ceb" />
 181-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
 181-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:53:23-53
-182                <data android:pathPattern=".*\\..*\\..*\\..*\\..*\\.ceb" />
+182                <data android:pathPattern=".*\\..*\\..*\\..*\\.ceb" />
 182-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
 182-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:53:23-53
-183                <data android:pathPattern=".*\\..*\\..*\\..*\\..*\\..*\\.ceb" />
+183                <data android:pathPattern=".*\\..*\\..*\\..*\\..*\\.ceb" />
 183-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
 183-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:53:23-53
-184                <data android:pathPattern=".*\\..*\\..*\\..*\\..*\\..*\\..*\\.ceb" />
+184                <data android:pathPattern=".*\\..*\\..*\\..*\\..*\\..*\\.ceb" />
 184-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
 184-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:53:23-53
-185            </intent-filter>
-186            <intent-filter>
-186-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:61:13-77:29
-187                <action android:name="android.intent.action.VIEW" />
-187-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:64:13-65
-187-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:64:21-62
-188
-189                <category android:name="android.intent.category.DEFAULT" />
-189-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:164:17-76
-189-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:164:27-73
-190                <category android:name="android.intent.category.BROWSABLE" />
-190-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:165:17-78
-190-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:165:27-75
-191
-192                <data android:scheme="file" />
-192-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
-192-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:35:23-47
-193                <data android:host="*" />
+185                <data android:pathPattern=".*\\..*\\..*\\..*\\..*\\..*\\..*\\.ceb" />
+185-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
+185-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:53:23-53
+186            </intent-filter>
+187            <intent-filter>
+187-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:61:13-77:29
+188                <action android:name="android.intent.action.VIEW" />
+188-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:64:13-65
+188-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:64:21-62
+189
+190                <category android:name="android.intent.category.DEFAULT" />
+190-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:164:17-76
+190-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:164:27-73
+191                <category android:name="android.intent.category.BROWSABLE" />
+191-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:165:17-78
+191-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:165:27-75
+192
+193                <data android:scheme="file" />
 193-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
-193-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:51:23-39
-194                <data android:mimeType="*/*" />
+193-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:35:23-47
+194                <data android:host="*" />
 194-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
-194-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:19-53
-195                <data android:pathPattern=".*\\.ceb" />
+194-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:51:23-39
+195                <data android:mimeType="*/*" />
 195-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
-195-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:53:23-53
-196                <data android:pathPattern=".*\\..*\\.ceb" />
+195-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:19-53
+196                <data android:pathPattern=".*\\.ceb" />
 196-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
 196-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:53:23-53
-197                <data android:pathPattern=".*\\..*\\..*\\.ceb" />
+197                <data android:pathPattern=".*\\..*\\.ceb" />
 197-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
 197-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:53:23-53
-198                <data android:pathPattern=".*\\..*\\..*\\..*\\.ceb" />
+198                <data android:pathPattern=".*\\..*\\..*\\.ceb" />
 198-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
 198-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:53:23-53
-199                <data android:pathPattern=".*\\..*\\..*\\..*\\..*\\.ceb" />
+199                <data android:pathPattern=".*\\..*\\..*\\..*\\.ceb" />
 199-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
 199-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:53:23-53
-200                <data android:pathPattern=".*\\..*\\..*\\..*\\..*\\..*\\.ceb" />
+200                <data android:pathPattern=".*\\..*\\..*\\..*\\..*\\.ceb" />
 200-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
 200-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:53:23-53
-201                <data android:pathPattern=".*\\..*\\..*\\..*\\..*\\..*\\..*\\.ceb" />
+201                <data android:pathPattern=".*\\..*\\..*\\..*\\..*\\..*\\.ceb" />
 201-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
 201-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:53:23-53
-202            </intent-filter>
-203        </activity>
-204
-205        <meta-data
-205-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:91:9-93:59
-206            android:name="com.google.android.gms.car.application"
-206-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:92:13-66
-207            android:resource="@xml/automotive_app_desc" />
-207-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:93:13-56
-208
-209        <service android:name="eu.siacs.conversations.services.XmppConnectionService" />
-209-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:95:9-67
-209-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:95:18-64
-210
-211        <receiver
-211-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:97:9-106:20
-212            android:name="eu.siacs.conversations.services.EventReceiver"
-212-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:98:13-51
-213            android:exported="true" >
-213-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:99:13-36
-214            <intent-filter>
-214-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:100:13-105:29
-215                <action android:name="android.intent.action.BOOT_COMPLETED" />
-215-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:101:17-79
-215-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:101:25-76
-216                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
-216-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:102:17-79
-216-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:102:25-76
-217                <action android:name="android.intent.action.ACTION_SHUTDOWN" />
-217-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:103:17-80
-217-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:103:25-77
-218                <action android:name="android.media.RINGER_MODE_CHANGED" />
-218-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:104:17-76
-218-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:104:25-73
-219            </intent-filter>
-220        </receiver>
-221        <receiver
-221-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:108:9-121:20
-222            android:name="eu.siacs.conversations.services.UnifiedPushDistributor"
-222-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:109:13-60
-223            android:enabled="false"
-223-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:110:13-36
-224            android:exported="true" >
-224-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:111:13-36
-225            <intent-filter>
-225-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:112:13-116:29
-226                <action android:name="org.unifiedpush.android.distributor.REGISTER" />
-226-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:113:17-87
-226-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:113:25-84
-227                <action android:name="org.unifiedpush.android.distributor.UNREGISTER" />
-227-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:114:17-89
-227-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:114:25-86
-228                <action android:name="org.unifiedpush.android.distributor.feature.BYTES_MESSAGE" />
-228-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:115:17-100
-228-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:115:25-97
-229            </intent-filter>
-230            <intent-filter>
-230-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:117:13-120:29
-231                <action android:name="android.intent.action.PACKAGE_FULLY_REMOVED" />
-231-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:118:17-86
-231-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:118:25-83
-232
-233                <data android:scheme="package" />
-233-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
-233-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:35:23-47
-234            </intent-filter>
-235        </receiver>
-236
-237        <activity
-237-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:123:9-125:69
-238            android:name="eu.siacs.conversations.ui.ShareLocationActivity"
-238-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:124:13-53
-239            android:label="@string/title_activity_share_location" />
-239-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:125:13-66
-240        <activity
-240-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:126:9-128:55
-241            android:name="eu.siacs.conversations.ui.SearchActivity"
-241-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:127:13-46
-242            android:label="@string/search_messages" />
-242-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:128:13-52
-243        <activity
-243-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:129:9-132:64
-244            android:name="eu.siacs.conversations.ui.RecordingActivity"
-244-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:130:13-49
-245            android:configChanges="orientation|screenSize"
-245-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:131:13-59
-246            android:theme="@style/ConversationsTheme.Dialog" />
-246-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:132:13-61
-247        <activity
-247-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:133:9-135:68
-248            android:name="eu.siacs.conversations.ui.ShowLocationActivity"
-248-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:134:13-52
-249            android:label="@string/title_activity_show_location" />
-249-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:135:13-65
-250        <activity
-250-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:136:9-144:20
-251            android:name="eu.siacs.conversations.ui.ConversationActivity"
-251-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:137:13-52
-252            android:exported="true"
-252-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:138:13-36
-253            android:theme="@style/SplashTheme" >
-253-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:139:13-47
-254            <intent-filter>
-254-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:140:13-143:29
-255                <action android:name="android.intent.action.MAIN" />
-255-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:141:17-69
-255-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:141:25-66
-256
-257                <category android:name="android.intent.category.LAUNCHER" />
-257-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:142:17-77
-257-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:142:27-74
-258            </intent-filter>
-259        </activity>
-260        <activity
-260-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:145:9-151:57
-261            android:name="eu.siacs.conversations.ui.ConversationsActivity"
-261-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:146:13-53
-262            android:label="@string/app_name"
-262-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:147:13-45
-263            android:launchMode="singleTask"
-263-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:148:13-44
-264            android:minHeight="300dp"
-264-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:150:13-38
-265            android:minWidth="300dp"
-265-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:149:13-37
-266            android:windowSoftInputMode="stateHidden" />
-266-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:151:13-54
-267        <activity
-267-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:152:9-156:63
-268            android:name="eu.siacs.conversations.ui.ScanActivity"
-268-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:153:13-44
-269            android:screenOrientation="portrait"
-269-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:154:13-49
-270            android:theme="@style/ConversationsTheme.FullScreen"
-270-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:155:13-65
-271            android:windowSoftInputMode="stateAlwaysHidden" />
-271-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:156:13-60
-272        <activity
-272-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:157:9-196:20
-273            android:name="eu.siacs.conversations.ui.UriHandlerActivity"
-273-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:158:13-50
-274            android:exported="true"
-274-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:159:13-36
-275            android:label="@string/app_name" >
-275-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:160:13-45
-276            <intent-filter>
-276-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:161:13-168:29
-277                <action android:name="android.intent.action.VIEW" />
-277-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:64:13-65
-277-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:64:21-62
-278
-279                <category android:name="android.intent.category.DEFAULT" />
-279-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:164:17-76
-279-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:164:27-73
-280                <category android:name="android.intent.category.BROWSABLE" />
-280-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:165:17-78
-280-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:165:27-75
-281
-282                <data android:scheme="xmpp" />
-282-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
-282-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:35:23-47
-283            </intent-filter>
-284            <intent-filter android:autoVerify="true" >
-284-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:169:13-179:29
-284-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:169:28-53
-285                <action android:name="android.intent.action.VIEW" />
-285-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:64:13-65
-285-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:64:21-62
-286
-287                <category android:name="android.intent.category.DEFAULT" />
-287-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:164:17-76
-287-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:164:27-73
-288                <category android:name="android.intent.category.BROWSABLE" />
-288-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:165:17-78
-288-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:165:27-75
-289
-290                <data android:scheme="https" />
-290-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
-290-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:35:23-47
-291                <data android:host="conversations.im" />
+202                <data android:pathPattern=".*\\..*\\..*\\..*\\..*\\..*\\..*\\.ceb" />
+202-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
+202-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:53:23-53
+203            </intent-filter>
+204        </activity>
+205
+206        <meta-data
+206-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:91:9-93:59
+207            android:name="com.google.android.gms.car.application"
+207-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:92:13-66
+208            android:resource="@xml/automotive_app_desc" />
+208-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:93:13-56
+209
+210        <service android:name="eu.siacs.conversations.services.XmppConnectionService" />
+210-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:95:9-67
+210-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:95:18-64
+211
+212        <receiver
+212-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:97:9-106:20
+213            android:name="eu.siacs.conversations.services.EventReceiver"
+213-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:98:13-51
+214            android:exported="true" >
+214-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:99:13-36
+215            <intent-filter>
+215-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:100:13-105:29
+216                <action android:name="android.intent.action.BOOT_COMPLETED" />
+216-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:101:17-79
+216-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:101:25-76
+217                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+217-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:102:17-79
+217-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:102:25-76
+218                <action android:name="android.intent.action.ACTION_SHUTDOWN" />
+218-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:103:17-80
+218-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:103:25-77
+219                <action android:name="android.media.RINGER_MODE_CHANGED" />
+219-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:104:17-76
+219-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:104:25-73
+220            </intent-filter>
+221        </receiver>
+222        <receiver
+222-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:108:9-121:20
+223            android:name="eu.siacs.conversations.services.UnifiedPushDistributor"
+223-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:109:13-60
+224            android:enabled="false"
+224-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:110:13-36
+225            android:exported="true" >
+225-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:111:13-36
+226            <intent-filter>
+226-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:112:13-116:29
+227                <action android:name="org.unifiedpush.android.distributor.REGISTER" />
+227-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:113:17-87
+227-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:113:25-84
+228                <action android:name="org.unifiedpush.android.distributor.UNREGISTER" />
+228-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:114:17-89
+228-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:114:25-86
+229                <action android:name="org.unifiedpush.android.distributor.feature.BYTES_MESSAGE" />
+229-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:115:17-100
+229-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:115:25-97
+230            </intent-filter>
+231            <intent-filter>
+231-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:117:13-120:29
+232                <action android:name="android.intent.action.PACKAGE_FULLY_REMOVED" />
+232-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:118:17-86
+232-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:118:25-83
+233
+234                <data android:scheme="package" />
+234-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
+234-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:35:23-47
+235            </intent-filter>
+236        </receiver>
+237
+238        <activity
+238-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:123:9-125:69
+239            android:name="eu.siacs.conversations.ui.ShareLocationActivity"
+239-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:124:13-53
+240            android:label="@string/title_activity_share_location" />
+240-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:125:13-66
+241        <activity
+241-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:126:9-128:55
+242            android:name="eu.siacs.conversations.ui.SearchActivity"
+242-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:127:13-46
+243            android:label="@string/search_messages" />
+243-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:128:13-52
+244        <activity
+244-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:129:9-132:64
+245            android:name="eu.siacs.conversations.ui.RecordingActivity"
+245-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:130:13-49
+246            android:configChanges="orientation|screenSize"
+246-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:131:13-59
+247            android:theme="@style/ConversationsTheme.Dialog" />
+247-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:132:13-61
+248        <activity
+248-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:133:9-135:68
+249            android:name="eu.siacs.conversations.ui.ShowLocationActivity"
+249-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:134:13-52
+250            android:label="@string/title_activity_show_location" />
+250-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:135:13-65
+251        <activity
+251-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:136:9-144:20
+252            android:name="eu.siacs.conversations.ui.ConversationActivity"
+252-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:137:13-52
+253            android:exported="true"
+253-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:138:13-36
+254            android:theme="@style/SplashTheme" >
+254-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:139:13-47
+255            <intent-filter>
+255-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:140:13-143:29
+256                <action android:name="android.intent.action.MAIN" />
+256-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:141:17-69
+256-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:141:25-66
+257
+258                <category android:name="android.intent.category.LAUNCHER" />
+258-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:142:17-77
+258-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:142:27-74
+259            </intent-filter>
+260        </activity>
+261        <activity
+261-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:145:9-151:57
+262            android:name="eu.siacs.conversations.ui.ConversationsActivity"
+262-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:146:13-53
+263            android:label="@string/app_name"
+263-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:147:13-45
+264            android:launchMode="singleTask"
+264-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:148:13-44
+265            android:minHeight="300dp"
+265-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:150:13-38
+266            android:minWidth="300dp"
+266-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:149:13-37
+267            android:windowSoftInputMode="stateHidden" />
+267-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:151:13-54
+268        <activity
+268-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:152:9-156:63
+269            android:name="eu.siacs.conversations.ui.ScanActivity"
+269-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:153:13-44
+270            android:screenOrientation="portrait"
+270-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:154:13-49
+271            android:theme="@style/ConversationsTheme.FullScreen"
+271-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:155:13-65
+272            android:windowSoftInputMode="stateAlwaysHidden" />
+272-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:156:13-60
+273        <activity
+273-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:157:9-196:20
+274            android:name="eu.siacs.conversations.ui.UriHandlerActivity"
+274-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:158:13-50
+275            android:exported="true"
+275-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:159:13-36
+276            android:label="@string/app_name" >
+276-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:160:13-45
+277            <intent-filter>
+277-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:161:13-168:29
+278                <action android:name="android.intent.action.VIEW" />
+278-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:64:13-65
+278-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:64:21-62
+279
+280                <category android:name="android.intent.category.DEFAULT" />
+280-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:164:17-76
+280-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:164:27-73
+281                <category android:name="android.intent.category.BROWSABLE" />
+281-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:165:17-78
+281-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:165:27-75
+282
+283                <data android:scheme="xmpp" />
+283-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
+283-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:35:23-47
+284            </intent-filter>
+285            <intent-filter android:autoVerify="true" >
+285-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:169:13-179:29
+285-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:169:28-53
+286                <action android:name="android.intent.action.VIEW" />
+286-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:64:13-65
+286-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:64:21-62
+287
+288                <category android:name="android.intent.category.DEFAULT" />
+288-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:164:17-76
+288-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:164:27-73
+289                <category android:name="android.intent.category.BROWSABLE" />
+289-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:165:17-78
+289-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:165:27-75
+290
+291                <data android:scheme="https" />
 291-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
-291-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:51:23-39
-292                <data android:pathPrefix="/i/" />
+291-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:35:23-47
+292                <data android:host="conversations.im" />
 292-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
-293                <data android:pathPrefix="/j/" />
+292-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:51:23-39
+293                <data android:pathPrefix="/i/" />
 293-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
-294            </intent-filter>
-295            <intent-filter>
-295-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:180:13-187:29
-296                <action android:name="android.intent.action.SENDTO" />
-296-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:181:17-71
-296-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:181:25-68
-297
-298                <category android:name="android.intent.category.DEFAULT" />
-298-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:164:17-76
-298-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:164:27-73
-299
-300                <data android:scheme="imto" />
-300-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
-300-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:35:23-47
-301                <data android:host="jabber" />
+294                <data android:pathPrefix="/j/" />
+294-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
+295            </intent-filter>
+296            <intent-filter>
+296-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:180:13-187:29
+297                <action android:name="android.intent.action.SENDTO" />
+297-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:181:17-71
+297-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:181:25-68
+298
+299                <category android:name="android.intent.category.DEFAULT" />
+299-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:164:17-76
+299-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:164:27-73
+300
+301                <data android:scheme="imto" />
 301-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
-301-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:51:23-39
-302            </intent-filter>
-303            <intent-filter>
-303-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:188:13-195:29
-304                <action android:name="android.intent.action.SENDTO" />
-304-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:181:17-71
-304-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:181:25-68
-305
-306                <category android:name="android.intent.category.DEFAULT" />
-306-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:164:17-76
-306-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:164:27-73
-307
-308                <data android:scheme="imto" />
-308-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
-308-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:35:23-47
-309                <data android:host="xmpp" />
+301-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:35:23-47
+302                <data android:host="jabber" />
+302-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
+302-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:51:23-39
+303            </intent-filter>
+304            <intent-filter>
+304-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:188:13-195:29
+305                <action android:name="android.intent.action.SENDTO" />
+305-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:181:17-71
+305-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:181:25-68
+306
+307                <category android:name="android.intent.category.DEFAULT" />
+307-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:164:17-76
+307-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:164:27-73
+308
+309                <data android:scheme="imto" />
 309-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
-309-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:51:23-39
-310            </intent-filter>
-311        </activity>
-312        <activity
-312-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:197:9-205:20
-313            android:name="eu.siacs.conversations.ui.StartConversationActivity"
-313-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:198:13-57
-314            android:exported="true"
-314-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:199:13-36
-315            android:label="@string/title_activity_start_conversation"
-315-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:200:13-70
-316            android:launchMode="singleTop" >
-316-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:201:13-43
-317            <intent-filter>
-317-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:202:13-204:29
-318                <action android:name="android.intent.action.VIEW" />
-318-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:64:13-65
-318-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:64:21-62
-319            </intent-filter>
-320        </activity>
-321        <activity
-321-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:206:9-214:20
-322            android:name="eu.siacs.conversations.ui.SettingsActivity"
-322-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:207:13-48
-323            android:exported="true"
-323-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:208:13-36
-324            android:label="@string/title_activity_settings" >
-324-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:209:13-60
-325            <intent-filter>
-325-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:210:13-213:29
-326                <action android:name="android.intent.action.MAIN" />
-326-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:141:17-69
-326-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:141:25-66
-327
-328                <category android:name="android.intent.category.NOTIFICATION_PREFERENCES" />
-328-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:212:17-93
-328-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:212:27-90
-329            </intent-filter>
-330        </activity>
-331        <activity
-331-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:215:9-217:69
-332            android:name="eu.siacs.conversations.ui.ChooseContactActivity"
-332-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:216:13-53
-333            android:label="@string/title_activity_choose_contact" />
-333-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:217:13-66
-334        <activity
-334-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:218:9-220:65
-335            android:name="eu.siacs.conversations.ui.BlocklistActivity"
-335-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:219:13-49
-336            android:label="@string/title_activity_block_list" />
-336-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:220:13-62
-337        <activity
-337-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:221:9-223:65
-338            android:name="eu.siacs.conversations.ui.ChangePasswordActivity"
-338-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:222:13-54
-339            android:label="@string/change_password_on_server" />
-339-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:223:13-62
-340        <activity
-340-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:224:9-235:20
-341            android:name="eu.siacs.conversations.ui.ChooseAccountForProfilePictureActivity"
-341-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:225:13-70
-342            android:enabled="false"
-342-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:226:13-36
-343            android:exported="true"
-343-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:227:13-36
-344            android:label="@string/choose_account" >
-344-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:228:13-51
-345            <intent-filter android:label="@string/set_profile_picture" >
-345-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:229:13-234:29
-345-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:229:28-71
-346                <action android:name="android.intent.action.ATTACH_DATA" />
-346-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:230:17-76
-346-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:230:25-73
-347
-348                <category android:name="android.intent.category.DEFAULT" />
-348-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:164:17-76
-348-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:164:27-73
-349
-350                <data android:mimeType="image/*" />
-350-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
-350-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:19-53
-351            </intent-filter>
-352        </activity>
-353        <activity
-353-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:236:9-239:46
-354            android:name="eu.siacs.conversations.ui.ShareViaAccountActivity"
-354-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:237:13-55
-355            android:label="@string/title_activity_share_via_account"
-355-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:238:13-69
-356            android:launchMode="singleTop" />
-356-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:239:13-43
-357        <activity
-357-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:240:9-244:70
-358            android:name="eu.siacs.conversations.ui.EditAccountActivity"
-358-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:241:13-51
-359            android:exported="false"
-359-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:242:13-37
-360            android:launchMode="singleTop"
-360-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:243:13-43
-361            android:windowSoftInputMode="stateHidden|adjustResize" />
-361-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:244:13-67
-362        <activity
-362-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:245:9-248:57
-363            android:name="eu.siacs.conversations.ui.ConferenceDetailsActivity"
-363-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:246:13-57
-364            android:label="@string/action_muc_details"
-364-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:247:13-55
-365            android:windowSoftInputMode="stateHidden" />
-365-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:248:13-54
-366        <activity
-366-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:249:9-251:57
-367            android:name="eu.siacs.conversations.ui.ContactDetailsActivity"
-367-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:250:13-54
-368            android:windowSoftInputMode="stateHidden" />
-368-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:251:13-54
-369        <activity
-369-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:252:9-255:57
-370            android:name="eu.siacs.conversations.ui.PublishProfilePictureActivity"
-370-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:253:13-61
-371            android:label="@string/mgmt_account_publish_avatar"
-371-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:254:13-64
-372            android:windowSoftInputMode="stateHidden" />
-372-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:255:13-54
-373        <activity
-373-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:256:9-258:57
-374            android:name="eu.siacs.conversations.ui.PublishGroupChatProfilePictureActivity"
-374-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:257:13-70
-375            android:label="@string/group_chat_avatar" />
-375-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:258:13-54
-376        <activity
-376-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:259:9-287:20
-377            android:name="eu.siacs.conversations.ui.ShareWithActivity"
-377-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:260:13-49
-378            android:exported="true"
-378-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:261:13-36
-379            android:label="@string/app_name"
-379-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:262:13-45
-380            android:launchMode="singleTop" >
-380-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:263:13-43
-381            <intent-filter>
-381-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:265:13-272:29
-382                <action android:name="android.intent.action.SEND" />
-382-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:266:17-69
-382-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:266:25-66
-383                <action android:name="android.intent.action.SEND_MULTIPLE" />
-383-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:267:17-78
-383-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:267:25-75
-384
-385                <category android:name="android.intent.category.DEFAULT" />
-385-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:164:17-76
-385-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:164:27-73
-386
-387                <data android:mimeType="text/plain" />
-387-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
-387-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:19-53
-388            </intent-filter>
-389            <intent-filter>
-389-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:274:13-281:29
-390                <action android:name="android.intent.action.SEND" />
-390-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:266:17-69
-390-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:266:25-66
-391                <action android:name="android.intent.action.SEND_MULTIPLE" />
-391-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:267:17-78
-391-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:267:25-75
-392
-393                <category android:name="android.intent.category.DEFAULT" />
-393-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:164:17-76
-393-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:164:27-73
-394
-395                <data android:mimeType="*/*" />
-395-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
-395-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:19-53
-396            </intent-filter>
-397
-398            <!-- the value here needs to be the full class name; independent of the configured applicationId -->
-399            <meta-data
-399-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:284:13-286:95
-400                android:name="android.service.chooser.chooser_target_service"
-400-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:285:17-78
-401                android:value="eu.siacs.conversations.services.ContactChooserTargetService" />
-401-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:286:17-92
-402        </activity>
-403        <activity
-403-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:288:9-291:63
-404            android:name="eu.siacs.conversations.ui.TrustKeysActivity"
-404-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:289:13-49
-405            android:label="@string/trust_omemo_fingerprints"
-405-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:290:13-61
-406            android:windowSoftInputMode="stateAlwaysHidden" />
-406-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:291:13-60
-407        <activity
-407-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:292:9-298:20
-408            android:name="eu.siacs.conversations.ui.AboutActivity"
-408-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:293:13-45
-409            android:parentActivityName="eu.siacs.conversations.ui.SettingsActivity" >
-409-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:294:13-62
-410            <meta-data
-410-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:295:13-297:78
-411                android:name="android.support.PARENT_ACTIVITY"
-411-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:296:17-63
-412                android:value="eu.siacs.conversations.ui.SettingsActivity" />
-412-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:297:17-75
-413        </activity>
-414        <activity
-414-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:299:9-301:59
-415            android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
-415-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:300:13-76
-416            android:theme="@style/Base.Theme.AppCompat" />
-416-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:301:13-56
-417        <activity android:name="eu.siacs.conversations.ui.MemorizingActivity" />
-417-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:302:9-59
-417-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:302:19-56
-418        <activity
-418-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:304:9-306:53
-419            android:name="eu.siacs.conversations.ui.MediaBrowserActivity"
-419-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:305:13-52
-420            android:label="@string/media_browser" />
-420-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:306:13-50
-421
-422        <service android:name="eu.siacs.conversations.services.ExportBackupService" />
-422-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:308:9-65
-422-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:308:18-62
-423        <service android:name="eu.siacs.conversations.services.ImportBackupService" />
-423-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:309:9-65
-423-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:309:18-62
-424        <service
-424-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:310:9-317:19
-425            android:name="eu.siacs.conversations.services.ContactChooserTargetService"
-425-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:311:13-65
-426            android:exported="true"
-426-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:312:13-36
-427            android:permission="android.permission.BIND_CHOOSER_TARGET_SERVICE" >
-427-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:313:13-80
-428            <intent-filter>
-428-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:314:13-316:29
-429                <action android:name="android.service.chooser.ChooserTargetService" />
-429-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:315:17-87
-429-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:315:25-84
-430            </intent-filter>
-431        </service>
-432
-433        <provider
-434            android:name="androidx.core.content.FileProvider"
-435            android:authorities="eu.siacs.conversations.files"
-436            android:exported="false"
-437            android:grantUriPermissions="true" >
-438            <meta-data
-439                android:name="android.support.FILE_PROVIDER_PATHS"
-440                android:resource="@xml/file_paths" />
-441        </provider>
-442        <provider
-443            android:name="eu.siacs.conversations.services.BarcodeProvider"
-444            android:authorities="eu.siacs.conversations.barcodes"
-445            android:exported="false"
-446            android:grantUriPermissions="true" />
-447
-448        <activity
-448-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:334:9-341:20
-449            android:name="eu.siacs.conversations.ui.ShortcutActivity"
-449-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:335:13-48
-450            android:exported="true"
-450-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:336:13-36
-451            android:label="@string/contact" >
-451-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:337:13-44
-452            <intent-filter>
-452-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:338:13-340:29
-453                <action android:name="android.intent.action.CREATE_SHORTCUT" />
-453-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:339:17-80
-453-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:339:25-77
-454            </intent-filter>
-455        </activity>
-456        <activity
-456-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:342:9-344:58
-457            android:name="eu.siacs.conversations.ui.MucUsersActivity"
-457-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:343:13-48
-458            android:label="@string/group_chat_members" />
-458-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:344:13-55
-459        <activity
-459-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:345:9-347:57
-460            android:name="eu.siacs.conversations.ui.ChannelDiscoveryActivity"
-460-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:346:13-56
-461            android:label="@string/discover_channels" />
-461-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:347:13-54
-462        <activity
-462-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:348:9-352:55
-463            android:name="eu.siacs.conversations.ui.RtpSessionActivity"
-463-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:349:13-50
-464            android:autoRemoveFromRecents="true"
-464-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:350:13-49
-465            android:launchMode="singleInstance"
-465-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:351:13-48
-466            android:supportsPictureInPicture="true" />
-466-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:352:13-52
-467
-468        <provider
-468-->[androidx.emoji2:emoji2-bundled:1.2.0] /root/.gradle/caches/transforms-3/d7eb9dbbaf3250fb1b65c23f69aefbdf/transformed/jetified-emoji2-bundled-1.2.0/AndroidManifest.xml:24:9-32:20
-469            android:name="androidx.startup.InitializationProvider"
-469-->[androidx.emoji2:emoji2-bundled:1.2.0] /root/.gradle/caches/transforms-3/d7eb9dbbaf3250fb1b65c23f69aefbdf/transformed/jetified-emoji2-bundled-1.2.0/AndroidManifest.xml:25:13-67
-470            android:authorities="eu.siacs.conversations.androidx-startup"
-470-->[androidx.emoji2:emoji2-bundled:1.2.0] /root/.gradle/caches/transforms-3/d7eb9dbbaf3250fb1b65c23f69aefbdf/transformed/jetified-emoji2-bundled-1.2.0/AndroidManifest.xml:26:13-68
-471            android:exported="false" >
-471-->[androidx.emoji2:emoji2-bundled:1.2.0] /root/.gradle/caches/transforms-3/d7eb9dbbaf3250fb1b65c23f69aefbdf/transformed/jetified-emoji2-bundled-1.2.0/AndroidManifest.xml:27:13-37
-472            <meta-data
-472-->[androidx.lifecycle:lifecycle-process:2.4.1] /root/.gradle/caches/transforms-3/1d1173f99a1313055c26367e9296308a/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
-473                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-473-->[androidx.lifecycle:lifecycle-process:2.4.1] /root/.gradle/caches/transforms-3/1d1173f99a1313055c26367e9296308a/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
-474                android:value="androidx.startup" />
-474-->[androidx.lifecycle:lifecycle-process:2.4.1] /root/.gradle/caches/transforms-3/1d1173f99a1313055c26367e9296308a/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
-475        </provider>
-476    </application>
-477
-478</manifest>
+309-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:35:23-47
+310                <data android:host="xmpp" />
+310-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
+310-->/home/m/Documents/chats/191023/Conversations/src/conversations/AndroidManifest.xml:51:23-39
+311            </intent-filter>
+312        </activity>
+313        <activity
+313-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:197:9-205:20
+314            android:name="eu.siacs.conversations.ui.StartConversationActivity"
+314-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:198:13-57
+315            android:exported="true"
+315-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:199:13-36
+316            android:label="@string/title_activity_start_conversation"
+316-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:200:13-70
+317            android:launchMode="singleTop" >
+317-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:201:13-43
+318            <intent-filter>
+318-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:202:13-204:29
+319                <action android:name="android.intent.action.VIEW" />
+319-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:64:13-65
+319-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:64:21-62
+320            </intent-filter>
+321        </activity>
+322        <activity
+322-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:206:9-214:20
+323            android:name="eu.siacs.conversations.ui.SettingsActivity"
+323-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:207:13-48
+324            android:exported="true"
+324-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:208:13-36
+325            android:label="@string/title_activity_settings" >
+325-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:209:13-60
+326            <intent-filter>
+326-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:210:13-213:29
+327                <action android:name="android.intent.action.MAIN" />
+327-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:141:17-69
+327-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:141:25-66
+328
+329                <category android:name="android.intent.category.NOTIFICATION_PREFERENCES" />
+329-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:212:17-93
+329-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:212:27-90
+330            </intent-filter>
+331        </activity>
+332        <activity
+332-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:215:9-217:69
+333            android:name="eu.siacs.conversations.ui.ChooseContactActivity"
+333-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:216:13-53
+334            android:label="@string/title_activity_choose_contact" />
+334-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:217:13-66
+335        <activity
+335-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:218:9-220:65
+336            android:name="eu.siacs.conversations.ui.BlocklistActivity"
+336-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:219:13-49
+337            android:label="@string/title_activity_block_list" />
+337-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:220:13-62
+338        <activity
+338-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:221:9-223:65
+339            android:name="eu.siacs.conversations.ui.ChangePasswordActivity"
+339-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:222:13-54
+340            android:label="@string/change_password_on_server" />
+340-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:223:13-62
+341        <activity
+341-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:224:9-235:20
+342            android:name="eu.siacs.conversations.ui.ChooseAccountForProfilePictureActivity"
+342-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:225:13-70
+343            android:enabled="false"
+343-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:226:13-36
+344            android:exported="true"
+344-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:227:13-36
+345            android:label="@string/choose_account" >
+345-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:228:13-51
+346            <intent-filter android:label="@string/set_profile_picture" >
+346-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:229:13-234:29
+346-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:229:28-71
+347                <action android:name="android.intent.action.ATTACH_DATA" />
+347-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:230:17-76
+347-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:230:25-73
+348
+349                <category android:name="android.intent.category.DEFAULT" />
+349-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:164:17-76
+349-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:164:27-73
+350
+351                <data android:mimeType="image/*" />
+351-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
+351-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:19-53
+352            </intent-filter>
+353        </activity>
+354        <activity
+354-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:236:9-239:46
+355            android:name="eu.siacs.conversations.ui.ShareViaAccountActivity"
+355-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:237:13-55
+356            android:label="@string/title_activity_share_via_account"
+356-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:238:13-69
+357            android:launchMode="singleTop" />
+357-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:239:13-43
+358        <activity
+358-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:240:9-244:70
+359            android:name="eu.siacs.conversations.ui.EditAccountActivity"
+359-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:241:13-51
+360            android:exported="false"
+360-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:242:13-37
+361            android:launchMode="singleTop"
+361-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:243:13-43
+362            android:windowSoftInputMode="stateHidden|adjustResize" />
+362-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:244:13-67
+363        <activity
+363-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:245:9-248:57
+364            android:name="eu.siacs.conversations.ui.ConferenceDetailsActivity"
+364-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:246:13-57
+365            android:label="@string/action_muc_details"
+365-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:247:13-55
+366            android:windowSoftInputMode="stateHidden" />
+366-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:248:13-54
+367        <activity
+367-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:249:9-251:57
+368            android:name="eu.siacs.conversations.ui.ContactDetailsActivity"
+368-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:250:13-54
+369            android:windowSoftInputMode="stateHidden" />
+369-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:251:13-54
+370        <activity
+370-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:252:9-255:57
+371            android:name="eu.siacs.conversations.ui.PublishProfilePictureActivity"
+371-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:253:13-61
+372            android:label="@string/mgmt_account_publish_avatar"
+372-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:254:13-64
+373            android:windowSoftInputMode="stateHidden" />
+373-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:255:13-54
+374        <activity
+374-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:256:9-258:57
+375            android:name="eu.siacs.conversations.ui.PublishGroupChatProfilePictureActivity"
+375-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:257:13-70
+376            android:label="@string/group_chat_avatar" />
+376-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:258:13-54
+377        <activity
+377-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:259:9-287:20
+378            android:name="eu.siacs.conversations.ui.ShareWithActivity"
+378-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:260:13-49
+379            android:exported="true"
+379-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:261:13-36
+380            android:label="@string/app_name"
+380-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:262:13-45
+381            android:launchMode="singleTop" >
+381-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:263:13-43
+382            <intent-filter>
+382-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:265:13-272:29
+383                <action android:name="android.intent.action.SEND" />
+383-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:266:17-69
+383-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:266:25-66
+384                <action android:name="android.intent.action.SEND_MULTIPLE" />
+384-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:267:17-78
+384-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:267:25-75
+385
+386                <category android:name="android.intent.category.DEFAULT" />
+386-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:164:17-76
+386-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:164:27-73
+387
+388                <data android:mimeType="text/plain" />
+388-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
+388-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:19-53
+389            </intent-filter>
+390            <intent-filter>
+390-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:274:13-281:29
+391                <action android:name="android.intent.action.SEND" />
+391-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:266:17-69
+391-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:266:25-66
+392                <action android:name="android.intent.action.SEND_MULTIPLE" />
+392-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:267:17-78
+392-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:267:25-75
+393
+394                <category android:name="android.intent.category.DEFAULT" />
+394-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:164:17-76
+394-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:164:27-73
+395
+396                <data android:mimeType="*/*" />
+396-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:13-56
+396-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:65:19-53
+397            </intent-filter>
+398
+399            <!-- the value here needs to be the full class name; independent of the configured applicationId -->
+400            <meta-data
+400-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:284:13-286:95
+401                android:name="android.service.chooser.chooser_target_service"
+401-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:285:17-78
+402                android:value="eu.siacs.conversations.services.ContactChooserTargetService" />
+402-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:286:17-92
+403        </activity>
+404        <activity
+404-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:288:9-291:63
+405            android:name="eu.siacs.conversations.ui.TrustKeysActivity"
+405-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:289:13-49
+406            android:label="@string/trust_omemo_fingerprints"
+406-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:290:13-61
+407            android:windowSoftInputMode="stateAlwaysHidden" />
+407-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:291:13-60
+408        <activity
+408-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:292:9-298:20
+409            android:name="eu.siacs.conversations.ui.AboutActivity"
+409-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:293:13-45
+410            android:parentActivityName="eu.siacs.conversations.ui.SettingsActivity" >
+410-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:294:13-62
+411            <meta-data
+411-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:295:13-297:78
+412                android:name="android.support.PARENT_ACTIVITY"
+412-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:296:17-63
+413                android:value="eu.siacs.conversations.ui.SettingsActivity" />
+413-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:297:17-75
+414        </activity>
+415        <activity
+415-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:299:9-301:59
+416            android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
+416-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:300:13-76
+417            android:theme="@style/Base.Theme.AppCompat" />
+417-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:301:13-56
+418        <activity android:name="eu.siacs.conversations.ui.MemorizingActivity" />
+418-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:302:9-59
+418-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:302:19-56
+419        <activity
+419-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:304:9-306:53
+420            android:name="eu.siacs.conversations.ui.MediaBrowserActivity"
+420-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:305:13-52
+421            android:label="@string/media_browser" />
+421-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:306:13-50
+422
+423        <service android:name="eu.siacs.conversations.services.ExportBackupService" />
+423-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:308:9-65
+423-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:308:18-62
+424        <service android:name="eu.siacs.conversations.services.ImportBackupService" />
+424-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:309:9-65
+424-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:309:18-62
+425        <service
+425-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:310:9-317:19
+426            android:name="eu.siacs.conversations.services.ContactChooserTargetService"
+426-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:311:13-65
+427            android:exported="true"
+427-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:312:13-36
+428            android:permission="android.permission.BIND_CHOOSER_TARGET_SERVICE" >
+428-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:313:13-80
+429            <intent-filter>
+429-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:314:13-316:29
+430                <action android:name="android.service.chooser.ChooserTargetService" />
+430-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:315:17-87
+430-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:315:25-84
+431            </intent-filter>
+432        </service>
+433
+434        <provider
+435            android:name="androidx.core.content.FileProvider"
+436            android:authorities="eu.siacs.conversations.files"
+437            android:exported="false"
+438            android:grantUriPermissions="true" >
+439            <meta-data
+440                android:name="android.support.FILE_PROVIDER_PATHS"
+441                android:resource="@xml/file_paths" />
+442        </provider>
+443        <provider
+444            android:name="eu.siacs.conversations.services.BarcodeProvider"
+445            android:authorities="eu.siacs.conversations.barcodes"
+446            android:exported="false"
+447            android:grantUriPermissions="true" />
+448
+449        <activity
+449-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:334:9-341:20
+450            android:name="eu.siacs.conversations.ui.ShortcutActivity"
+450-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:335:13-48
+451            android:exported="true"
+451-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:336:13-36
+452            android:label="@string/contact" >
+452-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:337:13-44
+453            <intent-filter>
+453-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:338:13-340:29
+454                <action android:name="android.intent.action.CREATE_SHORTCUT" />
+454-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:339:17-80
+454-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:339:25-77
+455            </intent-filter>
+456        </activity>
+457        <activity
+457-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:342:9-344:58
+458            android:name="eu.siacs.conversations.ui.MucUsersActivity"
+458-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:343:13-48
+459            android:label="@string/group_chat_members" />
+459-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:344:13-55
+460        <activity
+460-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:345:9-347:57
+461            android:name="eu.siacs.conversations.ui.ChannelDiscoveryActivity"
+461-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:346:13-56
+462            android:label="@string/discover_channels" />
+462-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:347:13-54
+463        <activity
+463-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:348:9-352:55
+464            android:name="eu.siacs.conversations.ui.RtpSessionActivity"
+464-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:349:13-50
+465            android:autoRemoveFromRecents="true"
+465-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:350:13-49
+466            android:launchMode="singleInstance"
+466-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:351:13-48
+467            android:supportsPictureInPicture="true" />
+467-->/home/m/Documents/chats/191023/Conversations/src/main/AndroidManifest.xml:352:13-52
+468
+469        <provider
+469-->[androidx.emoji2:emoji2-bundled:1.2.0] /root/.gradle/caches/transforms-3/d7eb9dbbaf3250fb1b65c23f69aefbdf/transformed/jetified-emoji2-bundled-1.2.0/AndroidManifest.xml:24:9-32:20
+470            android:name="androidx.startup.InitializationProvider"
+470-->[androidx.emoji2:emoji2-bundled:1.2.0] /root/.gradle/caches/transforms-3/d7eb9dbbaf3250fb1b65c23f69aefbdf/transformed/jetified-emoji2-bundled-1.2.0/AndroidManifest.xml:25:13-67
+471            android:authorities="eu.siacs.conversations.androidx-startup"
+471-->[androidx.emoji2:emoji2-bundled:1.2.0] /root/.gradle/caches/transforms-3/d7eb9dbbaf3250fb1b65c23f69aefbdf/transformed/jetified-emoji2-bundled-1.2.0/AndroidManifest.xml:26:13-68
+472            android:exported="false" >
+472-->[androidx.emoji2:emoji2-bundled:1.2.0] /root/.gradle/caches/transforms-3/d7eb9dbbaf3250fb1b65c23f69aefbdf/transformed/jetified-emoji2-bundled-1.2.0/AndroidManifest.xml:27:13-37
+473            <meta-data
+473-->[androidx.lifecycle:lifecycle-process:2.4.1] /root/.gradle/caches/transforms-3/1d1173f99a1313055c26367e9296308a/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+474                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+474-->[androidx.lifecycle:lifecycle-process:2.4.1] /root/.gradle/caches/transforms-3/1d1173f99a1313055c26367e9296308a/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+475                android:value="androidx.startup" />
+475-->[androidx.lifecycle:lifecycle-process:2.4.1] /root/.gradle/caches/transforms-3/1d1173f99a1313055c26367e9296308a/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+476        </provider>
+477    </application>
+478
+479</manifest>

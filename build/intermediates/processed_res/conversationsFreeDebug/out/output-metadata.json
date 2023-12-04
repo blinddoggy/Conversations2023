@@ -8,27 +8,6 @@
   "variantName": "conversationsFreeDebug",
   "elements": [
     {
-      "type": "UNIVERSAL",
-      "filters": [],
-      "attributes": [],
-      "versionCode": 4205300,
-      "versionName": "2.12.2+free",
-      "outputFile": "resources-conversationsFreeUniversalDebug.ap_"
-    },
-    {
-      "type": "ONE_OF_MANY",
-      "filters": [
-        {
-          "filterType": "ABI",
-          "value": "x86"
-        }
-      ],
-      "attributes": [],
-      "versionCode": 4205302,
-      "versionName": "2.12.2+free",
-      "outputFile": "resources-conversationsFreeX86Debug.ap_"
-    },
-    {
       "type": "ONE_OF_MANY",
       "filters": [
         {
@@ -40,32 +19,6 @@
       "versionCode": 4205303,
       "versionName": "2.12.2+free",
       "outputFile": "resources-conversationsFreeX86_64Debug.ap_"
-    },
-    {
-      "type": "ONE_OF_MANY",
-      "filters": [
-        {
-          "filterType": "ABI",
-          "value": "armeabi-v7a"
-        }
-      ],
-      "attributes": [],
-      "versionCode": 4205301,
-      "versionName": "2.12.2+free",
-      "outputFile": "resources-conversationsFreeArmeabi-v7aDebug.ap_"
-    },
-    {
-      "type": "ONE_OF_MANY",
-      "filters": [
-        {
-          "filterType": "ABI",
-          "value": "arm64-v8a"
-        }
-      ],
-      "attributes": [],
-      "versionCode": 4205304,
-      "versionName": "2.12.2+free",
-      "outputFile": "resources-conversationsFreeArm64-v8aDebug.ap_"
     }
   ],
   "elementType": "File"
